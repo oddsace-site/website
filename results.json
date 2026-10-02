@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-02T13:10:38Z",
- "updated": "Updated Fri, 2 Oct, 8:52 pm Sydney time.",
+ "generated_utc": "2026-10-02T14:26:55Z",
+ "updated": "Updated Fri, 2 Oct, 11:48 pm Sydney time.",
  "rows": [
   {
    "date": "Fri, 2 Oct",
@@ -127,6 +127,16 @@
    "date": "Fri, 2 Oct",
    "league": "NFL",
    "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Blake Whiteheart Under 0.5 receptions",
+   "book": "TAB",
+   "price": "2.20",
+   "final": "CLE 27, PIT 24",
+   "result": "won"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
    "alert": "Deshaun Watson Under 6.5 rush attempts",
    "book": "TAB",
    "price": "1.87",
@@ -195,10 +205,10 @@
   }
  ],
  "speed": {
-  "tracked": 2,
-  "median": null,
-  "longest": 45,
-  "at30": null,
+  "tracked": 8,
+  "median": 77,
+  "longest": 104,
+  "at30": 0.625,
   "closes": 16,
   "dropped": 13,
   "clvClosed": 19,
