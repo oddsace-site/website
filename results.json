@@ -1,0 +1,208 @@
+{
+ "v": 1,
+ "generated_utc": "2026-10-02T12:34:20Z",
+ "updated": "Updated Fri, 2 Oct, 8:52 pm Sydney time.",
+ "rows": [
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NHL",
+   "game": "Edmonton Oilers @ Vancouver Canucks",
+   "alert": "Alex Formenton (anytime goal)",
+   "book": "Neds",
+   "price": "10.50",
+   "final": "EDM 9, VAN 7",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NHL",
+   "game": "Chicago Blackhawks @ Utah Mammoth",
+   "alert": "Oliver Moore (anytime goal)",
+   "book": "Neds",
+   "price": "8.25",
+   "final": "UTA 6, CHI 0",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Jerry Jeudy Under 15.5 receiving yards",
+   "book": "TAB",
+   "price": "1.90",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Roman Wilson Over 2.5 receptions",
+   "book": "TAB",
+   "price": "2.30",
+   "final": "CLE 27, PIT 24",
+   "result": "won"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Roman Wilson Under 2.5 receptions",
+   "book": "PointsBet",
+   "price": "1.80",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Aaron Rodgers Over 34.5 pass attempts (TAB '35+')",
+   "book": "TAB",
+   "price": "2.10",
+   "final": "CLE 27, PIT 24",
+   "result": "won"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Roman Wilson Under 14.5 longest reception",
+   "book": "TAB",
+   "price": "1.90",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Michael Pittman Over 3.5 receptions (TAB '4+')",
+   "book": "TAB",
+   "price": "2.35",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "DK Metcalf Under 22.5 longest reception",
+   "book": "TAB",
+   "price": "1.80",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Darnell Washington Under 20.5 receiving yards",
+   "book": "PointsBet",
+   "price": "1.83",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Deshaun Watson Under 33.5 longest completion",
+   "book": "TAB",
+   "price": "1.90",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Deshaun Watson Under 28.5 pass attempts",
+   "book": "TAB",
+   "price": "2.10",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Deshaun Watson Under 6.5 rush attempts",
+   "book": "TAB",
+   "price": "1.87",
+   "final": "CLE 27, PIT 24",
+   "result": "lost"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Pat Freiermuth Under 3.5 receptions",
+   "book": "PointsBet",
+   "price": "1.95",
+   "final": "CLE 27, PIT 24",
+   "result": "won"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NFL",
+   "game": "Pittsburgh Steelers @ Cleveland Browns",
+   "alert": "Aaron Rodgers Over 33.5 pass attempts",
+   "book": "TAB",
+   "price": "1.90",
+   "final": "CLE 27, PIT 24",
+   "result": "won"
+  },
+  {
+   "date": "Fri, 2 Oct",
+   "league": "NHL",
+   "game": "Tampa Bay Lightning @ New York Rangers",
+   "alert": "Conor Geekie (anytime goal)",
+   "book": "Neds",
+   "price": "9.25",
+   "final": "NYR 5, TBL 1",
+   "result": "lost"
+  },
+  {
+   "date": "Thu, 1 Oct",
+   "league": "MLB",
+   "game": "Chicago Cubs @ San Diego Padres",
+   "alert": "Kevin Gausman Over 4.5 hits allowed",
+   "book": "TAB",
+   "price": "2.60",
+   "final": "SD 4, CHC 1",
+   "result": "won"
+  },
+  {
+   "date": "Wed, 30 Sept",
+   "league": "MLB",
+   "game": "Boston Red Sox @ New York Yankees",
+   "alert": "Payton Tolle Under 4.5 hits allowed",
+   "book": "TAB",
+   "price": "1.85",
+   "final": "NYY 9, BOS 0",
+   "result": "lost"
+  },
+  {
+   "date": "Wed, 30 Sept",
+   "league": "MLB",
+   "game": "Boston Red Sox @ New York Yankees",
+   "alert": "Payton Tolle Under 17.5 outs recorded",
+   "book": "TAB",
+   "price": "1.75",
+   "final": "NYY 9, BOS 0",
+   "result": "won"
+  }
+ ],
+ "speed": {
+  "tracked": 2,
+  "median": null,
+  "longest": 45,
+  "at30": null,
+  "closes": 16,
+  "dropped": 13,
+  "clvClosed": 19,
+  "clvBeat": 17,
+  "clvAvg": 12.4
+ }
+}
