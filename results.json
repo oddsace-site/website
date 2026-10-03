@@ -1,8 +1,68 @@
 {
  "v": 1,
- "generated_utc": "2026-10-03T21:21:33Z",
- "updated": "Updated Sun, 4 Oct, 7:47 am Sydney time.",
+ "generated_utc": "2026-10-03T22:21:51Z",
+ "updated": "Updated Sun, 4 Oct, 8:47 am Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "MLB",
+   "game": "Chicago White Sox @ Cleveland Guardians",
+   "alert": "Under 6.5",
+   "book": "TAB",
+   "price": "2.10",
+   "final": "CWS 3, CLE 0",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Western Michigan @ Buffalo",
+   "alert": "Under 44",
+   "book": "Betfair",
+   "price": "2.20",
+   "final": "Western Michigan 20, Buffalo 17",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Alabama @ Mississippi State",
+   "alert": "Over 61",
+   "book": "Betfair",
+   "price": "2.05",
+   "final": "Alabama 56, Mississippi State 23",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Michigan @ Minnesota",
+   "alert": "Under 40",
+   "book": "Betfair",
+   "price": "2.18",
+   "final": "Minnesota 20, Michigan 14",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Notre Dame @ North Carolina",
+   "alert": "Under 46",
+   "book": "Betfair",
+   "price": "2.05",
+   "final": "Notre Dame 37, North Carolina 26",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Stanford @ Wake Forest",
+   "alert": "Over 55.5",
+   "book": "Unibet",
+   "price": "2.12",
+   "final": "Wake Forest 57, Stanford 3",
+   "result": "won"
+  },
   {
    "date": "Sat, 3 Oct",
    "league": "NHL",
@@ -245,10 +305,10 @@
   }
  ],
  "speed": {
-  "tracked": 75,
-  "median": 147,
+  "tracked": 78,
+  "median": 148,
   "longest": 705,
-  "at30": 0.809,
+  "at30": 0.814,
   "closes": 31,
   "dropped": 24,
   "clvClosed": 27,
