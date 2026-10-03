@@ -1,8 +1,18 @@
 {
  "v": 1,
- "generated_utc": "2026-10-03T22:21:51Z",
- "updated": "Updated Sun, 4 Oct, 8:47 am Sydney time.",
+ "generated_utc": "2026-10-03T23:21:13Z",
+ "updated": "Updated Sun, 4 Oct, 9:46 am Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Toledo @ Ball State",
+   "alert": "Over 52.5",
+   "book": "Betfair",
+   "price": "1.98",
+   "final": "Toledo 39, Ball State 24",
+   "result": "won"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "MLB",
@@ -305,12 +315,12 @@
   }
  ],
  "speed": {
-  "tracked": 78,
+  "tracked": 87,
   "median": 148,
   "longest": 705,
-  "at30": 0.814,
-  "closes": 31,
-  "dropped": 24,
+  "at30": 0.812,
+  "closes": 36,
+  "dropped": 28,
   "clvClosed": 27,
   "clvBeat": 22,
   "clvAvg": 9.1
