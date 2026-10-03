@@ -1,8 +1,18 @@
 {
  "v": 1,
- "generated_utc": "2026-10-03T03:21:15Z",
- "updated": "Updated Sat, 3 Oct, 12:47 pm Sydney time.",
+ "generated_utc": "2026-10-03T04:22:07Z",
+ "updated": "Updated Sat, 3 Oct, 1:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 3 Oct",
+   "league": "College football",
+   "game": "Liberty @ Delaware",
+   "alert": "Liberty -7.5",
+   "book": "Betfair",
+   "price": "2.15",
+   "final": "Liberty 30, Delaware 14",
+   "result": "won"
+  },
   {
    "date": "Fri, 2 Oct",
    "league": "NHL",
