@@ -1,8 +1,38 @@
 {
  "v": 1,
- "generated_utc": "2026-10-03T04:22:07Z",
- "updated": "Updated Sat, 3 Oct, 1:48 pm Sydney time.",
+ "generated_utc": "2026-10-03T05:21:15Z",
+ "updated": "Updated Sat, 3 Oct, 2:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 3 Oct",
+   "league": "NHL",
+   "game": "Boston Bruins @ Winnipeg Jets",
+   "alert": "Viggo Bjorck (anytime goal)",
+   "book": "Neds",
+   "price": "19.00",
+   "final": "BOS 4, WPG 3",
+   "result": "lost"
+  },
+  {
+   "date": "Sat, 3 Oct",
+   "league": "College football",
+   "game": "Penn State @ Northwestern",
+   "alert": "Under 44",
+   "book": "Betfair",
+   "price": "2.18",
+   "final": "Northwestern 34, Penn State 13",
+   "result": "lost"
+  },
+  {
+   "date": "Sat, 3 Oct",
+   "league": "College football",
+   "game": "Penn State @ Northwestern",
+   "alert": "Penn State -3.5",
+   "book": "Betfair",
+   "price": "2.15",
+   "final": "Northwestern 34, Penn State 13",
+   "result": "lost"
+  },
   {
    "date": "Sat, 3 Oct",
    "league": "College football",
@@ -215,10 +245,10 @@
   }
  ],
  "speed": {
-  "tracked": 43,
-  "median": 121,
+  "tracked": 44,
+  "median": 147,
   "longest": 695,
-  "at30": 0.812,
+  "at30": 0.814,
   "closes": 16,
   "dropped": 13,
   "clvClosed": 19,
