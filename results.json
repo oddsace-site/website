@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T11:26:13Z",
- "updated": "Updated Sun, 4 Oct, 9:47 pm Sydney time.",
+ "generated_utc": "2026-10-04T12:21:18Z",
+ "updated": "Updated Sun, 4 Oct, 11:00 pm Sydney time.",
  "rows": [
   {
    "date": "Sun, 4 Oct",
@@ -10,6 +10,8 @@
    "alert": "Baylor +2",
    "book": "Betfair",
    "price": "2.26",
+   "us": "2.25",
+   "gap": "+0.4%",
    "final": "BAY 55, ASU 19",
    "result": "won"
   },
@@ -20,6 +22,8 @@
    "alert": "Under 46.5",
    "book": "TAB",
    "price": "2.25",
+   "us": "2.22",
+   "gap": "+1.3%",
    "final": "BAY 55, ASU 19",
    "result": "lost"
   },
@@ -30,6 +34,8 @@
    "alert": "Alex Turcotte (anytime goal)",
    "book": "Neds",
    "price": "11.50",
+   "us": "5.66",
+   "gap": "+103.3%",
    "final": "SJS 5, LAK 4",
    "result": "lost"
   },
@@ -40,6 +46,8 @@
    "alert": "T.J. Hughes (anytime goal)",
    "book": "Neds",
    "price": "23.00",
+   "us": "5.12",
+   "gap": "+348.9%",
    "final": "COL 6, STL 1",
    "result": "lost"
   },
@@ -50,6 +58,8 @@
    "alert": "Louisiana -7",
    "book": "Betfair",
    "price": "2.22",
+   "us": "2.17",
+   "gap": "+2.4%",
    "final": "Louisiana 23, Arkansas State 20",
    "result": "lost"
   },
@@ -60,6 +70,8 @@
    "alert": "Arkansas State +4",
    "book": "Unibet",
    "price": "2.10",
+   "us": "2.13",
+   "gap": "−1.5%",
    "final": "Louisiana 23, Arkansas State 20",
    "result": "won"
   },
@@ -70,6 +82,8 @@
    "alert": "Maxim Shabanov (anytime goal)",
    "book": "Neds",
    "price": "5.75",
+   "us": "5.12",
+   "gap": "+12.2%",
    "final": "MIN 4, BOS 1",
    "result": "lost"
   },
@@ -80,6 +94,8 @@
    "alert": "Clemson +13.5",
    "book": "Betfair",
    "price": "2.11",
+   "us": "2.08",
+   "gap": "+1.5%",
    "final": "Miami 41, Clemson 13",
    "result": "lost"
   },
@@ -90,6 +106,8 @@
    "alert": "Under 47",
    "book": "Betfair",
    "price": "2.17",
+   "us": "2.16",
+   "gap": "+0.5%",
    "final": "Miami 41, Clemson 13",
    "result": "lost"
   },
@@ -100,6 +118,8 @@
    "alert": "South Florida -7.5",
    "book": "Betfair",
    "price": "2.24",
+   "us": "2.15",
+   "gap": "+4.2%",
    "final": "TEM 17, USF 13",
    "result": "lost"
   },
@@ -110,6 +130,8 @@
    "alert": "Under 49",
    "book": "Unibet",
    "price": "2.04",
+   "us": "2.07",
+   "gap": "−1.4%",
    "final": "TTU 29, COLO 7",
    "result": "won"
   },
@@ -120,6 +142,8 @@
    "alert": "Over 59.5",
    "book": "Betfair",
    "price": "2.13",
+   "us": "2.10",
+   "gap": "+1.1%",
    "final": "USC 25, Washington 21",
    "result": "lost"
   },
@@ -130,6 +154,8 @@
    "alert": "Washington +6",
    "book": "Unibet",
    "price": "2.23",
+   "us": "2.22",
+   "gap": "+0.3%",
    "final": "USC 25, Washington 21",
    "result": "won"
   },
@@ -140,6 +166,8 @@
    "alert": "Oliver Moore (anytime goal)",
    "book": "Neds",
    "price": "8.75",
+   "us": "7.32",
+   "gap": "+19.5%",
    "final": "BUF 4, CHI 3",
    "result": "won"
   },
@@ -150,6 +178,8 @@
    "alert": "Under 6.5",
    "book": "Betr",
    "price": "2.05",
+   "us": "1.82",
+   "gap": "+12.6%",
    "final": "PIT 6, MTL 5",
    "result": "lost"
   },
@@ -160,6 +190,8 @@
    "alert": "Toronto Maple Leafs",
    "book": "PointsBet",
    "price": "1.90",
+   "us": "1.94",
+   "gap": "−1.9%",
    "final": "OTT 3, TOR 2",
    "result": "lost"
   },
@@ -170,6 +202,8 @@
    "alert": "Easton Cowan (anytime goal)",
    "book": "Unibet",
    "price": "5.75",
+   "us": "5.12",
+   "gap": "+12.2%",
    "final": "OTT 3, TOR 2",
    "result": "lost"
   },
@@ -180,6 +214,8 @@
    "alert": "Trent Frederic (anytime goal)",
    "book": "Neds",
    "price": "9.00",
+   "us": "7.93",
+   "gap": "+13.5%",
    "final": "EDM 3, SEA 1",
    "result": "lost"
   },
@@ -190,6 +226,8 @@
    "alert": "Isaac Howard (anytime goal)",
    "book": "Unibet",
    "price": "7.00",
+   "us": "6.10",
+   "gap": "+14.8%",
    "final": "EDM 3, SEA 1",
    "result": "lost"
   },
@@ -200,6 +238,8 @@
    "alert": "Tampa Bay Lightning",
    "book": "TAB",
    "price": "1.55",
+   "us": "1.57",
+   "gap": "−1.1%",
    "final": "TBL 3, WSH 1",
    "result": "won"
   },
@@ -210,6 +250,8 @@
    "alert": "Ilya Protas (anytime goal)",
    "book": "Neds",
    "price": "7.25",
+   "us": "6.10",
+   "gap": "+18.9%",
    "final": "TBL 3, WSH 1",
    "result": "lost"
   },
@@ -220,6 +262,8 @@
    "alert": "Gage Goncalves (anytime goal)",
    "book": "Neds",
    "price": "6.75",
+   "us": "4.73",
+   "gap": "+42.8%",
    "final": "TBL 3, WSH 1",
    "result": "lost"
   },
@@ -230,6 +274,8 @@
    "alert": "New Mexico -25",
    "book": "Unibet",
    "price": "2.28",
+   "us": "2.22",
+   "gap": "+2.8%",
    "final": "New Mexico 61, UTEP 7",
    "result": "won"
   },
@@ -240,6 +286,8 @@
    "alert": "Under 41.5",
    "book": "Unibet",
    "price": "1.97",
+   "us": "2.00",
+   "gap": "−1.5%",
    "final": "Bowling Green 24, Miami",
    "result": "lost"
   },
@@ -250,6 +298,8 @@
    "alert": "NC State +2.5",
    "book": "Betfair",
    "price": "2.24",
+   "us": "2.21",
+   "gap": "+1.6%",
    "final": "NC State 31, Louisville 28",
    "result": "won"
   },
@@ -260,6 +310,8 @@
    "alert": "Over 52.5",
    "book": "Betfair",
    "price": "1.98",
+   "us": "2.00",
+   "gap": "−1.1%",
    "final": "Toledo 39, Ball State 24",
    "result": "won"
   },
@@ -270,6 +322,8 @@
    "alert": "Under 6.5",
    "book": "TAB",
    "price": "2.10",
+   "us": "2.14",
+   "gap": "−1.8%",
    "final": "CWS 3, CLE 0",
    "result": "won"
   },
@@ -280,6 +334,8 @@
    "alert": "Under 44",
    "book": "Betfair",
    "price": "2.20",
+   "us": "2.17",
+   "gap": "+1.7%",
    "final": "Western Michigan 20, Buffalo 17",
    "result": "won"
   },
@@ -290,6 +346,8 @@
    "alert": "Over 61",
    "book": "Betfair",
    "price": "2.05",
+   "us": "2.05",
+   "gap": "+0.0%",
    "final": "Alabama 56, Mississippi State 23",
    "result": "won"
   },
@@ -300,6 +358,8 @@
    "alert": "Under 40",
    "book": "Betfair",
    "price": "2.18",
+   "us": "2.17",
+   "gap": "+0.8%",
    "final": "Minnesota 20, Michigan 14",
    "result": "won"
   },
@@ -310,6 +370,8 @@
    "alert": "Under 46",
    "book": "Betfair",
    "price": "2.05",
+   "us": "2.05",
+   "gap": "+0.0%",
    "final": "Notre Dame 37, North Carolina 26",
    "result": "lost"
   },
@@ -320,6 +382,8 @@
    "alert": "Over 55.5",
    "book": "Unibet",
    "price": "2.12",
+   "us": "2.12",
+   "gap": "+0.0%",
    "final": "Wake Forest 57, Stanford 3",
    "result": "won"
   },
@@ -330,6 +394,8 @@
    "alert": "Viggo Bjorck (anytime goal)",
    "book": "Neds",
    "price": "19.00",
+   "us": "5.49",
+   "gap": "+246.1%",
    "final": "BOS 4, WPG 3",
    "result": "lost"
   },
@@ -340,6 +406,8 @@
    "alert": "Under 44",
    "book": "Betfair",
    "price": "2.18",
+   "us": "2.17",
+   "gap": "+0.8%",
    "final": "Northwestern 34, Penn State 13",
    "result": "lost"
   },
@@ -350,6 +418,8 @@
    "alert": "Penn State -3.5",
    "book": "Betfair",
    "price": "2.15",
+   "us": "2.10",
+   "gap": "+2.5%",
    "final": "Northwestern 34, Penn State 13",
    "result": "lost"
   },
@@ -360,6 +430,8 @@
    "alert": "Liberty -7.5",
    "book": "Betfair",
    "price": "2.15",
+   "us": "2.09",
+   "gap": "+2.8%",
    "final": "Liberty 30, Delaware 14",
    "result": "won"
   },
@@ -370,6 +442,8 @@
    "alert": "Alex Formenton (anytime goal)",
    "book": "Neds",
    "price": "10.50",
+   "us": "5.79",
+   "gap": "+81.2%",
    "final": "EDM 9, VAN 7",
    "result": "lost"
   },
@@ -380,6 +454,8 @@
    "alert": "Oliver Moore (anytime goal)",
    "book": "Neds",
    "price": "8.25",
+   "us": "7.32",
+   "gap": "+12.7%",
    "final": "UTA 6, CHI 0",
    "result": "lost"
   },
@@ -390,6 +466,8 @@
    "alert": "Jerry Jeudy Under 15.5 receiving yards",
    "book": "TAB",
    "price": "1.90",
+   "us": "1.79",
+   "gap": "+6.3%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -400,6 +478,8 @@
    "alert": "Roman Wilson Over 2.5 receptions",
    "book": "TAB",
    "price": "2.30",
+   "us": "2.17",
+   "gap": "+5.8%",
    "final": "CLE 27, PIT 24",
    "result": "won"
   },
@@ -410,6 +490,8 @@
    "alert": "Roman Wilson Under 2.5 receptions",
    "book": "PointsBet",
    "price": "1.80",
+   "us": "1.58",
+   "gap": "+14.0%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -420,6 +502,8 @@
    "alert": "Aaron Rodgers Over 34.5 pass attempts (TAB '35+')",
    "book": "TAB",
    "price": "2.10",
+   "us": "1.98",
+   "gap": "+6.1%",
    "final": "CLE 27, PIT 24",
    "result": "won"
   },
@@ -430,6 +514,8 @@
    "alert": "Roman Wilson Under 14.5 longest reception",
    "book": "TAB",
    "price": "1.90",
+   "us": "1.75",
+   "gap": "+8.5%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -440,6 +526,8 @@
    "alert": "Michael Pittman Over 3.5 receptions (TAB '4+')",
    "book": "TAB",
    "price": "2.35",
+   "us": "2.18",
+   "gap": "+7.6%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -450,6 +538,8 @@
    "alert": "DK Metcalf Under 22.5 longest reception",
    "book": "TAB",
    "price": "1.80",
+   "us": "1.65",
+   "gap": "+8.9%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -460,6 +550,8 @@
    "alert": "Darnell Washington Under 20.5 receiving yards",
    "book": "PointsBet",
    "price": "1.83",
+   "us": "1.62",
+   "gap": "+13.2%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -470,6 +562,8 @@
    "alert": "Deshaun Watson Under 33.5 longest completion",
    "book": "TAB",
    "price": "1.90",
+   "us": "1.75",
+   "gap": "+8.7%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -480,6 +574,8 @@
    "alert": "Deshaun Watson Under 28.5 pass attempts",
    "book": "TAB",
    "price": "2.10",
+   "us": "1.89",
+   "gap": "+11.2%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -490,6 +586,8 @@
    "alert": "Blake Whiteheart Under 0.5 receptions",
    "book": "TAB",
    "price": "2.20",
+   "us": "2.04",
+   "gap": "+8.0%",
    "final": "CLE 27, PIT 24",
    "result": "won"
   },
@@ -500,6 +598,8 @@
    "alert": "Deshaun Watson Under 6.5 rush attempts",
    "book": "TAB",
    "price": "1.87",
+   "us": "1.68",
+   "gap": "+11.2%",
    "final": "CLE 27, PIT 24",
    "result": "lost"
   },
@@ -510,6 +610,8 @@
    "alert": "Pat Freiermuth Under 3.5 receptions",
    "book": "PointsBet",
    "price": "1.95",
+   "us": "1.73",
+   "gap": "+12.6%",
    "final": "CLE 27, PIT 24",
    "result": "won"
   },
@@ -520,6 +622,8 @@
    "alert": "Aaron Rodgers Over 33.5 pass attempts",
    "book": "TAB",
    "price": "1.90",
+   "us": "1.76",
+   "gap": "+8.0%",
    "final": "CLE 27, PIT 24",
    "result": "won"
   },
@@ -530,6 +634,8 @@
    "alert": "Conor Geekie (anytime goal)",
    "book": "Neds",
    "price": "9.25",
+   "us": "7.32",
+   "gap": "+26.4%",
    "final": "NYR 5, TBL 1",
    "result": "lost"
   },
@@ -540,6 +646,8 @@
    "alert": "Kevin Gausman Over 4.5 hits allowed",
    "book": "TAB",
    "price": "2.60",
+   "us": "2.26",
+   "gap": "+15.0%",
    "final": "SD 4, CHC 1",
    "result": "won"
   },
@@ -550,6 +658,8 @@
    "alert": "Payton Tolle Under 4.5 hits allowed",
    "book": "TAB",
    "price": "1.85",
+   "us": "1.74",
+   "gap": "+6.2%",
    "final": "NYY 9, BOS 0",
    "result": "lost"
   },
@@ -560,19 +670,28 @@
    "alert": "Payton Tolle Under 17.5 outs recorded",
    "book": "TAB",
    "price": "1.75",
+   "us": "1.53",
+   "gap": "+14.2%",
    "final": "NYY 9, BOS 0",
    "result": "won"
   }
  ],
  "speed": {
-  "tracked": 107,
-  "median": 149,
+  "tracked": 110,
+  "median": 148,
   "longest": 705,
-  "at30": 0.83,
+  "at30": 0.835,
   "closes": 42,
   "dropped": 32,
   "clvClosed": 48,
   "clvBeat": 36,
-  "clvAvg": 15.5
+  "clvAvg": 15.5,
+  "gapAvg": 14.1,
+  "gapMedian": 10.4,
+  "gapN": 284,
+  "perDay": 52,
+  "perDayDays": 4,
+  "perDayLow": 45,
+  "perDayHigh": 58
  }
 }
