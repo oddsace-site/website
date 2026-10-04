@@ -1,8 +1,60 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T17:22:05Z",
- "updated": "Updated Mon, 5 Oct, 3:46 am Sydney time.",
+ "generated_utc": "2026-10-04T18:21:20Z",
+ "updated": "Updated Mon, 5 Oct, 4:49 am Sydney time.",
  "rows": [
+  {
+   "date": "Mon, 5 Oct",
+   "league": "NFL",
+   "game": "Indianapolis Colts @ Washington Commanders",
+   "alert": "Jacory Croskey-Merritt (last touchdown scorer)",
+   "book": "TAB",
+   "price": "11.00",
+   "us": "9.75",
+   "gap": "+12.8%",
+   "final": "IND 30, WSH 13",
+   "result": "lost",
+   "t": "2026-10-04T13:30:00Z"
+  },
+  {
+   "date": "Mon, 5 Oct",
+   "league": "NFL",
+   "game": "Indianapolis Colts @ Washington Commanders",
+   "alert": "Marcus Mariota Over 200.5 passing yards",
+   "book": "TAB",
+   "price": "2.10",
+   "us": "1.75",
+   "gap": "+19.9%",
+   "final": "IND 30, WSH 13",
+   "result": "lost",
+   "t": "2026-10-04T13:30:00Z"
+  },
+  {
+   "date": "Mon, 5 Oct",
+   "league": "NFL",
+   "game": "Indianapolis Colts @ Washington Commanders",
+   "alert": "Marcus Mariota Over 29.5 pass attempts (TAB '30+')",
+   "book": "TAB",
+   "price": "2.35",
+   "us": "1.82",
+   "gap": "+28.8%",
+   "final": "IND 30, WSH 13",
+   "result": "lost",
+   "t": "2026-10-04T13:30:00Z"
+  },
+  {
+   "date": "Mon, 5 Oct",
+   "league": "NFL",
+   "game": "Indianapolis Colts @ Washington Commanders",
+   "alert": "Daniel Jones Over 0.5 interceptions thrown",
+   "book": "TAB",
+   "price": "2.20",
+   "us": "2.08",
+   "gap": "+5.7%",
+   "final": "IND 30, WSH 13",
+   "result": "won",
+   "t": "2026-10-04T13:30:00Z"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "College football",
@@ -733,23 +785,49 @@
   }
  ],
  "speed": {
-  "tracked": 127,
-  "median": 149,
+  "tracked": 131,
+  "median": 152,
   "longest": 705,
-  "at30": 0.836,
-  "closes": 174,
+  "at30": 0.838,
+  "closes": 176,
   "dropped": 113,
-  "clvClosed": 72,
-  "clvBeat": 55,
-  "clvAvg": 13.1,
+  "clvClosed": 184,
+  "clvBeat": 152,
+  "clvAvg": 10.9,
   "gapAvg": 14.1,
-  "gapMedian": 10.5,
-  "gapN": 305,
+  "gapMedian": 10.6,
+  "gapN": 311,
   "perDay": 56,
   "perDayDays": 5,
   "perDayLow": 45,
   "perDayHigh": 74,
   "tests": [
+   {
+    "date": "Mon, 5 Oct",
+    "league": "NFL",
+    "game": "Indianapolis Colts @ Washington Commanders",
+    "alert": "Dyami Brown (anytime touchdown)",
+    "book": "Unibet",
+    "price": "13.00",
+    "us": "9.20",
+    "gap": "+41.3%",
+    "final": "IND 30, WSH 13",
+    "result": "lost",
+    "t": "2026-10-04T13:30:00Z"
+   },
+   {
+    "date": "Mon, 5 Oct",
+    "league": "NFL",
+    "game": "Indianapolis Colts @ Washington Commanders",
+    "alert": "Treylon Burks (anytime touchdown)",
+    "book": "Neds",
+    "price": "14.00",
+    "us": "9.20",
+    "gap": "+52.2%",
+    "final": "IND 30, WSH 13",
+    "result": "won",
+    "t": "2026-10-04T13:30:00Z"
+   },
    {
     "date": "Sun, 4 Oct",
     "league": "NHL",
@@ -1115,6 +1193,6 @@
     "t": "2026-10-01T23:00:00Z"
    }
   ],
-  "testsTotal": 103
+  "testsTotal": 101
  }
 }
