@@ -1,8 +1,58 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T03:50:51Z",
- "updated": "Updated Sun, 4 Oct, 2:49 pm Sydney time.",
+ "generated_utc": "2026-10-04T05:22:04Z",
+ "updated": "Updated Sun, 4 Oct, 3:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Arkansas State @ Louisiana",
+   "alert": "Louisiana -7",
+   "book": "Betfair",
+   "price": "2.22",
+   "final": "Louisiana 23, Arkansas State 20",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Arkansas State @ Louisiana",
+   "alert": "Arkansas State +4",
+   "book": "Unibet",
+   "price": "2.10",
+   "final": "Louisiana 23, Arkansas State 20",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Boston Bruins @ Minnesota Wild",
+   "alert": "Maxim Shabanov (anytime goal)",
+   "book": "Neds",
+   "price": "5.75",
+   "final": "MIN 4, BOS 1",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Miami @ Clemson",
+   "alert": "Clemson +13.5",
+   "book": "Betfair",
+   "price": "2.11",
+   "final": "Miami 41, Clemson 13",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Miami @ Clemson",
+   "alert": "Under 47",
+   "book": "Betfair",
+   "price": "2.17",
+   "final": "Miami 41, Clemson 13",
+   "result": "lost"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "College football",
@@ -21,6 +71,26 @@
    "book": "Unibet",
    "price": "2.04",
    "final": "TTU 29, COLO 7",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Washington @ USC",
+   "alert": "Over 59.5",
+   "book": "Betfair",
+   "price": "2.13",
+   "final": "USC 25, Washington 21",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Washington @ USC",
+   "alert": "Washington +6",
+   "book": "Unibet",
+   "price": "2.23",
+   "final": "USC 25, Washington 21",
    "result": "won"
   },
   {
@@ -455,10 +525,10 @@
   }
  ],
  "speed": {
-  "tracked": 100,
+  "tracked": 101,
   "median": 148,
   "longest": 705,
-  "at30": 0.829,
+  "at30": 0.83,
   "closes": 42,
   "dropped": 32,
   "clvClosed": 48,
