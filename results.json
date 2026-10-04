@@ -1,8 +1,38 @@
 {
  "v": 1,
- "generated_utc": "2026-10-03T23:21:13Z",
- "updated": "Updated Sun, 4 Oct, 9:46 am Sydney time.",
+ "generated_utc": "2026-10-04T01:05:02Z",
+ "updated": "Updated Sun, 4 Oct, 11:47 am Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "UTEP @ New Mexico",
+   "alert": "New Mexico -25",
+   "book": "Unibet",
+   "price": "2.28",
+   "final": "New Mexico 61, UTEP 7",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Bowling Green @ Miami (OH)",
+   "alert": "Under 41.5",
+   "book": "Unibet",
+   "price": "1.97",
+   "final": "Bowling Green 24, Miami",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Louisville @ NC State",
+   "alert": "NC State +2.5",
+   "book": "Betfair",
+   "price": "2.24",
+   "final": "NC State 31, Louisville 28",
+   "result": "won"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "College football",
@@ -315,14 +345,14 @@
   }
  ],
  "speed": {
-  "tracked": 87,
+  "tracked": 95,
   "median": 148,
   "longest": 705,
-  "at30": 0.812,
-  "closes": 36,
-  "dropped": 28,
-  "clvClosed": 27,
-  "clvBeat": 22,
-  "clvAvg": 9.1
+  "at30": 0.819,
+  "closes": 40,
+  "dropped": 30,
+  "clvClosed": 44,
+  "clvBeat": 33,
+  "clvAvg": 8.2
  }
 }
