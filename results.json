@@ -1,8 +1,118 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T03:21:25Z",
- "updated": "Updated Sun, 4 Oct, 1:46 pm Sydney time.",
+ "generated_utc": "2026-10-04T03:50:51Z",
+ "updated": "Updated Sun, 4 Oct, 2:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Temple @ South Florida",
+   "alert": "South Florida -7.5",
+   "book": "Betfair",
+   "price": "2.24",
+   "final": "TEM 17, USF 13",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Texas Tech @ Colorado",
+   "alert": "Under 49",
+   "book": "Unibet",
+   "price": "2.04",
+   "final": "TTU 29, COLO 7",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Chicago Blackhawks @ Buffalo Sabres",
+   "alert": "Oliver Moore (anytime goal)",
+   "book": "Neds",
+   "price": "8.75",
+   "final": "BUF 4, CHI 3",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Montreal Canadiens @ Pittsburgh Penguins",
+   "alert": "Under 6.5",
+   "book": "Betr",
+   "price": "2.05",
+   "final": "PIT 6, MTL 5",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Ottawa Senators @ Toronto Maple Leafs",
+   "alert": "Toronto Maple Leafs",
+   "book": "PointsBet",
+   "price": "1.90",
+   "final": "OTT 3, TOR 2",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Ottawa Senators @ Toronto Maple Leafs",
+   "alert": "Easton Cowan (anytime goal)",
+   "book": "Unibet",
+   "price": "5.75",
+   "final": "OTT 3, TOR 2",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Seattle Kraken @ Edmonton Oilers",
+   "alert": "Trent Frederic (anytime goal)",
+   "book": "Neds",
+   "price": "9.00",
+   "final": "EDM 3, SEA 1",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Seattle Kraken @ Edmonton Oilers",
+   "alert": "Isaac Howard (anytime goal)",
+   "book": "Unibet",
+   "price": "7.00",
+   "final": "EDM 3, SEA 1",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Washington Capitals @ Tampa Bay Lightning",
+   "alert": "Tampa Bay Lightning",
+   "book": "TAB",
+   "price": "1.55",
+   "final": "TBL 3, WSH 1",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Washington Capitals @ Tampa Bay Lightning",
+   "alert": "Ilya Protas (anytime goal)",
+   "book": "Neds",
+   "price": "7.25",
+   "final": "TBL 3, WSH 1",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Washington Capitals @ Tampa Bay Lightning",
+   "alert": "Gage Goncalves (anytime goal)",
+   "book": "Neds",
+   "price": "6.75",
+   "final": "TBL 3, WSH 1",
+   "result": "lost"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "College football",
@@ -345,10 +455,10 @@
   }
  ],
  "speed": {
-  "tracked": 99,
-  "median": 147,
+  "tracked": 100,
+  "median": 148,
   "longest": 705,
-  "at30": 0.824,
+  "at30": 0.829,
   "closes": 42,
   "dropped": 32,
   "clvClosed": 48,
