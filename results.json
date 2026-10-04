@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T01:05:02Z",
- "updated": "Updated Sun, 4 Oct, 11:47 am Sydney time.",
+ "generated_utc": "2026-10-04T02:21:41Z",
+ "updated": "Updated Sun, 4 Oct, 12:46 pm Sydney time.",
  "rows": [
   {
    "date": "Sun, 4 Oct",
@@ -345,14 +345,14 @@
   }
  ],
  "speed": {
-  "tracked": 95,
-  "median": 148,
+  "tracked": 99,
+  "median": 147,
   "longest": 705,
-  "at30": 0.819,
-  "closes": 40,
-  "dropped": 30,
-  "clvClosed": 44,
-  "clvBeat": 33,
-  "clvAvg": 8.2
+  "at30": 0.824,
+  "closes": 42,
+  "dropped": 32,
+  "clvClosed": 45,
+  "clvBeat": 34,
+  "clvAvg": 14.6
  }
 }
