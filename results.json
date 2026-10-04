@@ -1,8 +1,48 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T06:21:50Z",
- "updated": "Updated Sun, 4 Oct, 4:48 pm Sydney time.",
+ "generated_utc": "2026-10-04T07:22:13Z",
+ "updated": "Updated Sun, 4 Oct, 5:50 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Baylor @ Arizona State",
+   "alert": "Baylor +2",
+   "book": "Betfair",
+   "price": "2.26",
+   "final": "BAY 55, ASU 19",
+   "result": "won"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "College football",
+   "game": "Baylor @ Arizona State",
+   "alert": "Under 46.5",
+   "book": "TAB",
+   "price": "2.25",
+   "final": "BAY 55, ASU 19",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "Los Angeles Kings @ San Jose Sharks",
+   "alert": "Alex Turcotte (anytime goal)",
+   "book": "Neds",
+   "price": "11.50",
+   "final": "SJS 5, LAK 4",
+   "result": "lost"
+  },
+  {
+   "date": "Sun, 4 Oct",
+   "league": "NHL",
+   "game": "St. Louis Blues @ Colorado Avalanche",
+   "alert": "T.J. Hughes (anytime goal)",
+   "book": "Neds",
+   "price": "23.00",
+   "final": "COL 6, STL 1",
+   "result": "lost"
+  },
   {
    "date": "Sun, 4 Oct",
    "league": "College football",
@@ -525,10 +565,10 @@
   }
  ],
  "speed": {
-  "tracked": 101,
+  "tracked": 102,
   "median": 148,
   "longest": 705,
-  "at30": 0.83,
+  "at30": 0.832,
   "closes": 42,
   "dropped": 32,
   "clvClosed": 48,
