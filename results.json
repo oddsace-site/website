@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-04T13:21:24Z",
- "updated": "Updated Sun, 4 Oct, 11:46 pm Sydney time.",
+ "generated_utc": "2026-10-04T14:21:39Z",
+ "updated": "Updated Mon, 5 Oct, 12:46 am Sydney time.",
  "rows": [
   {
    "date": "Sun, 4 Oct",
@@ -13,7 +13,8 @@
    "us": "2.25",
    "gap": "+0.4%",
    "final": "BAY 55, ASU 19",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-04T02:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -25,7 +26,8 @@
    "us": "2.22",
    "gap": "+1.3%",
    "final": "BAY 55, ASU 19",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-04T02:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -37,7 +39,8 @@
    "us": "5.66",
    "gap": "+103.3%",
    "final": "SJS 5, LAK 4",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-04T02:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -49,7 +52,8 @@
    "us": "5.12",
    "gap": "+348.9%",
    "final": "COL 6, STL 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-04T01:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -61,7 +65,8 @@
    "us": "2.17",
    "gap": "+2.4%",
    "final": "Louisiana 23, Arkansas State 20",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-04T00:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -73,7 +78,8 @@
    "us": "2.13",
    "gap": "−1.5%",
    "final": "Louisiana 23, Arkansas State 20",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-04T00:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -85,7 +91,8 @@
    "us": "5.12",
    "gap": "+12.2%",
    "final": "MIN 4, BOS 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-04T00:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -97,7 +104,8 @@
    "us": "2.08",
    "gap": "+1.5%",
    "final": "Miami 41, Clemson 13",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -109,7 +117,8 @@
    "us": "2.16",
    "gap": "+0.5%",
    "final": "Miami 41, Clemson 13",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -121,7 +130,8 @@
    "us": "2.15",
    "gap": "+4.2%",
    "final": "TEM 17, USF 13",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -133,7 +143,8 @@
    "us": "2.07",
    "gap": "−1.4%",
    "final": "TTU 29, COLO 7",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -145,7 +156,8 @@
    "us": "2.10",
    "gap": "+1.1%",
    "final": "USC 25, Washington 21",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -157,7 +169,8 @@
    "us": "2.22",
    "gap": "+0.3%",
    "final": "USC 25, Washington 21",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T23:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -169,7 +182,8 @@
    "us": "7.32",
    "gap": "+19.5%",
    "final": "BUF 4, CHI 3",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -181,7 +195,8 @@
    "us": "1.82",
    "gap": "+12.6%",
    "final": "PIT 6, MTL 5",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -193,7 +208,8 @@
    "us": "1.94",
    "gap": "−1.9%",
    "final": "OTT 3, TOR 2",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -205,7 +221,8 @@
    "us": "5.12",
    "gap": "+12.2%",
    "final": "OTT 3, TOR 2",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -217,7 +234,8 @@
    "us": "7.93",
    "gap": "+13.5%",
    "final": "EDM 3, SEA 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -229,7 +247,8 @@
    "us": "6.10",
    "gap": "+14.8%",
    "final": "EDM 3, SEA 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -241,7 +260,8 @@
    "us": "1.57",
    "gap": "−1.1%",
    "final": "TBL 3, WSH 1",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -253,7 +273,8 @@
    "us": "6.10",
    "gap": "+18.9%",
    "final": "TBL 3, WSH 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -265,7 +286,8 @@
    "us": "4.73",
    "gap": "+42.8%",
    "final": "TBL 3, WSH 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T23:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -277,7 +299,8 @@
    "us": "2.22",
    "gap": "+2.8%",
    "final": "New Mexico 61, UTEP 7",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T20:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -289,7 +312,8 @@
    "us": "2.00",
    "gap": "−1.5%",
    "final": "Bowling Green 24, Miami",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T19:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -301,7 +325,8 @@
    "us": "2.21",
    "gap": "+1.6%",
    "final": "NC State 31, Louisville 28",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T19:30:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -313,7 +338,8 @@
    "us": "2.00",
    "gap": "−1.1%",
    "final": "Toledo 39, Ball State 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T18:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -325,7 +351,8 @@
    "us": "2.14",
    "gap": "−1.8%",
    "final": "CWS 3, CLE 0",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T17:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -337,7 +364,8 @@
    "us": "2.17",
    "gap": "+1.7%",
    "final": "Western Michigan 20, Buffalo 17",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T17:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -349,7 +377,8 @@
    "us": "2.05",
    "gap": "+0.0%",
    "final": "Alabama 56, Mississippi State 23",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T16:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -361,7 +390,8 @@
    "us": "2.17",
    "gap": "+0.8%",
    "final": "Minnesota 20, Michigan 14",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T16:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -373,7 +403,8 @@
    "us": "2.05",
    "gap": "+0.0%",
    "final": "Notre Dame 37, North Carolina 26",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T16:00:00Z"
   },
   {
    "date": "Sun, 4 Oct",
@@ -385,7 +416,8 @@
    "us": "2.12",
    "gap": "+0.0%",
    "final": "Wake Forest 57, Stanford 3",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-03T16:00:00Z"
   },
   {
    "date": "Sat, 3 Oct",
@@ -397,7 +429,8 @@
    "us": "5.49",
    "gap": "+246.1%",
    "final": "BOS 4, WPG 3",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T00:00:00Z"
   },
   {
    "date": "Sat, 3 Oct",
@@ -409,7 +442,8 @@
    "us": "2.17",
    "gap": "+0.8%",
    "final": "Northwestern 34, Penn State 13",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T00:00:00Z"
   },
   {
    "date": "Sat, 3 Oct",
@@ -421,7 +455,8 @@
    "us": "2.10",
    "gap": "+2.5%",
    "final": "Northwestern 34, Penn State 13",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-03T00:00:00Z"
   },
   {
    "date": "Sat, 3 Oct",
@@ -433,7 +468,8 @@
    "us": "2.09",
    "gap": "+2.8%",
    "final": "Liberty 30, Delaware 14",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T23:00:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -445,7 +481,8 @@
    "us": "5.79",
    "gap": "+81.2%",
    "final": "EDM 9, VAN 7",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T02:00:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -457,7 +494,8 @@
    "us": "7.32",
    "gap": "+12.7%",
    "final": "UTA 6, CHI 0",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T01:30:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -469,7 +507,8 @@
    "us": "1.79",
    "gap": "+6.3%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -481,7 +520,8 @@
    "us": "2.17",
    "gap": "+5.8%",
    "final": "CLE 27, PIT 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -493,7 +533,8 @@
    "us": "1.58",
    "gap": "+14.0%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -505,7 +546,8 @@
    "us": "1.98",
    "gap": "+6.1%",
    "final": "CLE 27, PIT 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -517,7 +559,8 @@
    "us": "1.75",
    "gap": "+8.5%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -529,7 +572,8 @@
    "us": "2.18",
    "gap": "+7.6%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -541,7 +585,8 @@
    "us": "1.65",
    "gap": "+8.9%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -553,7 +598,8 @@
    "us": "1.62",
    "gap": "+13.2%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -565,7 +611,8 @@
    "us": "1.75",
    "gap": "+8.7%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -577,7 +624,8 @@
    "us": "1.89",
    "gap": "+11.2%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -589,7 +637,8 @@
    "us": "2.04",
    "gap": "+8.0%",
    "final": "CLE 27, PIT 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -601,7 +650,8 @@
    "us": "1.68",
    "gap": "+11.2%",
    "final": "CLE 27, PIT 24",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -613,7 +663,8 @@
    "us": "1.73",
    "gap": "+12.6%",
    "final": "CLE 27, PIT 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -625,7 +676,8 @@
    "us": "1.76",
    "gap": "+8.0%",
    "final": "CLE 27, PIT 24",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-02T00:15:00Z"
   },
   {
    "date": "Fri, 2 Oct",
@@ -637,7 +689,8 @@
    "us": "7.32",
    "gap": "+26.4%",
    "final": "NYR 5, TBL 1",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-10-01T23:00:00Z"
   },
   {
    "date": "Thu, 1 Oct",
@@ -649,7 +702,8 @@
    "us": "2.26",
    "gap": "+15.0%",
    "final": "SD 4, CHC 1",
-   "result": "won"
+   "result": "won",
+   "t": "2026-10-01T02:00:00Z"
   },
   {
    "date": "Wed, 30 Sept",
@@ -661,7 +715,8 @@
    "us": "1.74",
    "gap": "+6.2%",
    "final": "NYY 9, BOS 0",
-   "result": "lost"
+   "result": "lost",
+   "t": "2026-09-30T00:00:00Z"
   },
   {
    "date": "Wed, 30 Sept",
@@ -673,25 +728,393 @@
    "us": "1.53",
    "gap": "+14.2%",
    "final": "NYY 9, BOS 0",
-   "result": "won"
+   "result": "won",
+   "t": "2026-09-30T00:00:00Z"
   }
  ],
  "speed": {
-  "tracked": 110,
+  "tracked": 113,
   "median": 148,
   "longest": 705,
-  "at30": 0.835,
-  "closes": 153,
+  "at30": 0.831,
+  "closes": 154,
   "dropped": 107,
-  "clvClosed": 48,
-  "clvBeat": 36,
-  "clvAvg": 15.5,
-  "gapAvg": 14.1,
+  "clvClosed": 72,
+  "clvBeat": 55,
+  "clvAvg": 13.1,
+  "gapAvg": 14,
   "gapMedian": 10.4,
-  "gapN": 288,
-  "perDay": 52,
-  "perDayDays": 4,
+  "gapN": 289,
+  "perDay": 56,
+  "perDayDays": 5,
   "perDayLow": 45,
-  "perDayHigh": 58
+  "perDayHigh": 74,
+  "tests": [
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Los Angeles Kings @ San Jose Sharks",
+    "alert": "Los Angeles Kings -1.5",
+    "book": "TAB",
+    "price": "3.60",
+    "us": "3.21",
+    "gap": "+12.1%",
+    "final": "SJS 5, LAK 4",
+    "result": "lost",
+    "t": "2026-10-04T02:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Los Angeles Kings @ San Jose Sharks",
+    "alert": "Mats Zuccarello Under 1.5 shots on goal",
+    "book": "PointsBet",
+    "price": "2.70",
+    "us": "2.33",
+    "gap": "+15.8%",
+    "final": "SJS 5, LAK 4",
+    "result": "won",
+    "t": "2026-10-04T02:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Los Angeles Kings @ San Jose Sharks",
+    "alert": "Luca Cagnoni (anytime goal)",
+    "book": "Neds",
+    "price": "12.50",
+    "us": "8.69",
+    "gap": "+43.9%",
+    "final": "SJS 5, LAK 4",
+    "result": "lost",
+    "t": "2026-10-04T02:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "St. Louis Blues @ Colorado Avalanche",
+    "alert": "Fedor Svechkov (anytime goal)",
+    "book": "Neds",
+    "price": "11.50",
+    "us": "9.15",
+    "gap": "+25.7%",
+    "final": "COL 6, STL 1",
+    "result": "lost",
+    "t": "2026-10-04T01:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "St. Louis Blues @ Colorado Avalanche",
+    "alert": "Devon Toews (anytime goal)",
+    "book": "Neds",
+    "price": "10.00",
+    "us": "8.54",
+    "gap": "+17.1%",
+    "final": "COL 6, STL 1",
+    "result": "lost",
+    "t": "2026-10-04T01:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "Arkansas State @ Louisiana",
+    "alert": "Under 46",
+    "book": "Betfair",
+    "price": "2.22",
+    "us": "2.20",
+    "gap": "+0.8%",
+    "final": "Louisiana 23, Arkansas State 20",
+    "result": "won",
+    "t": "2026-10-04T00:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "Temple @ South Florida",
+    "alert": "Under 47",
+    "book": "Betfair",
+    "price": "2.17",
+    "us": "2.16",
+    "gap": "+0.5%",
+    "final": "TEM 17, USF 13",
+    "result": "won",
+    "t": "2026-10-03T23:30:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Montreal Canadiens @ Pittsburgh Penguins",
+    "alert": "Phillip Danault (anytime goal)",
+    "book": "Unibet",
+    "price": "7.50",
+    "us": "6.47",
+    "gap": "+16.0%",
+    "final": "PIT 6, MTL 5",
+    "result": "lost",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Ottawa Senators @ Toronto Maple Leafs",
+    "alert": "Ottawa Senators -1.5",
+    "book": "Unibet",
+    "price": "3.70",
+    "us": "3.16",
+    "gap": "+17.0%",
+    "final": "OTT 3, TOR 2",
+    "result": "lost",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Seattle Kraken @ Edmonton Oilers",
+    "alert": "Alex Formenton (anytime goal)",
+    "book": "Neds",
+    "price": "15.00",
+    "us": "6.41",
+    "gap": "+134.2%",
+    "final": "EDM 3, SEA 1",
+    "result": "lost",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Utah Mammoth @ Columbus Blue Jackets",
+    "alert": "Columbus Blue Jackets -1.5",
+    "book": "Unibet",
+    "price": "3.55",
+    "us": "3.15",
+    "gap": "+12.6%",
+    "final": "UTA 4, CBJ 1",
+    "result": "lost",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Utah Mammoth @ Columbus Blue Jackets",
+    "alert": "Daniil But (anytime goal)",
+    "book": "Neds",
+    "price": "7.50",
+    "us": "6.47",
+    "gap": "+16.0%",
+    "final": "UTA 4, CBJ 1",
+    "result": "lost",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "NHL",
+    "game": "Washington Capitals @ Tampa Bay Lightning",
+    "alert": "Charle-Edouard D'Astous (anytime goal)",
+    "book": "Neds",
+    "price": "10.50",
+    "us": "9.15",
+    "gap": "+14.8%",
+    "final": "TBL 3, WSH 1",
+    "result": "won",
+    "t": "2026-10-03T23:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "UTEP @ New Mexico",
+    "alert": "UTEP +22.5",
+    "book": "Betfair",
+    "price": "1.98",
+    "us": "2.00",
+    "gap": "−1.1%",
+    "final": "New Mexico 61, UTEP 7",
+    "result": "lost",
+    "t": "2026-10-03T20:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "Ohio @ Kent State",
+    "alert": "Kent State +2",
+    "book": "Betfair",
+    "price": "2.32",
+    "us": "2.24",
+    "gap": "+3.4%",
+    "final": "Ohio 13, Kent State 10",
+    "result": "lost",
+    "t": "2026-10-03T19:30:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "Navy @ Air Force",
+    "alert": "Under 44",
+    "book": "Betfair",
+    "price": "2.15",
+    "us": "2.16",
+    "gap": "−0.7%",
+    "final": "Air Force 14, Navy 9",
+    "result": "won",
+    "t": "2026-10-03T16:00:00Z"
+   },
+   {
+    "date": "Sun, 4 Oct",
+    "league": "College football",
+    "game": "Memphis @ Charlotte",
+    "alert": "Charlotte +17",
+    "book": "Unibet",
+    "price": "2.23",
+    "us": "2.22",
+    "gap": "+0.6%",
+    "final": "Memphis 59, Charlotte 8",
+    "result": "lost",
+    "t": "2026-10-03T15:00:00Z"
+   },
+   {
+    "date": "Sat, 3 Oct",
+    "league": "NHL",
+    "game": "Boston Bruins @ Winnipeg Jets",
+    "alert": "Boston Bruins",
+    "book": "Unibet",
+    "price": "2.07",
+    "us": "2.09",
+    "gap": "−1.0%",
+    "final": "BOS 4, WPG 3",
+    "result": "won",
+    "t": "2026-10-03T00:00:00Z"
+   },
+   {
+    "date": "Sat, 3 Oct",
+    "league": "NHL",
+    "game": "Boston Bruins @ Winnipeg Jets",
+    "alert": "Winnipeg Jets",
+    "book": "Unibet",
+    "price": "1.90",
+    "us": "1.91",
+    "gap": "−0.3%",
+    "final": "BOS 4, WPG 3",
+    "result": "lost",
+    "t": "2026-10-03T00:00:00Z"
+   },
+   {
+    "date": "Sat, 3 Oct",
+    "league": "College football",
+    "game": "Liberty @ Delaware",
+    "alert": "Delaware +6.5",
+    "book": "Betfair",
+    "price": "2.02",
+    "us": "2.04",
+    "gap": "−1.4%",
+    "final": "Liberty 30, Delaware 14",
+    "result": "lost",
+    "t": "2026-10-02T23:00:00Z"
+   },
+   {
+    "date": "Sat, 3 Oct",
+    "league": "NHL",
+    "game": "Washington Capitals @ Carolina Hurricanes",
+    "alert": "Mark Jankowski (anytime goal)",
+    "book": "Unibet",
+    "price": "6.25",
+    "us": "5.49",
+    "gap": "+13.8%",
+    "final": "WSH 5, CAR 2",
+    "result": "lost",
+    "t": "2026-10-02T23:00:00Z"
+   },
+   {
+    "date": "Sat, 3 Oct",
+    "league": "NHL",
+    "game": "New York Rangers @ Detroit Red Wings",
+    "alert": "Over 6.5",
+    "book": "Betfair",
+    "price": "2.20",
+    "us": "2.21",
+    "gap": "−0.5%",
+    "final": "NYR 2, DET 0",
+    "result": "lost",
+    "t": "2026-10-02T22:30:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NHL",
+    "game": "Edmonton Oilers @ Vancouver Canucks",
+    "alert": "Owen Michaels (anytime goal)",
+    "book": "Neds",
+    "price": "10.50",
+    "us": "8.83",
+    "gap": "+18.9%",
+    "final": "EDM 9, VAN 7",
+    "result": "won",
+    "t": "2026-10-02T02:00:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NHL",
+    "game": "Chicago Blackhawks @ Utah Mammoth",
+    "alert": "Daniil But (anytime goal)",
+    "book": "Neds",
+    "price": "7.50",
+    "us": "5.85",
+    "gap": "+28.3%",
+    "final": "UTA 6, CHI 0",
+    "result": "won",
+    "t": "2026-10-02T01:30:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NFL",
+    "game": "Pittsburgh Steelers @ Cleveland Browns",
+    "alert": "Germie Bernard Under 10.5 receiving yards",
+    "book": "TAB",
+    "price": "1.85",
+    "us": "1.70",
+    "gap": "+8.7%",
+    "final": "CLE 27, PIT 24",
+    "result": "lost",
+    "t": "2026-10-02T00:15:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NFL",
+    "game": "Pittsburgh Steelers @ Cleveland Browns",
+    "alert": "Pat Freiermuth Under 30.5 receiving yards",
+    "book": "TAB",
+    "price": "1.95",
+    "us": "1.72",
+    "gap": "+13.3%",
+    "final": "CLE 27, PIT 24",
+    "result": "won",
+    "t": "2026-10-02T00:15:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NFL",
+    "game": "Pittsburgh Steelers @ Cleveland Browns",
+    "alert": "Deshaun Watson Under 30.5 rushing yards",
+    "book": "TAB",
+    "price": "1.95",
+    "us": "1.79",
+    "gap": "+8.8%",
+    "final": "CLE 27, PIT 24",
+    "result": "won",
+    "t": "2026-10-02T00:15:00Z"
+   },
+   {
+    "date": "Fri, 2 Oct",
+    "league": "NHL",
+    "game": "Tampa Bay Lightning @ New York Rangers",
+    "alert": "Jansen Harkins (anytime goal)",
+    "book": "Neds",
+    "price": "10.50",
+    "us": "9.15",
+    "gap": "+14.8%",
+    "final": "NYR 5, TBL 1",
+    "result": "lost",
+    "t": "2026-10-01T23:00:00Z"
+   }
+  ],
+  "testsTotal": 112
  }
 }
