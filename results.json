@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-05T05:21:25Z",
- "updated": "Updated Mon, 5 Oct, 4:01 pm Sydney time.",
+ "generated_utc": "2026-10-05T06:24:05Z",
+ "updated": "Updated Mon, 5 Oct, 4:50 pm Sydney time.",
  "rows": [
   {
    "date": "Mon, 5 Oct",
@@ -1067,6 +1067,19 @@
    "gap": "+9.7%",
    "final": "MIN 15, MIA 10",
    "result": "lost",
+   "t": "2026-10-04T20:05:00Z"
+  },
+  {
+   "date": "Mon, 5 Oct",
+   "league": "NFL",
+   "game": "Miami Dolphins @ Minnesota Vikings",
+   "alert": "Ryan Miller Under 10.5 receiving yards",
+   "book": "PointsBet",
+   "price": "1.74",
+   "us": "1.56",
+   "gap": "+11.6%",
+   "final": "MIN 15, MIA 10",
+   "result": "won",
    "t": "2026-10-04T20:05:00Z"
   },
   {
