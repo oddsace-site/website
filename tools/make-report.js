@@ -90,13 +90,15 @@ const WITH_LAUNCH = QY === 2026 && QN === 4;   // the October-December 2026 repo
 const START = WITH_LAUNCH ? LAUNCH_DAY : QFROM;
 const QNAME = MONTH[(QN - 1) * 3] + '–' + MONTH[QN * 3 - 1] + ' ' + QY;
 const asOfDay = sydDay(asOfMs);
-const FINAL = asOfDay > QTO;
+const ENDED = asOfDay > QTO; // the quarter is over (FINAL, below, also needs every result in)
 const inPeriod = d => { const t = Date.parse(d.alert_sent_utc || ''); if (isNaN(t)) return false; const day = sydDay(t); return day >= START && day <= QTO; };
 
 const bets = allBets.filter(d => inPeriod(d) && (isSent(d) || isTest(d)));
 const sentBets = bets.filter(isSent), testBets = bets.filter(isTest);
 if (!sentBets.length && !testBets.length) throw new Error('no alerts in ' + START + ' to ' + QTO);
 const lastAlertMs = Math.max.apply(null, bets.map(d => Date.parse(d.alert_sent_utc)));
+const PENDING = bets.filter(d => !/^(won|lost|push|void)$/.test(d.status || '')).length;
+const FINAL = ENDED && PENDING === 0; // the final edition: the quarter is over and every alert in it has a result
 
 // ------------------------------------------------------------------ per-alert detail
 const byAlert = {};
@@ -330,7 +332,7 @@ function weeklyTable() {
   const sports = Object.keys(LEAGUES).filter(s => bets.some(d => d.sport === s));
   const first = START, weeks = [];
   let ws = addDays(first, -((weekday(first) + 6) % 7)); // Monday on or before the start
-  const end = FINAL ? QTO : asOfDay;
+  const end = ENDED ? QTO : asOfDay;
   while (ws <= end) { weeks.push(ws); ws = addDays(ws, 7); }
   const rows = weeks.map(w => {
     const a = w < START ? START : w, b = addDays(w, 6) > end ? end : addDays(w, 6);
@@ -374,9 +376,9 @@ function logTable() {
 // ------------------------------------------------------------------ the document
 const tag = api.tagline(model, asOfMs);
 const signOff = '18+ · ' + tag + (/set a deposit limit\.?\s*$/i.test(tag) ? '' : ' Set a deposit limit.') + ' For free and confidential support call 1800 858 858 or visit gamblinghelponline.org.au';
-const edition = FINAL ? 'Final edition' : 'Quarter so far';
+const edition = FINAL ? 'Final edition' : ENDED ? 'Results still settling' : 'Quarter so far';
 const longDay = ms => { const p = syd(ms); return ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][new Date(Date.UTC(p.y, p.mo - 1, p.d)).getUTCDay()] + ' ' + p.d + ' ' + MONTH[p.mo - 1] + ' ' + p.y; };
-const coverage = 'Covers alerts sent from ' + dayLabel(START) + ' to ' + (FINAL ? dayLabel(QTO) : dayLabel(sydDay(lastAlertMs)));
+const coverage = 'Covers alerts sent from ' + dayLabel(START) + ' to ' + (ENDED ? dayLabel(QTO) : dayLabel(sydDay(lastAlertMs)));
 const asOfText = 'Results as of ' + clock(syd(asOfMs)) + ' on ' + longDay(asOfMs) + ', Sydney time';
 const S = F.S;
 const tiles = [];
@@ -395,13 +397,13 @@ const css = fs.readFileSync(path.join(__dirname, 'report.css'), 'utf8')
     ['IBM Plex Mono', 'IBMPlexMono-Medium.ttf', 'normal', '500'], ['IBM Plex Mono', 'IBMPlexMono-SemiBold.ttf', 'normal', '600']]
     .map(([fam, file, style, weight]) => "@font-face{font-family:'" + fam + "';src:url(data:font/ttf;base64," + fs.readFileSync(path.join(FONTS, file)).toString('base64') + ") format('truetype');font-style:" + style + ';font-weight:' + weight + '}').join('\n'))
   .replace('/*FOOT-LEFT*/', JSON.stringify(signOff))
-  .replace('/*FOOT-TITLE*/', JSON.stringify('Odds Ace Australia · Results report · ' + QNAME + (FINAL ? '' : ' (quarter so far)')));
+  .replace('/*FOOT-TITLE*/', JSON.stringify('Odds Ace Australia · Results report · ' + QNAME + (FINAL ? '' : ENDED ? ' (results still settling)' : ' (quarter so far)')));
 
 const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><title>Odds Ace Australia results report: ${esc(QNAME)}</title><style>${css}</style></head><body>
 <section class="cover">
   <header class="mast">${model.logoWide ? '<img class="logo" src="' + model.logoWide + '" alt="Odds Ace Australia">' : '<p class="brand">Odds Ace Australia</p>'}<p class="eyebrow">Quarterly results report<br><span>${esc(edition)}</span></p></header>
   <h1>${esc(QNAME)}</h1>
-  <p class="cov">${esc(coverage)}${WITH_LAUNCH ? ', including the launch alerts of 29 and 30 September' : ''}.${FINAL ? '' : ' Updated weekly until the quarter ends; the final edition follows once every game has settled.'}<br>${esc(asOfText)}.</p>
+  <p class="cov">${esc(coverage)}${WITH_LAUNCH ? ', including the launch alerts of 29 and 30 September' : ''}.${FINAL ? '' : ENDED ? ' The quarter has ended; ' + PENDING + ' alert' + (PENDING === 1 ? ' is' : 's are') + ' still waiting for a result, and the final edition follows once they settle.' : ' Updated weekly until the quarter ends; the final edition follows once every game has settled.'}<br>${esc(asOfText)}.</p>
   <p class="lead">Every alert Odds Ace found this quarter: the Aussie price, the US market's fair price at that moment, how the price held up before the game, and how each one finished, with the final score. Nothing is left out or added after the fact.${testBets.length ? ' The record also includes ' + testBets.length + ' test alerts found from 1 to 4 October while a filter was trialled. They weren\'t sent to members at the time, so they\'re marked and counted separately.' : ''}</p>
   <ul class="tiles">${tiles.map(t => '<li><span class="tile-n">' + esc(t[0]) + '</span><span class="tile-l">' + esc(t[1]) + '</span></li>').join('')}</ul>
   <h2>Results so far</h2>
@@ -485,7 +487,7 @@ fs.writeFileSync(csvPath, '\ufeff' + [CSV_COLS].concat(csvRows).map(r => r.map(c
   await page.evaluate(() => document.fonts.ready);
   await page.pdf({ path: args.out, preferCSSPageSize: true, printBackground: true, displayHeaderFooter: false, tagged: true, outline: true });
   await browser.close();
-  console.log(JSON.stringify({ out: args.out, quarter: args.quarter, from: START, to: QTO, final: FINAL, alerts: bets.length, sent: sentBets.length, tests: testBets.length,
+  console.log(JSON.stringify({ out: args.out, quarter: args.quarter, from: START, to: QTO, ended: ENDED, final: FINAL, pending: PENDING, alerts: bets.length, sent: sentBets.length, tests: testBets.length,
     settled: { sent: T.sent.settled, tests: T.tests.settled }, units: T.sent.U && { units: T.sent.U.units, roi: Math.round(T.sent.U.roi * 10) / 10 },
     clv: S.clvClosed >= CLV_MIN ? { beat: S.clvBeat, of: S.clvClosed, avg: S.clvAvg } : null, dropped: { n: S.dropped, of: S.closes }, median: S.median, tracked: S.tracked }));
 })().catch(e => { console.error(e); process.exit(1); });
