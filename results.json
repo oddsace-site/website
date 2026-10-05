@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-05T12:23:18Z",
- "updated": "Updated Mon, 5 Oct, 10:51 pm Sydney time.",
+ "generated_utc": "2026-10-05T13:23:06Z",
+ "updated": "Updated Mon, 5 Oct, 11:48 pm Sydney time.",
  "rows": [
   {
    "date": "Mon, 5 Oct",
@@ -3901,9 +3901,9 @@
   "clvClosed": 264,
   "clvBeat": 221,
   "clvAvg": 10.5,
-  "gapAvg": 14.7,
+  "gapAvg": 14.6,
   "gapMedian": 10.6,
-  "gapN": 320,
+  "gapN": 321,
   "perDay": 56,
   "perDayDays": 5,
   "perDayLow": 45,
