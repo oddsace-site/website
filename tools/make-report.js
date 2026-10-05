@@ -4,6 +4,9 @@
 // Built from the Edge Tracker's records with the website's own results code (resultRows, speedStats, unitStats, read
 // from the live page), so every figure matches the website's Results section. Each quarter's report covers the alerts
 // sent in that quarter (Sydney dates); the October-December 2026 report also covers the launch alerts of 29-30 September.
+// Since 5 Oct 2026 (website version 37) it covers alerts sent to members only and shows units without ROI, like the
+// website: the owner took the 1-4 Oct test alerts and the ROI figures off the site ("just remove roi % off and leave
+// units. remove test").
 //
 //   node make-report.js --page index.html --bets DIR --closes DIR --speed DIR --quarter 2026Q4 --out report.pdf
 //        [--asof 2026-10-05T07:00:00Z] [--html report.html] [--fonts DIR]
@@ -93,7 +96,7 @@ const asOfDay = sydDay(asOfMs);
 const ENDED = asOfDay > QTO; // the quarter is over (FINAL, below, also needs every result in)
 const inPeriod = d => { const t = Date.parse(d.alert_sent_utc || ''); if (isNaN(t)) return false; const day = sydDay(t); return day >= START && day <= QTO; };
 
-const bets = allBets.filter(d => inPeriod(d) && (isSent(d) || isTest(d)));
+const bets = allBets.filter(d => inPeriod(d) && isSent(d)); // members' alerts only since website version 37 (no tests)
 const sentBets = bets.filter(isSent), testBets = bets.filter(isTest);
 if (!sentBets.length && !testBets.length) throw new Error('no alerts in ' + START + ' to ' + QTO);
 const lastAlertMs = Math.max.apply(null, bets.map(d => Date.parse(d.alert_sent_utc)));
@@ -215,9 +218,9 @@ function niceStep(range, target) {
   return (f <= 1 ? 1 : f <= 2 ? 2 : f <= 2.5 ? 2.5 : f <= 5 ? 5 : 10) * mag;
 }
 function unitsChart() {
-  // Units added up game by game (by start time), one line each for all alerts found, sent to members and the tests.
+  // Units added up game by game (by start time): the members' line (the tests' lines came off with website version 37).
   const W = 680, H = 250, ml = 46, mr = 128, mt = 14, mb = 30;
-  const lines = [['all', 'All alerts found', T.all.rows], ['tests', 'Tests, not sent', T.tests.rows], ['sent', 'Sent to members', T.sent.rows]]
+  const lines = [['sent', 'Sent to members', T.sent.rows]]
     .filter(l => l[2].length >= UNITS_FROM);
   if (!lines.length) return '';
   const series = lines.map(([k, name, rows]) => {
@@ -298,7 +301,7 @@ function kmChart() {
 
 // ------------------------------------------------------------------ tables
 function groupTable(title, groups, firstCol) {
-  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time on old line</th><th>Settled</th><th>Units</th><th>ROI</th></tr></thead>';
+  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time on old line</th><th>Settled</th><th>Units</th></tr></thead>';
   const body = groups.map(([label, list]) => {
     const f = figures(list), S = f.S, U = f.settled >= UNITS_FROM ? f.U : null;
     const clv = S.clvClosed >= CLV_MIN && S.clvAvg != null, dr = S.closes >= SPEED_MIN_CLOSES, tm = S.tracked >= SPEED_MIN_TIMED;
@@ -309,8 +312,7 @@ function groupTable(title, groups, firstCol) {
       '<td>' + cell(dr, pct(S.dropped, S.closes) + '<span class="sub">' + S.dropped + ' of ' + S.closes + '</span>') + '</td>' +
       '<td>' + cell(tm, S.median != null ? fmtMinutes(S.median) : 'over ' + fmtMinutes(S.longest || 0)) + '</td>' +
       '<td>' + f.settled + '</td>' +
-      '<td>' + cell(U, U ? signed(U.units, 1) : '') + '</td>' +
-      '<td>' + cell(U, U ? signed(U.roi, 1) + '%<span class="sub">± ' + Math.round(U.margin) + '</span>' : '') + '</td></tr>';
+      '<td>' + cell(U, U ? signed(U.units, 1) : '') + '</td></tr>';
   }).join('');
   return '<div class="blk"><h3>' + esc(title) + '</h3><table class="grp">' + head + '<tbody>' + body + '</tbody></table></div>';
 }
@@ -337,11 +339,11 @@ function weeklyTable() {
   const rows = weeks.map(w => {
     const a = w < START ? START : w, b = addDays(w, 6) > end ? end : addDays(w, 6);
     const inW = d => { const day = sydDay(Date.parse(d.alert_sent_utc)); return day >= a && day <= b; };
-    const s = sentBets.filter(inW), t = testBets.filter(inW);
+    const s = sentBets.filter(inW);
     return '<tr><th class="l">' + dayShort(a) + (a === b ? '' : ' to ' + dayShort(b)) + '</th>' + sports.map(sp => '<td>' + (s.filter(d => d.sport === sp).length || DASH) + '</td>').join('') +
-      '<td class="b">' + s.length + '</td><td>' + (t.length || DASH) + '</td></tr>';
+      '<td class="b">' + s.length + '</td></tr>';
   }).join('');
-  return '<table class="grp wk"><thead><tr><th class="l">Alerts sent (Sydney dates)</th>' + sports.map(s => '<th>' + esc(LEAGUES[s]) + '</th>').join('') + '<th>All sent</th><th>Tests, not sent</th></tr></thead><tbody>' + rows + '</tbody></table>';
+  return '<table class="grp wk"><thead><tr><th class="l">Alerts sent (Sydney dates)</th>' + sports.map(s => '<th>' + esc(LEAGUES[s]) + '</th>').join('') + '<th>All sent</th></tr></thead><tbody>' + rows + '</tbody></table>';
 }
 
 // The record: every alert, game by game in order of start time
@@ -387,7 +389,7 @@ if (S.clvClosed >= CLV_MIN && S.clvAvg != null) tiles.push([pct(S.clvBeat, S.clv
 if (S.closes >= SPEED_MIN_CLOSES) tiles.push([pct(S.dropped, S.closes), 'had dropped by kick-off at the same bookmaker (' + S.dropped + ' of ' + S.closes + ')']);
 if (S.tracked >= SPEED_MIN_TIMED) tiles.push([S.median != null ? fmtMinutes(S.median).replace(/ h /, 'h ').replace(/ min$/, 'm').replace(/^(\d+) h$/, '$1h') : 'Over ' + fmtMinutes(S.longest || 0), 'typical time an alerted price stayed on the old line (' + S.tracked + ' followed)']);
 function tallyRow(label, t) {
-  return '<tr><th class="l">' + esc(label) + '</th><td>' + t.settled + '</td><td>' + (t.U ? signed(t.U.units, 1) : DASH) + '</td><td>' + (t.U ? signed(t.U.roi, 1) + '%' : DASH) + '</td><td>' + (t.U ? '± ' + Math.round(t.U.margin) + ' points' : DASH) + '</td></tr>';
+  return '<tr><th class="l">' + esc(label) + '</th><td>' + t.settled + '</td><td>' + (t.U ? signed(t.U.units, 1) : DASH) + '</td></tr>';
 }
 const nResults = T.all.settled;
 const css = fs.readFileSync(path.join(__dirname, 'report.css'), 'utf8')
@@ -404,13 +406,13 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
   <header class="mast">${model.logoWide ? '<img class="logo" src="' + model.logoWide + '" alt="Odds Ace Australia">' : '<p class="brand">Odds Ace Australia</p>'}<p class="eyebrow">Quarterly results report<br><span>${esc(edition)}</span></p></header>
   <h1>${esc(QNAME)}</h1>
   <p class="cov">${esc(coverage)}${WITH_LAUNCH ? ', including the launch alerts of 29 and 30 September' : ''}.${FINAL ? '' : ENDED ? ' The quarter has ended; ' + PENDING + ' alert' + (PENDING === 1 ? ' is' : 's are') + ' still waiting for a result, and the final edition follows once they settle.' : ' Updated weekly until the quarter ends; the final edition follows once every game has settled.'}<br>${esc(asOfText)}.</p>
-  <p class="lead">Every alert Odds Ace found this quarter: the Aussie price, the US market's fair price at that moment, how the price held up before the game, and how each one finished, with the final score. Nothing is left out or added after the fact.${testBets.length ? ' The record also includes ' + testBets.length + ' test alerts found from 1 to 4 October while a filter was trialled. They weren\'t sent to members at the time, so they\'re marked and counted separately.' : ''}</p>
+  <p class="lead">Every alert Odds Ace sent to members this quarter: the Aussie price, the US market's fair price at that moment, how the price held up before the game, and how each one finished, with the final score. Nothing is left out or added after the fact.${testBets.length ? ' The record also includes ' + testBets.length + ' test alerts found from 1 to 4 October while a filter was trialled. They weren\'t sent to members at the time, so they\'re marked and counted separately.' : ''}</p>
   <ul class="tiles">${tiles.map(t => '<li><span class="tile-n">' + esc(t[0]) + '</span><span class="tile-l">' + esc(t[1]) + '</span></li>').join('')}</ul>
   <h2>Results so far</h2>
-  <table class="grp tal"><thead><tr><th class="l"></th><th>Settled</th><th>Units</th><th>ROI</th><th>Luck alone could move the ROI by</th></tr></thead><tbody>
+  <table class="grp tal"><thead><tr><th class="l"></th><th>Settled</th><th>Units</th></tr></thead><tbody>
     ${tallyRow('Sent to members', T.sent)}${testBets.length ? tallyRow('Tests, not sent (1 to 4 Oct)', T.tests) + tallyRow('All alerts found', T.all) : ''}
   </tbody></table>
-  <p class="small">A 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out. Units and ROI show from ${UNITS_FROM} results. ${nResults < 100 ? 'It\'s early days: with ' + nResults + ' results, luck alone moves the ROI a long way, as the last column shows (95% range). ' : ''}Members' own alerts are the first line; the other lines aren't what members received.</p>
+  <p class="small">A 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out. Units show from ${UNITS_FROM} results.${nResults < 100 ? ' It\'s early days: ' + nResults + ' results are too few to read much into.' : ''}</p>
   <div class="caution"><p><b>Paper results, not advice.</b> Results use the price in each alert. Prices often move within minutes, and bookmakers can limit accounts, so real results are likely to be lower. Odds Ace is information, not betting advice, and past results don't predict future ones. You can still lose.</p></div>
 </section>
 
@@ -425,7 +427,7 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
 
 <section class="pg">
   <h2>Where the alerts came from</h2>
-  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, time on the old line from ${SPEED_MIN_TIMED} followed alerts, and units and ROI from ${UNITS_FROM} results. The figure under ROI is how far luck alone could move it (95%).</p>
+  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, time on the old line from ${SPEED_MIN_TIMED} followed alerts, and units from ${UNITS_FROM} results.</p>
   ${groupTable('By sport', groupsBy(sportOf, Object.keys(LEAGUES).map(k => LEAGUES[k])), 'Sport')}
   ${groupTable('By market', groupsBy(marketOf), 'Market')}
   ${groupTable('By bookmaker', groupsBy(d => d.paper_track_book || d.book || 'Unknown'), 'Bookmaker')}
@@ -456,7 +458,7 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
   <h3>Closing value and kick-off checks</h3>
   <p>Before each game the scans record the same bookmaker's price again. Closing value compares the alerted price with the US market's fair price at the last check before the game: the alerted price × the US chance − 1. Above zero means the alert beat where the US market closed. It counts once the game has started; voided bets are left out. "Dropped by kick-off" compares the alerted price with the same bookmaker's price at the last check before the game. Both measure price, not profit.</p>
   <h3>Results</h3>
-  <p>Each result is settled from the final score and the box score, with two sources that agree, and recorded with a note starting "Final:". Units are a 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out. ROI is units divided by settled results. The luck range is the 95% spread of ROI that chance alone could produce from the same number of results.</p>
+  <p>Each result is settled from the final score and the box score, with two sources that agree, and recorded with a note starting "Final:". Units are a 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out.</p>
   <h3>What these figures don't show</h3>
   <p>They're paper results at the alerted price. Prices often move within minutes of an alert, bookmakers can limit or close any account and can void bets they treat as obvious errors, so real results are likely to be lower. Odds Ace is information, not betting advice. Past results don't predict future ones.</p>
   <div class="caution"><p><b>Gambling help.</b> ${esc(signOff)}. You can block yourself from all licensed Australian online and phone betting at betstop.gov.au.</p></div>
@@ -468,14 +470,14 @@ if (args.html) fs.writeFileSync(args.html, doc);
 
 // The record as a spreadsheet: one row per alert, in game order (written next to the PDF unless --csv says where).
 const CSV_COLS = ['game_start_sydney', 'league', 'game', 'final_score', 'alert_sent_sydney', 'hours_before_start', 'selection', 'market',
-  'bookmaker', 'aussie_price', 'us_fair_price', 'gap_pct', 'last_check_price', 'last_check', 'closing_value_pct', 'result', 'how_it_settled', 'sent_to_members'];
+  'bookmaker', 'aussie_price', 'us_fair_price', 'gap_pct', 'last_check_price', 'last_check', 'closing_value_pct', 'result', 'how_it_settled'];
 const iso = ms => { if (isNaN(ms)) return ''; const p = syd(ms); return p.y + '-' + pad(p.mo) + '-' + pad(p.d) + ' ' + pad(p.h) + ':' + pad(p.mi); };
 const csvCell = v => { const t = v == null ? '' : String(v); return /[",\n]/.test(t) ? '"' + t.replace(/"/g, '""') + '"' : t; };
 const csvRows = rowsAll.slice().sort((a, b) => (a.startMs || 0) - (b.startMs || 0) || a.sentMs - b.sentMs).map(r => [
   iso(r.startMs), LEAGUES[r.sport] || r.sport, r.game, r.final, iso(r.sentMs), r.before == null ? '' : r.before.toFixed(1), r.selection, r.market,
   r.book, r.price == null ? '' : r.price.toFixed(2), r.us == null ? '' : r.us.toFixed(2), r.gap == null ? '' : r.gap.toFixed(1),
   r.lastPrice == null ? '' : r.lastPrice.toFixed(2), r.lastPrice == null ? '' : r.dropped ? 'dropped' : r.lastPrice > r.price + 1e-9 ? 'longer' : 'held',
-  r.clv == null ? '' : r.clv.toFixed(1), r.status, r.how, r.test ? 'no (test, 1-4 Oct)' : 'yes']);
+  r.clv == null ? '' : r.clv.toFixed(1), r.status, r.how]);
 const csvPath = args.csv || args.out.replace(/\.pdf$/i, '') + '.csv';
 fs.writeFileSync(csvPath, '\ufeff' + [CSV_COLS].concat(csvRows).map(r => r.map(csvCell).join(',')).join('\r\n') + '\r\n');
 
