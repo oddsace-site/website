@@ -1,4 +1,4 @@
-﻿game_start_sydney,league,game,final_score,alert_sent_sydney,hours_before_start,selection,market,bookmaker,aussie_price,us_fair_price,gap_pct,last_check_price,last_check,closing_value_pct,result,how_it_settled
+﻿game_start_sydney,league,game,final_score,alert_sent_sydney,hours_before_start,selection,market,bookmaker,aussie_price,us_reference_price,gap_pct,last_check_price,last_check,closing_value_pct,result,how_it_settled
 2026-09-30 10:00,MLB,Boston Red Sox @ New York Yankees,"NYY 9, BOS 0",2026-09-30 06:04,3.9,Payton Tolle Under 4.5 hits allowed,Player props,TAB,1.85,1.74,6.2,1.58,dropped,5.5,lost,"He allowed 5 hits, over the 4.5 line"
 2026-09-30 10:00,MLB,Boston Red Sox @ New York Yankees,"NYY 9, BOS 0",2026-09-30 06:04,3.9,Payton Tolle Under 17.5 outs recorded,Player props,TAB,1.75,1.53,14.2,1.55,dropped,13.2,won,"He recorded 14 outs, under the 17.5 line"
 2026-10-01 12:00,MLB,Chicago Cubs @ San Diego Padres,"SD 4, CHC 1",2026-10-01 07:08,4.9,Kevin Gausman Over 4.5 hits allowed,Player props,TAB,2.60,2.26,15.0,2.60,held,10.5,won,"He allowed 5 hits, over the 4.5 line"
@@ -337,6 +337,9 @@
 2026-10-07 10:00,NHL,Nashville Predators @ Toronto Maple Leafs,,2026-10-06 10:49,23.2,Under 5.5,Sharp-money moves,Betfair,2.18,2.16,1.2,,,,pending,
 2026-10-07 11:00,NHL,St. Louis Blues @ Chicago Blackhawks,,2026-10-06 13:15,21.7,St. Louis Blues,Sharp-money moves,Unibet,1.78,1.81,-1.8,,,,pending,
 2026-10-09 10:30,College football,South Florida @ UTSA,,2026-10-06 09:18,73.2,Under 49.5,Sharp-money moves,Unibet,2.07,2.10,-1.2,,,,pending,
+2026-10-09 11:15,NFL,Tampa Bay Buccaneers @ Dallas Cowboys,,2026-10-06 18:17,65.0,Chris Godwin Under 30.5 receiving yards,Player props,TAB,1.90,1.73,10.1,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-29 18:03,275.4,Oklahoma,Game lines,Sportsbet,3.70,3.08,20.1,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-30 07:04,262.4,Oklahoma,Game lines,Sportsbet,3.90,3.08,26.6,,,,pending,
+2026-10-12 00:30,NFL,Philadelphia Eagles @ Jacksonville Jaguars,,2026-10-06 18:17,126.2,Bhayshul Tuten Under 60.5 rushing yards,Player props,TAB,2.00,1.83,9.3,,,,pending,
+2026-10-12 00:30,NFL,Philadelphia Eagles @ Jacksonville Jaguars,,2026-10-06 18:17,126.2,Trevor Lawrence Under 31.5 pass attempts,Player props,Unibet,1.85,1.68,10.4,,,,pending,
 2026-10-12 11:20,NFL,Baltimore Ravens @ Atlanta Falcons,,2026-09-30 07:04,291.3,Atlanta Falcons,Game lines,Sportsbet,3.73,3.39,10.0,,,,pending,
