@@ -17,6 +17,7 @@ Key facts
 Pages
 - [Home](https://oddsaceaustralia.com/): what it does, how it works, live figures (average gap, alerts a day), results table, pricing
 - [FAQ](https://oddsaceaustralia.com/#faq): how alerts work, joining the channels, the launch offer, cancelling and refunds
+- [Why Australian odds on US sports lag the American market](https://oddsaceaustralia.com/why-aussie-odds-lag/): why Aussie prices move after the US market, what the gap means, how long the old price lasts
 - [About](https://oddsaceaustralia.com/#about): who runs it and why every result is published
 - [How Odds Ace compares](https://oddsaceaustralia.com/#compare): other Australian price-alert services
 - [After you join](https://oddsaceaustralia.com/#after-you-join): what happens after checkout
