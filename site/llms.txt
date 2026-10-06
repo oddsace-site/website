@@ -5,7 +5,7 @@
 Key facts
 - Website: https://oddsaceaustralia.com/ (Melbourne, Australia; sole trader Tony Chalhoub; ABN 38 722 496 289; registered business name Odds Ace Australia)
 - Sports: NFL, NBA, NHL, MLB, college football and college basketball
-- What an alert contains: the game, the market, the Aussie bookmaker and its price, the US fair price (bookmakers' margin removed) and the gap between them, e.g. Aussie 1.80 vs US fair price 1.65 = +9.1%
+- What an alert contains: the game, the market, the Aussie bookmaker and its price, the US reference price (bookmakers' margin removed) and the gap between them, e.g. Aussie 1.80 vs US reference price 1.65 = +9.1%
 - Price: launch price A$79 a month (GST included) for members who join before 1 January 2027, kept for as long as the membership continues; standard price A$98.75 a month from 1 January 2027; 3-day free trial; cancel online at any time; payments through Whop
 - Delivery: private Telegram channels (every alert in the main channel, plus NFL, college football and NHL channels)
 - After joining: a personal invite link to each channel arrives by email from info@oddsaceaustralia.com within 5 minutes
