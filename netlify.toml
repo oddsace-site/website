@@ -2,3 +2,11 @@
 # Only pushes to main deploy (each production deploy uses Netlify credits); the results live on the "data" branch.
 [build]
   publish = "site"
+
+# The quarterly results report (PDF and CSV) lives on the "reports" branch and is updated weekly without a deploy.
+# This serves it from the domain (oddsaceaustralia.com/reports/latest.pdf), so search engines credit it to the site.
+[[redirects]]
+  from = "/reports/*"
+  to = "https://raw.githubusercontent.com/oddsace-site/website/reports/reports/:splat"
+  status = 200
+  force = true

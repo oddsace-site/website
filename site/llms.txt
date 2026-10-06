@@ -1,0 +1,24 @@
+# Odds Ace Australia
+
+> Odds Ace Australia is a paid alert service for Australians who bet on US sports. It checks 7 Australian-licensed bookmakers (TAB, Sportsbet, Neds, PointsBet, Unibet, Betr and Betfair) against 8 major US sportsbooks 24 hours a day and sends a Telegram alert when an Aussie price is still on the old line after the American market has moved. Every alert is recorded at the price it went out at and settled from the box score once the game ends, wins and losses alike; the full record is public.
+
+Key facts
+- Website: https://oddsaceaustralia.com/ (Melbourne, Australia; sole trader Tony Chalhoub; ABN 38 722 496 289; registered business name Odds Ace Australia)
+- Sports: NFL, NBA, NHL, MLB, college football and college basketball
+- What an alert contains: the game, the market, the Aussie bookmaker and its price, the US fair price (bookmakers' margin removed) and the gap between them, e.g. Aussie 1.80 vs US fair price 1.65 = +9.1%
+- Price: launch price A$79 a month (GST included) for members who join before 1 January 2027, kept for as long as the membership continues; standard price A$98.75 a month from 1 January 2027; 3-day free trial; cancel online at any time; payments through Whop
+- Delivery: private Telegram channels (every alert in the main channel, plus NFL, college football and NHL channels)
+- After joining: a personal invite link to each channel arrives by email from info@oddsaceaustralia.com within 5 minutes
+- Public results: free Telegram channel https://t.me/oddsaceresults, and the results table on the website
+- Not a tipping service: no predictions, no profit claims, no bookmaker affiliation or payments from bookmakers
+- Australian residents aged 18 and over only. Gambling help: 1800 858 858, https://www.gamblinghelponline.org.au
+- Contact: info@oddsaceaustralia.com
+
+Pages
+- [Home](https://oddsaceaustralia.com/): what it does, how it works, live figures (average gap, alerts a day), results table, pricing
+- [FAQ](https://oddsaceaustralia.com/#faq): how alerts work, joining the channels, the launch offer, cancelling and refunds
+- [About](https://oddsaceaustralia.com/#about): who runs it and why every result is published
+- [How Odds Ace compares](https://oddsaceaustralia.com/#compare): other Australian price-alert services
+- [After you join](https://oddsaceaustralia.com/#after-you-join): what happens after checkout
+- [Terms](https://oddsaceaustralia.com/#terms), [Privacy](https://oddsaceaustralia.com/#privacy), [Responsible gambling](https://oddsaceaustralia.com/#responsible-gambling)
+- Quarterly results report, updated weekly (PDF and CSV): https://oddsaceaustralia.com/reports/latest.pdf and https://oddsaceaustralia.com/reports/latest.csv
