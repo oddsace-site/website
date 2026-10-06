@@ -237,7 +237,7 @@ function unitsChart() {
   y0 = Math.floor(y0 / step) * step; y1 = Math.ceil(y1 / step) * step;
   if (y1 === y0) y1 = y0 + step;
   const X = t => ml + (x1 === x0 ? 0.5 : (t - x0) / (x1 - x0)) * (W - ml - mr), Y = v => mt + (y1 - v) / (y1 - y0) * (H - mt - mb);
-  const out = ['<svg class="chart" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Units over time">'];
+  const out = ['<svg class="chart" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Hypothetical paper units over time">'];
   for (let v = y0; v <= y1 + 1e-9; v += step) {
     out.push('<line class="' + (Math.abs(v) < 1e-9 ? 'zero' : 'grid') + '" x1="' + ml + '" x2="' + (W - mr) + '" y1="' + Y(v).toFixed(1) + '" y2="' + Y(v).toFixed(1) + '"/>');
     out.push('<text class="tick" x="' + (ml - 8) + '" y="' + (Y(v) + 4).toFixed(1) + '" text-anchor="end">' + signed(v, step < 1 ? 1 : 0) + '</text>');
@@ -301,7 +301,7 @@ function kmChart() {
 
 // ------------------------------------------------------------------ tables
 function groupTable(title, groups, firstCol) {
-  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time on old line</th><th>Settled</th><th>Units</th></tr></thead>';
+  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time on old line</th><th>Settled</th><th>Paper units</th></tr></thead>';
   const body = groups.map(([label, list]) => {
     const f = figures(list), S = f.S, U = f.settled >= UNITS_FROM ? f.U : null;
     const clv = S.clvClosed >= CLV_MIN && S.clvAvg != null, dr = S.closes >= SPEED_MIN_CLOSES, tm = S.tracked >= SPEED_MIN_TIMED;
@@ -372,7 +372,7 @@ function logTable() {
     return '<tbody class="g">' + head + lines + '</tbody>';
   }).join('');
   return '<table class="log"><colgroup><col class="c-sel"><col class="c-book"><col class="c-when"><col class="c-n"><col class="c-n"><col class="c-n2"><col class="c-n2"><col class="c-n2"><col class="c-res"></colgroup>' +
-    '<thead><tr><th class="l">Alert</th><th class="l">Bookmaker</th><th class="l">Sent (Sydney)</th><th>Price</th><th>US fair</th><th>Gap</th><th>Last check</th><th>Closing value</th><th class="l">Result</th></tr></thead>' + body + '</table>';
+    '<thead><tr><th class="l">Alert</th><th class="l">Bookmaker</th><th class="l">Sent (Sydney)</th><th>Price</th><th>US reference</th><th>Gap</th><th>Last check</th><th>Closing value</th><th class="l">Result</th></tr></thead>' + body + '</table>';
 }
 
 // ------------------------------------------------------------------ the document
@@ -406,28 +406,28 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
   <header class="mast">${model.logoWide ? '<img class="logo" src="' + model.logoWide + '" alt="Odds Ace Australia">' : '<p class="brand">Odds Ace Australia</p>'}<p class="eyebrow">Quarterly results report<br><span>${esc(edition)}</span></p></header>
   <h1>${esc(QNAME)}</h1>
   <p class="cov">${esc(coverage)}${WITH_LAUNCH ? ', including the launch alerts of 29 and 30 September' : ''}.${FINAL ? '' : ENDED ? ' The quarter has ended; ' + PENDING + ' alert' + (PENDING === 1 ? ' is' : 's are') + ' still waiting for a result, and the final edition follows once they settle.' : ' Updated weekly until the quarter ends; the final edition follows once every game has settled.'}<br>${esc(asOfText)}.</p>
-  <p class="lead">Every alert Odds Ace sent to members this quarter: the Aussie price, the US market's fair price at that moment, how the price held up before the game, and how each one finished, with the final score. Nothing is left out or added after the fact.${testBets.length ? ' The record also includes ' + testBets.length + ' test alerts found from 1 to 4 October while a filter was trialled. They weren\'t sent to members at the time, so they\'re marked and counted separately.' : ''}</p>
+  <p class="lead">Every alert Odds Ace sent to members this quarter: the Aussie price, the US reference price (the US market's price with its margin removed) at that moment, how the price held up before the game, and how each one finished, with the final score. Nothing is left out or added after the fact.${testBets.length ? ' The record also includes ' + testBets.length + ' test alerts found from 1 to 4 October while a filter was trialled. They weren\'t sent to members at the time, so they\'re marked and counted separately.' : ''}</p>
   <ul class="tiles">${tiles.map(t => '<li><span class="tile-n">' + esc(t[0]) + '</span><span class="tile-l">' + esc(t[1]) + '</span></li>').join('')}</ul>
   <h2>Results so far</h2>
-  <table class="grp tal"><thead><tr><th class="l"></th><th>Settled</th><th>Units</th></tr></thead><tbody>
+  <table class="grp tal"><thead><tr><th class="l"></th><th>Settled</th><th>Paper units</th></tr></thead><tbody>
     ${tallyRow('Sent to members', T.sent)}${testBets.length ? tallyRow('Tests, not sent (1 to 4 Oct)', T.tests) + tallyRow('All alerts found', T.all) : ''}
   </tbody></table>
-  <p class="small">A 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out. Units show from ${UNITS_FROM} results.${nResults < 100 ? ' It\'s early days: ' + nResults + ' results are too few to read much into.' : ''}</p>
+  <p class="small">Paper units are hypothetical, with no money staked: a 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out. They show from ${UNITS_FROM} results.${nResults < 100 ? ' It\'s early days: ' + nResults + ' results are too few to read much into.' : ''}</p>
   <div class="caution"><p><b>Paper results, not advice.</b> Results use the price in each alert. Prices often move within minutes, and bookmakers can limit accounts, so real results are likely to be lower. Odds Ace is information, not betting advice, and past results don't predict future ones. You can still lose.</p></div>
 </section>
 
 <section class="pg">
   <h2>How the alerted prices held up</h2>
-  <p>Each alert compares an Aussie bookmaker's price with the US market's fair price, with the bookmakers' margin taken out. Three things show whether those prices were out of line: whether the Aussie price beat where the US market closed, whether the Aussie bookmaker cut the price before the game, and how long the old price lasted.</p>
+  <p>Each alert compares an Aussie bookmaker's price with the US reference price: the US market's price with the bookmakers' margin removed. Three things show whether those prices were out of line: whether the Aussie price beat where the US market closed, whether the Aussie bookmaker cut the price before the game, and how long the old price lasted.</p>
   ${kmChart() ? '<figure><figcaption><b>Share of alerted prices still on the old line</b>, by time since the alert (' + KM.n + ' alerts followed from their first re-check, ' + KM.moved + ' seen to move)</figcaption>' + kmChart() + '</figure>' : '<p class="small">Timings appear once ' + SPEED_MIN_TIMED + ' alerts have been followed.</p>'}
   <p class="small">After each alert the same bookmaker's price is checked again at each scan until it drops or the game starts. Only alerts first re-checked within ${SPEED_START_MAX} minutes count, and a drop is timed halfway between the last check that found the old price and the first that didn't. Alerts whose game started first still count until then (a Kaplan-Meier estimate).</p>
-  <h2>Units over time</h2>
-  <figure><figcaption><b>Units, added up game by game</b> in order of start time (1 unit on every settled alert at the alerted price)</figcaption>${unitsChart() || '<p class="small">The chart appears from ' + UNITS_FROM + ' results.</p>'}</figure>
+  <h2>Hypothetical paper units over time</h2>
+  <figure><figcaption><b>Paper units, added up game by game</b> in order of start time (a hypothetical 1 unit on every settled alert at the alerted price; no money is staked)</figcaption>${unitsChart() || '<p class="small">The chart appears from ' + UNITS_FROM + ' results.</p>'}</figure>
 </section>
 
 <section class="pg">
   <h2>Where the alerts came from</h2>
-  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, time on the old line from ${SPEED_MIN_TIMED} followed alerts, and units from ${UNITS_FROM} results.</p>
+  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, time on the old line from ${SPEED_MIN_TIMED} followed alerts, and paper units from ${UNITS_FROM} results.</p>
   ${groupTable('By sport', groupsBy(sportOf, Object.keys(LEAGUES).map(k => LEAGUES[k])), 'Sport')}
   ${groupTable('By market', groupsBy(marketOf), 'Market')}
   ${groupTable('By bookmaker', groupsBy(d => d.paper_track_book || d.book || 'Unknown'), 'Bookmaker')}
@@ -435,7 +435,7 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
 
 <section class="pg">
   <h2>Timing and size of the gap</h2>
-  <p>How far ahead of the game each alert went out, and how big the gap was between the Aussie price and the US fair price when it did.</p>
+  <p>How far ahead of the game each alert went out, and how big the gap was between the Aussie price and the US reference price when it did.</p>
   ${groupTable('By time before the game', groupsBy(timingOf, TIMING), 'Alert sent')}
   ${groupTable('By gap at the alert', groupsBy(gapOf, GAPS), 'Gap')}
   <div class="blk"><h3>Alerts by week</h3>
@@ -445,7 +445,7 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
 <section class="log-s">
   <h2>The record</h2>
   ${rowsAll.length > LOG_MAX ? '<p>This quarter has ' + rowsAll.length + ' alerts, too many to list in a PDF. Every one is in the spreadsheet (CSV) published with this report, with the same columns as below.</p>' : ''}
-  <p class="small">${rowsAll.length > LOG_MAX ? 'Columns in the spreadsheet' : 'Every alert in this report, game by game in order of start time (Sydney time). The same record is in the spreadsheet (CSV) published with this report'}. <b>Price</b>: the Aussie price in the alert. <b>US fair</b>: the US market's price with the margin taken out. <b>Gap</b>: how far the Aussie price was above it. <b>Last check</b>: the same bookmaker's price at the last check before the game. <b>Closing value</b>: the alerted price against the US fair price at that last check. The note under each result says how it was settled, from the box score.</p>
+  <p class="small">${rowsAll.length > LOG_MAX ? 'Columns in the spreadsheet' : 'Every alert in this report, game by game in order of start time (Sydney time). The same record is in the spreadsheet (CSV) published with this report'}. <b>Price</b>: the Aussie price in the alert. <b>US reference</b>: the US market's price with the margin removed. <b>Gap</b>: how far the Aussie price was above it. <b>Last check</b>: the same bookmaker's price at the last check before the game. <b>Closing value</b>: the alerted price against the US reference price at that last check. The note under each result says how it was settled, from the box score.</p>
   ${rowsAll.length > LOG_MAX ? '' : logTable()}
 </section>
 
@@ -454,11 +454,11 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
   <h3>What's included</h3>
   <p>Every alert Odds Ace sent to members with a Sydney date in the period, whatever happened to it${testBets.length ? ', and the test alerts from 1 to 4 October, which were found and recorded at the time but not sent' : ''}. Nothing is removed after the fact and nothing is added. The same records drive the Results section of oddsaceaustralia.com, which updates every hour.</p>
   <h3>Prices</h3>
-  <p>The Aussie price is the bookmaker's price in the alert. The US fair price is the US market's price at the same moment with the bookmakers' margin removed. The gap is the Aussie price × the US fair chance − 1. A "sharp-money move" is an alert where the US line moved towards a side most of the public weren't on, and the Aussie price hadn't followed.</p>
+  <p>The Aussie price is the bookmaker's price in the alert. The US reference price is the US market's price at the same moment with the bookmakers' margin removed. The gap is the Aussie price × the US chance − 1. A "sharp-money move" is an alert where the US line moved towards a side most of the public weren't on, and the Aussie price hadn't followed.</p>
   <h3>Closing value and kick-off checks</h3>
-  <p>Before each game the scans record the same bookmaker's price again. Closing value compares the alerted price with the US market's fair price at the last check before the game: the alerted price × the US chance − 1. Above zero means the alert beat where the US market closed. It counts once the game has started; voided bets are left out. "Dropped by kick-off" compares the alerted price with the same bookmaker's price at the last check before the game. Both measure price, not profit.</p>
+  <p>Before each game the scans record the same bookmaker's price again. Closing value compares the alerted price with the US reference price at the last check before the game: the alerted price × the US chance − 1. Above zero means the alert beat where the US market closed. It counts once the game has started; voided bets are left out. "Dropped by kick-off" compares the alerted price with the same bookmaker's price at the last check before the game. Both measure price, not profit.</p>
   <h3>Results</h3>
-  <p>Each result is settled from the final score and the box score, with two sources that agree, and recorded with a note starting "Final:". Units are a 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out.</p>
+  <p>Each result is settled from the final score and the box score, with two sources that agree, and recorded with a note starting "Final:". Paper units are hypothetical, with no money staked: a 1-unit stake on every settled alert at the price in the alert; pushes and voids are left out.</p>
   <h3>What these figures don't show</h3>
   <p>They're paper results at the alerted price. Prices often move within minutes of an alert, bookmakers can limit or close any account and can void bets they treat as obvious errors, so real results are likely to be lower. Odds Ace is information, not betting advice. Past results don't predict future ones.</p>
   <div class="caution"><p><b>Gambling help.</b> ${esc(signOff)}. You can block yourself from all licensed Australian online and phone betting at betstop.gov.au.</p></div>
@@ -470,7 +470,7 @@ if (args.html) fs.writeFileSync(args.html, doc);
 
 // The record as a spreadsheet: one row per alert, in game order (written next to the PDF unless --csv says where).
 const CSV_COLS = ['game_start_sydney', 'league', 'game', 'final_score', 'alert_sent_sydney', 'hours_before_start', 'selection', 'market',
-  'bookmaker', 'aussie_price', 'us_fair_price', 'gap_pct', 'last_check_price', 'last_check', 'closing_value_pct', 'result', 'how_it_settled'];
+  'bookmaker', 'aussie_price', 'us_reference_price', 'gap_pct', 'last_check_price', 'last_check', 'closing_value_pct', 'result', 'how_it_settled'];
 const iso = ms => { if (isNaN(ms)) return ''; const p = syd(ms); return p.y + '-' + pad(p.mo) + '-' + pad(p.d) + ' ' + pad(p.h) + ':' + pad(p.mi); };
 const csvCell = v => { const t = v == null ? '' : String(v); return /[",\n]/.test(t) ? '"' + t.replace(/"/g, '""') + '"' : t; };
 const csvRows = rowsAll.slice().sort((a, b) => (a.startMs || 0) - (b.startMs || 0) || a.sentMs - b.sentMs).map(r => [
