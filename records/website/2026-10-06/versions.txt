@@ -1,0 +1,16 @@
+Odds Ace Australia website: versions published from 01/09/2026, 10:00 AEST to 06/10/2026, 14:20 AEDT
+Each line is one publish to oddsaceaustralia.com (a commit to the site on the main branch of github.com/oddsace-site/website):
+Sydney time, commit, what changed. The exact files of any version: https://github.com/oddsace-site/website/tree/<commit>/site
+
+06/10/2026, 13:21 AEDT  73c9b5a  Independence wording on the explainer page's footer and in llms.txt
+06/10/2026, 12:25 AEDT  768644f  Add the explainer page /why-aussie-odds-lag/ and list it in the sitemap and llms.txt
+06/10/2026, 11:53 AEDT  ce2fac4  Add search engine files: robots.txt, sitemap.xml, llms.txt, share image, icons and /reports
+06/10/2026, 09:21 AEDT  f6d6a5f  Publish website changes
+05/10/2026, 21:02 AEDT  376eb6e  Publish website changes
+05/10/2026, 19:10 AEDT  24f3ac3  Publish website changes
+05/10/2026, 19:01 AEDT  35da4d5  Publish website changes
+05/10/2026, 09:21 AEDT  3a42c39  Publish website changes
+04/10/2026, 15:07 AEDT  acad092  Publish website changes
+04/10/2026, 14:51 AEDT  62418f9  Publish website changes
+03/10/2026, 09:21 AEST  0c17971  Publish website changes
+02/10/2026, 22:34 AEST  838f24f  Add the Odds Ace Australia website
