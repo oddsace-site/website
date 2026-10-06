@@ -265,7 +265,7 @@
 2026-10-05 07:25,NFL,Los Angeles Chargers @ Seattle Seahawks,"SEA 30, LAC 23",2026-10-04 08:53,22.5,Rashid Shaheed Under 25.5 receiving yards,Player props,PointsBet,1.87,1.66,12.8,1.80,dropped,6.6,won,"20 yards, under 25.5"
 2026-10-05 07:25,NFL,Los Angeles Chargers @ Seattle Seahawks,"SEA 30, LAC 23",2026-10-04 08:53,22.5,Emanuel Wilson Under 52.5 rushing yards,Player props,Neds,1.88,1.72,9.5,,,14.5,lost,"81 yards, over 52.5"
 2026-10-05 07:25,NFL,Kansas City Chiefs @ Las Vegas Raiders,"KC 30, LV 27",2026-10-04 08:53,22.5,Xavier Worthy Under 20.5 longest reception,Player props,TAB,1.80,1.61,11.5,,,8.7,lost,"Longest catch 41, over 20.5"
-2026-10-05 07:25,NFL,Denver Broncos @ San Francisco 49ers,,2026-10-04 20:18,11.1,Troy Franklin Under 5.5 receiving yards,Player props,TAB,2.05,1.88,9.3,2.00,dropped,7.6,pending,
+2026-10-05 07:25,NFL,Denver Broncos @ San Francisco 49ers,"SF 24, DEN 14",2026-10-04 20:18,11.1,Troy Franklin Under 5.5 receiving yards,Player props,TAB,2.05,1.88,9.3,2.00,dropped,7.6,won,"0 yards, under the 5.5 line"
 2026-10-05 07:25,NFL,Kansas City Chiefs @ Las Vegas Raiders,"KC 30, LV 27",2026-10-04 21:48,9.6,Jalen Nailor Under 20.5 receiving yards,Player props,TAB,2.00,1.82,9.8,2.00,held,9.4,won,"0 yards, under 20.5"
 2026-10-05 07:25,NFL,Los Angeles Chargers @ Seattle Seahawks,"SEA 30, LAC 23",2026-10-05 01:26,6.0,Tre' Harris Under 3.5 receptions,Player props,PointsBet,1.87,1.67,12.1,1.87,held,10.5,won,
 2026-10-05 07:25,NFL,Denver Broncos @ San Francisco 49ers,"SF 24, DEN 14",2026-10-05 01:26,6.0,Kyle Juszczyk Under 10.5 receiving yards,Player props,PointsBet,1.83,1.67,9.5,1.87,longer,9.0,lost,"28 yards, over 10.5"
@@ -299,23 +299,44 @@
 2026-10-05 11:20,NFL,Detroit Lions @ Carolina Panthers,"CAR 32, DET 26",2026-10-05 04:00,7.3,Darren Waller Under 3.5 receptions,Player props,Sportsbet,1.93,1.77,9.2,1.88,dropped,-2.5,won,"3 catches, under the 3.5 line"
 2026-10-05 11:20,NFL,Detroit Lions @ Carolina Panthers,"CAR 32, DET 26",2026-10-05 09:14,2.1,Mitchell Evans Under 10.5 receiving yards,Player props,PointsBet,1.80,1.56,15.3,1.77,dropped,12.9,won,"8 yards, under the 10.5 line"
 2026-10-05 12:00,NHL,Vegas Golden Knights @ Vancouver Canucks,"VGK 3, VAN 2",2026-10-05 10:48,1.2,Vancouver Canucks,Sharp-money moves,Unibet,3.55,3.49,1.7,3.55,held,0.8,lost,Vancouver lost
-2026-10-06 10:30,NHL,Winnipeg Jets @ Pittsburgh Penguins,,2026-10-05 18:21,16.1,Viggo Bjorck (anytime goal),Scorer markets,Neds,19.00,6.41,196.6,,,,pending,
-2026-10-06 11:00,NHL,San Jose Sharks @ Dallas Stars,,2026-10-05 18:21,16.6,Colin Blackwell (anytime goal),Scorer markets,Neds,12.00,9.76,22.9,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-09-30 20:06,134.2,Bijan Robinson Over 149.5 rushing + receiving yards (TAB '150+'),Player props,TAB,3.30,2.75,20.1,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-01 07:08,123.1,Jahan Dotson Under 20.5 receiving yards,Player props,TAB,2.00,1.67,20.0,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-01 11:12,119.0,Noah Fant Under 20.5 receiving yards,Player props,PointsBet,1.83,1.66,10.2,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-01 17:10,113.1,Alvin Kamara Under 60.5 rushing + receiving yards,Player props,TAB,2.00,1.84,8.7,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-01 17:10,113.1,Kendre Miller Under 30.5 rushing yards,Player props,PointsBet,1.77,1.59,10.9,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-02 07:50,98.4,Olamide Zaccheaus Under 10.5 receiving yards,Player props,PointsBet,1.77,1.57,12.8,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-02 07:50,98.4,Alvin Kamara Under 40.5 rushing yards,Player props,TAB,1.90,1.75,8.6,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-03 03:30,78.7,Alvin Kamara Under 15.5 receiving yards,Player props,TAB,2.05,1.90,8.1,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-03 14:15,68.0,Chris Olave Over 7.5 receptions (TAB '8+'),Player props,TAB,2.70,2.40,12.6,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-03 16:18,65.9,Alvin Kamara Under 11.5 rush attempts,Player props,Neds,1.98,1.81,9.1,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-04 07:22,51.9,Kyle Pitts Under 2.5 receptions,Player props,TAB,2.30,2.07,11.1,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-04 11:22,47.9,Noah Fant Under 2.5 receptions,Player props,PointsBet,2.00,1.54,29.5,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-05 01:26,33.8,Devaughn Vele Under 50.5 receiving yards,Player props,PointsBet,1.87,1.66,12.6,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-05 12:14,23.0,Tyler Shough Under 36.5 pass attempts,Player props,TAB,1.85,1.64,12.8,,,,pending,
-2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,,2026-10-05 19:17,16.0,Austin Hooper (anytime touchdown),Scorer markets,Unibet,9.50,8.19,16.0,,,,pending,
+2026-10-06 10:00,NHL,Philadelphia Flyers @ Tampa Bay Lightning,"TB 4, PHI 1",2026-10-06 08:20,1.7,John Carlson Under 1.5 shots on goal,Player props,PointsBet,2.70,2.40,12.7,2.40,dropped,-9.7,won,"1 shot, under the 1.5 line"
+2026-10-06 10:00,NHL,Philadelphia Flyers @ Tampa Bay Lightning,"TB 4, PHI 1",2026-10-06 09:18,0.7,Jeffrey Viel (anytime goal),Scorer markets,Neds,11.50,9.76,17.8,11.50,held,17.8,lost,He played and didn't score
+2026-10-06 10:30,NHL,Winnipeg Jets @ Pittsburgh Penguins,"WPG 3, PIT 2",2026-10-05 18:21,16.1,Viggo Bjorck (anytime goal),Scorer markets,Neds,19.00,6.41,196.6,17.00,dropped,211.5,lost,He played and didn't score
+2026-10-06 10:30,NHL,Ottawa Senators @ Boston Bruins,"OTT 4, BOS 1",2026-10-05 23:15,11.2,Boston Bruins,Sharp-money moves,Betfair,2.02,2.05,-1.9,1.98,dropped,-1.4,lost,Boston lost
+2026-10-06 11:00,NHL,San Jose Sharks @ Dallas Stars,"DAL 5, SJ 0",2026-10-05 18:21,16.6,Colin Blackwell (anytime goal),Scorer markets,Neds,12.00,9.76,22.9,11.00,dropped,,void,Player did not play
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-09-30 20:06,134.2,Bijan Robinson Over 149.5 rushing + receiving yards (TAB '150+'),Player props,TAB,3.30,2.75,20.1,2.80,dropped,20.2,lost,"147, short of 150"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-01 07:08,123.1,Jahan Dotson Under 20.5 receiving yards,Player props,TAB,2.00,1.67,20.0,1.72,dropped,12.2,lost,"54 yards, over 20.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-01 11:12,119.0,Noah Fant Under 20.5 receiving yards,Player props,PointsBet,1.83,1.66,10.2,,,,void,Player did not play
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-01 17:10,113.1,Alvin Kamara Under 60.5 rushing + receiving yards,Player props,TAB,2.00,1.84,8.7,,,16.3,won,"58, under 60.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-01 17:10,113.1,Kendre Miller Under 30.5 rushing yards,Player props,PointsBet,1.77,1.59,10.9,,,5.2,won,"9 yards, under 30.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-02 07:50,98.4,Olamide Zaccheaus Under 10.5 receiving yards,Player props,PointsBet,1.77,1.57,12.8,1.87,longer,5.7,won,"0 yards, under 10.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-02 07:50,98.4,Alvin Kamara Under 40.5 rushing yards,Player props,TAB,1.90,1.75,8.6,,,11.2,won,"23 yards, under 40.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-03 03:30,78.7,Alvin Kamara Under 15.5 receiving yards,Player props,TAB,2.05,1.90,8.1,1.72,dropped,6.6,lost,"35 yards, over 15.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-03 14:15,68.0,Chris Olave Over 7.5 receptions (TAB '8+'),Player props,TAB,2.70,2.40,12.6,2.20,dropped,13.9,won,8 receptions
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-03 16:18,65.9,Alvin Kamara Under 11.5 rush attempts,Player props,Neds,1.98,1.81,9.1,1.70,dropped,12.2,won,"7 carries, under 11.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-04 07:22,51.9,Kyle Pitts Under 2.5 receptions,Player props,TAB,2.30,2.07,11.1,,,3.4,lost,"3 receptions, over 2.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-04 11:22,47.9,Noah Fant Under 2.5 receptions,Player props,PointsBet,2.00,1.54,29.5,,,,void,Player did not play
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-05 01:26,33.8,Devaughn Vele Under 50.5 receiving yards,Player props,PointsBet,1.87,1.66,12.6,1.87,held,10.0,lost,"54 yards, over 50.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-05 12:14,23.0,Tyler Shough Under 36.5 pass attempts,Player props,TAB,1.85,1.64,12.8,,,-1.0,lost,"48 attempts, over 36.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-05 19:17,16.0,Austin Hooper (anytime touchdown),Scorer markets,Unibet,9.50,8.19,16.0,9.50,held,-2.8,lost,He did not score
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:21,8.9,Austin Hooper Over 1.5 receptions,Player props,Sportsbet,2.98,2.59,15.0,2.98,held,-6.8,lost,"1 reception, under the 1.5 line"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:21,8.9,Juwan Johnson Under 45.5 receiving yards,Player props,TAB,1.95,1.66,14.5,,,-0.1,lost,"59 yards, over 45.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:21,8.9,Zachariah Branch Under 3.5 receiving yards,Player props,Sportsbet,1.93,1.73,11.7,,,-8.0,lost,"10 yards, over 3.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:21,8.9,Noah Fant Over 8.5 longest reception,Player props,TAB,1.85,1.62,14.1,,,,void,Player did not play
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:21,8.9,Juwan Johnson Under 3.5 receptions,Player props,Sportsbet,2.19,1.98,10.5,,,,lost,"6 receptions, over 3.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 02:45,8.5,Austin Hooper Under 10.5 receiving yards,Player props,PointsBet,1.77,1.55,13.8,,,,won,"9 yards, under the 10.5 line"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 03:18,7.9,Bryce Lance Under 15.5 receiving yards,Player props,PointsBet,1.87,1.73,8.1,1.90,longer,-2.0,won,"7 yards, under 15.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 03:47,7.5,Bijan Robinson Under 19.5 rush attempts,Player props,Neds,1.88,1.74,8.1,1.88,held,2.4,won,"19 carries, under 19.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 06:46,4.5,Kyle Pitts Under 35.5 receiving yards,Player props,TAB,1.75,1.61,8.4,,,5.0,lost,"47 yards, over the 35.5 line"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 06:46,4.5,Bijan Robinson Under 4.5 receptions,Player props,TAB,1.90,1.75,8.8,1.72,dropped,9.9,won,"1 reception, under 4.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 06:46,4.5,Tyler Shough Under 270.5 passing yards,Player props,TAB,2.05,1.78,14.9,1.68,dropped,14.3,lost,"286 yards, over 270.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 07:45,3.5,Atlanta Falcons +3.5,Sharp-money moves,PointsBet,1.67,1.67,0.1,1.63,dropped,1.8,won,45-24 win covers +3.5
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 08:47,2.5,Chris Olave Under 90.5 receiving yards,Player props,TAB,1.95,1.78,9.2,,,8.3,lost,"116 yards, over 90.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 09:59,1.3,Kendre Miller Under 6.5 rush attempts,Player props,TAB,2.40,1.96,22.3,2.40,held,2.2,won,"6 carries, under 6.5"
+2026-10-06 11:15,NFL,Atlanta Falcons @ New Orleans Saints,"ATL 45, NO 24",2026-10-06 10:31,0.7,Oscar Delp (anytime touchdown),Scorer markets,TAB,10.00,8.63,15.9,,,,lost,He did not score
+2026-10-07 10:00,NHL,Nashville Predators @ Toronto Maple Leafs,,2026-10-06 10:49,23.2,Under 5.5,Sharp-money moves,Betfair,2.18,2.16,1.2,,,,pending,
+2026-10-07 11:00,NHL,St. Louis Blues @ Chicago Blackhawks,,2026-10-06 13:15,21.7,St. Louis Blues,Sharp-money moves,Unibet,1.78,1.81,-1.8,,,,pending,
+2026-10-09 10:30,College football,South Florida @ UTSA,,2026-10-06 09:18,73.2,Under 49.5,Sharp-money moves,Unibet,2.07,2.10,-1.2,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-29 18:03,275.4,Oklahoma,Game lines,Sportsbet,3.70,3.08,20.1,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-30 07:04,262.4,Oklahoma,Game lines,Sportsbet,3.90,3.08,26.6,,,,pending,
 2026-10-12 11:20,NFL,Baltimore Ravens @ Atlanta Falcons,,2026-09-30 07:04,291.3,Atlanta Falcons,Game lines,Sportsbet,3.73,3.39,10.0,,,,pending,
