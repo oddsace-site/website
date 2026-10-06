@@ -1,0 +1,7 @@
+Odds Ace Australia website: versions published from 06/10/2026, 14:20 AEDT to 07/10/2026, 07:48 AEDT
+Each line is one publish to oddsaceaustralia.com (a commit to the site on the main branch of github.com/oddsace-site/website):
+Sydney time, commit, what changed. The exact files of any version: https://github.com/oddsace-site/website/tree/<commit>/site
+
+06/10/2026, 21:21 AEDT  c65cb23  Publish website changes
+06/10/2026, 18:54 AEDT  99eefc0  Say "US reference price" on the explainer page and in llms.txt
+06/10/2026, 17:22 AEDT  1977058  Publish website changes
