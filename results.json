@@ -1,8 +1,60 @@
 {
  "v": 1,
- "generated_utc": "2026-10-06T03:21:18Z",
- "updated": "Updated Tue, 6 Oct, 1:46 pm Sydney time.",
+ "generated_utc": "2026-10-06T04:21:06Z",
+ "updated": "Updated Tue, 6 Oct, 2:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Tue, 6 Oct",
+   "league": "NHL",
+   "game": "Ottawa Senators @ Boston Bruins",
+   "alert": "Boston Bruins",
+   "book": "Betfair",
+   "price": "2.02",
+   "us": "2.05",
+   "gap": "−1.9%",
+   "final": "OTT 4, BOS 1",
+   "result": "lost",
+   "t": "2026-10-05T23:30:00Z"
+  },
+  {
+   "date": "Tue, 6 Oct",
+   "league": "NHL",
+   "game": "Winnipeg Jets @ Pittsburgh Penguins",
+   "alert": "Viggo Bjorck (anytime goal)",
+   "book": "Neds",
+   "price": "19.00",
+   "us": "6.41",
+   "gap": "+196.6%",
+   "final": "WPG 3, PIT 2",
+   "result": "lost",
+   "t": "2026-10-05T23:30:00Z"
+  },
+  {
+   "date": "Tue, 6 Oct",
+   "league": "NHL",
+   "game": "Philadelphia Flyers @ Tampa Bay Lightning",
+   "alert": "John Carlson Under 1.5 shots on goal",
+   "book": "PointsBet",
+   "price": "2.70",
+   "us": "2.40",
+   "gap": "+12.7%",
+   "final": "TB 4, PHI 1",
+   "result": "won",
+   "t": "2026-10-05T23:00:00Z"
+  },
+  {
+   "date": "Tue, 6 Oct",
+   "league": "NHL",
+   "game": "Philadelphia Flyers @ Tampa Bay Lightning",
+   "alert": "Jeffrey Viel (anytime goal)",
+   "book": "Neds",
+   "price": "11.50",
+   "us": "9.76",
+   "gap": "+17.8%",
+   "final": "TB 4, PHI 1",
+   "result": "lost",
+   "t": "2026-10-05T23:00:00Z"
+  },
   {
    "date": "Mon, 5 Oct",
    "league": "NHL",
