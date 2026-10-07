@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-07T05:21:40Z",
- "updated": "Updated Wed, 7 Oct, 3:48 pm Sydney time.",
+ "generated_utc": "2026-10-07T06:22:53Z",
+ "updated": "Updated Wed, 7 Oct, 4:47 pm Sydney time.",
  "rows": [
   {
    "date": "Wed, 7 Oct",
@@ -4441,7 +4441,7 @@
   "tracked": 206,
   "median": 168,
   "longest": 705,
-  "at30": 0.822,
+  "at30": 0.823,
   "closes": 226,
   "dropped": 149,
   "clvClosed": 298,
