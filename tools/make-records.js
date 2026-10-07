@@ -33,6 +33,8 @@ const PAGES = [
   ['responsible-gambling', '/#responsible-gambling'],
   ['about', '/#about'],
   ['compare', '/#compare'],
+  ['method', '/#method'],
+  ['faq', '/#faq'],
   ['after-you-join', '/#after-you-join'],
   ['why-aussie-odds-lag', '/why-aussie-odds-lag/'],
 ];
