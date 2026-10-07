@@ -1,8 +1,21 @@
 {
  "v": 1,
- "generated_utc": "2026-10-07T04:21:06Z",
- "updated": "Updated Wed, 7 Oct, 2:48 pm Sydney time.",
+ "generated_utc": "2026-10-07T05:21:40Z",
+ "updated": "Updated Wed, 7 Oct, 3:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 7 Oct",
+   "league": "NHL",
+   "game": "St. Louis Blues @ Chicago Blackhawks",
+   "alert": "St. Louis Blues",
+   "book": "Unibet",
+   "price": "1.78",
+   "us": "1.81",
+   "gap": "−1.8%",
+   "final": "STL 2, CHI 4",
+   "result": "lost",
+   "t": "2026-10-07T00:00:00Z"
+  },
   {
    "date": "Wed, 7 Oct",
    "league": "NHL",
@@ -4003,7 +4016,7 @@
    "price": "1.97",
    "us": "2.00",
    "gap": "−1.5%",
-   "final": "Bowling Green 24, Miami",
+   "final": "Bowling Green 24, Miami (OH) 20",
    "result": "lost",
    "t": "2026-10-03T19:30:00Z"
   },
@@ -4425,10 +4438,10 @@
   }
  ],
  "speed": {
-  "tracked": 204,
+  "tracked": 206,
   "median": 168,
   "longest": 705,
-  "at30": 0.82,
+  "at30": 0.822,
   "closes": 226,
   "dropped": 149,
   "clvClosed": 298,
@@ -4436,7 +4449,7 @@
   "clvAvg": 10.9,
   "gapAvg": 14.9,
   "gapMedian": 10.9,
-  "gapN": 401,
+  "gapN": 402,
   "perDay": 49,
   "perDayDays": 7,
   "perDayLow": 31,
