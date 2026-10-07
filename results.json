@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-07T20:21:26Z",
- "updated": "Updated Thu, 8 Oct, 6:46 am Sydney time.",
+ "generated_utc": "2026-10-07T21:21:39Z",
+ "updated": "Updated Thu, 8 Oct, 7:46 am Sydney time.",
  "rows": [
   {
    "date": "Wed, 7 Oct",
@@ -4829,15 +4829,15 @@
   "tracked": 224,
   "median": 178,
   "longest": 710,
-  "at30": 0.827,
+  "at30": 0.828,
   "closes": 227,
   "dropped": 149,
-  "clvClosed": 298,
-  "clvBeat": 246,
+  "clvClosed": 299,
+  "clvBeat": 247,
   "clvAvg": 10.9,
-  "gapAvg": 14.8,
-  "gapMedian": 11.1,
-  "gapN": 425,
+  "gapAvg": 14.7,
+  "gapMedian": 11,
+  "gapN": 430,
   "perDay": 51,
   "perDayDays": 7,
   "perDayLow": 31,
@@ -5140,7 +5140,8 @@
    "usau-2026-10-07-nhl-c00edae933": -0.3,
    "usau-2026-10-07-nhl-d8373c8ef7": 18.9,
    "usau-2026-10-07-nhl-dc1f01fb1a": 0.5,
-   "usau-2026-10-07-nhl-f47db7ec1d": 10.4
+   "usau-2026-10-07-nhl-f47db7ec1d": 10.4,
+   "usau-2026-10-08-mlb-dd5c7511dc": 12.8
   },
   "latest": [
    {
