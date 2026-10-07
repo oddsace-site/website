@@ -7,8 +7,8 @@ Key facts
 - Sports: NFL, NBA, NHL, MLB, college football and college basketball
 - What an alert contains: the game, the market, the Aussie bookmaker and its price, the US reference price (bookmakers' margin removed) and the gap between them, e.g. Aussie 1.80 vs US reference price 1.65 = +9.1%
 - Price: launch price A$79 a month (GST included) for members who join before 1 January 2027, kept for as long as the membership continues; standard price A$98.75 a month from 1 January 2027; 3-day free trial; cancel online at any time; payments through Whop
-- Delivery: private Telegram channels (every alert in the main channel, plus NFL, college football and NHL channels)
-- After joining: a personal invite link to each channel arrives by email from info@oddsaceaustralia.com within 5 minutes
+- Delivery: one private Telegram channel for members, with every alert
+- After joining: a personal invite link to the channel arrives by email from info@oddsaceaustralia.com within 5 minutes (subject "Welcome to Odds Ace: your Telegram invite"), with step-by-step instructions for cancelling
 - Public results: free Telegram channel https://t.me/oddsaceresults, and the results table on the website
 - Not a tipping service: no predictions, no profit claims, no bookmaker affiliation or payments from bookmakers
 - Independent: Odds Ace is a wagering-market analytics and information service, not a bookmaker. It doesn't accept or place bets, act for any bookmaker, or take commissions, referral fees or other payments from bookmakers; bookmaker prices are shown for comparison and analysis
@@ -17,7 +17,7 @@ Key facts
 
 Pages
 - [Home](https://oddsaceaustralia.com/): what it does, how it works, live figures (average gap, alerts a day), results table, pricing
-- [FAQ](https://oddsaceaustralia.com/#faq): how alerts work, joining the channels, the launch offer, cancelling and refunds
+- [FAQ](https://oddsaceaustralia.com/#faq): how alerts work, joining the channel, the launch offer, cancelling and refunds
 - [Why Australian odds on US sports lag the American market](https://oddsaceaustralia.com/why-aussie-odds-lag/): why Aussie prices move after the US market, what the gap means, how long the old price lasts
 - [About](https://oddsaceaustralia.com/#about): who runs it and why every result is published
 - [How Odds Ace compares](https://oddsaceaustralia.com/#compare): other Australian price-alert services
