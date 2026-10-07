@@ -115,8 +115,10 @@ function settledHow(note) {
   s = s.charAt(0).toUpperCase() + s.slice(1);
   return s.length > 110 ? s.slice(0, 107).replace(/\s+\S*$/, '') + '…' : s;
 }
+// The score after "Final:" runs to the first "(", ";", full stop or line end. Two bits of a team name don't end it: a
+// two-letter bracket followed by a score ("Miami (OH) 20") and the full stop in St./Mt./Ft. ("St. John's 78").
 function finalScore(note) {
-  const fin = /Final:\s*([^(;]+?)\s*(?:\(|;|\.\s|$)/.exec(note || '');
+  const fin = /Final:\s*(.+?)\s*(?:\((?![A-Z]{2}\)\s+\d)|;|(?<!\b(?:St|Mt|Ft))\.(?:\s|$)|$)/m.exec(note || '');
   return fin ? fin[1].trim() : '';
 }
 function alertRow(d) {
