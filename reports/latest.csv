@@ -343,9 +343,9 @@
 2026-10-07 13:00,NHL,Florida Panthers @ Los Angeles Kings,"FLA 2, LAK 1",2026-10-06 19:17,17.7,Alex Turcotte (anytime goal),Scorer markets,Neds,12.00,6.25,92.0,3.90,dropped,94.8,lost,Laferriere scored the Kings' only goal
 2026-10-08 07:00,MLB,Cleveland Guardians @ Chicago White Sox,"CLE 9, CWS 3",2026-10-07 22:21,8.6,Andrew Benintendi Over 0.5 RBIs (TAB '1+'),Player props,TAB,4.00,3.52,13.5,4.00,held,,void,The player did not appear
 2026-10-08 10:00,College football,Jacksonville State @ Kennesaw State,,2026-10-07 04:19,29.7,Under 49.5,Sharp-money moves,Unibet,1.97,2.00,-1.5,1.82,dropped,3.4,pending,
-2026-10-08 10:30,NHL,Colorado Avalanche @ Winnipeg Jets,,2026-10-07 13:45,20.7,Viggo Bjorck (anytime goal),Scorer markets,Neds,21.00,6.59,218.8,6.40,dropped,224.8,pending,
-2026-10-08 10:30,NHL,Pittsburgh Penguins @ Washington Capitals,,2026-10-07 13:45,20.7,Ville Koivunen (anytime goal),Scorer markets,Neds,7.75,6.41,21.0,7.75,held,-5.9,pending,
-2026-10-08 10:30,NHL,Pittsburgh Penguins @ Washington Capitals,,2026-10-07 14:17,20.2,Ilya Protas (anytime goal),Scorer markets,Neds,9.00,4.58,96.7,4.50,dropped,96.7,pending,
+2026-10-08 10:30,NHL,Colorado Avalanche @ Winnipeg Jets,"WPG 3, COL 2",2026-10-07 13:45,20.7,Viggo Bjorck (anytime goal),Scorer markets,Neds,21.00,6.59,218.8,6.40,dropped,224.8,lost,He did not score
+2026-10-08 10:30,NHL,Pittsburgh Penguins @ Washington Capitals,"WSH 5, PIT 3",2026-10-07 13:45,20.7,Ville Koivunen (anytime goal),Scorer markets,Neds,7.75,6.41,21.0,7.75,held,-5.9,lost,He did not score
+2026-10-08 10:30,NHL,Pittsburgh Penguins @ Washington Capitals,"WSH 5, PIT 3",2026-10-07 14:17,20.2,Ilya Protas (anytime goal),Scorer markets,Neds,9.00,4.58,96.7,4.50,dropped,96.7,lost,He did not score
 2026-10-08 11:00,MLB,Tampa Bay Rays @ New York Yankees,,2026-10-08 07:26,3.6,New York Yankees,Sharp-money moves,Neds,1.62,1.65,-1.7,1.60,dropped,-1.0,pending,
 2026-10-08 13:00,NHL,Edmonton Oilers @ Anaheim Ducks,,2026-10-07 13:45,23.2,Trent Frederic (anytime goal),Scorer markets,Neds,6.60,5.70,15.8,6.40,dropped,9.4,pending,
 2026-10-08 13:00,MLB,Milwaukee Brewers @ San Diego Padres,,2026-10-08 05:53,7.1,Under 7.5,Sharp-money moves,Betfair,1.96,2.00,-1.9,1.87,dropped,-0.6,pending,
@@ -369,6 +369,7 @@
 2026-10-11 03:00,College football,UCF @ Oklahoma State,,2026-10-07 05:55,93.1,Under 51,Sharp-money moves,Unibet,2.23,2.21,0.7,,,,pending,
 2026-10-11 03:00,College football,Sacramento State @ Bowling Green,,2026-10-07 17:18,81.7,Sacramento State +6,Game lines,Unibet,2.48,2.21,12.0,,,,pending,
 2026-10-11 03:00,College football,Arizona @ West Virginia,,2026-10-07 19:52,79.1,West Virginia +2,Sharp-money moves,Betfair,2.20,2.14,2.7,,,,pending,
+2026-10-11 03:00,College football,Indiana @ Nebraska,,2026-10-08 13:48,61.2,Under 48.5,Sharp-money moves,Unibet,1.98,2.02,-1.9,,,,pending,
 2026-10-11 04:00,College football,Old Dominion @ App State,,2026-10-08 07:26,68.6,Under 49.5,Sharp-money moves,Unibet,1.97,2.01,-1.9,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-29 18:03,275.4,Oklahoma,Game lines,Sportsbet,3.70,3.08,20.1,,,,pending,
 2026-10-11 06:30,College football,Texas @ Oklahoma,,2026-09-30 07:04,262.4,Oklahoma,Game lines,Sportsbet,3.90,3.08,26.6,,,,pending,
@@ -422,11 +423,13 @@
 2026-10-12 04:00,NFL,Indianapolis Colts @ Pittsburgh Steelers,,2026-10-08 09:26,90.6,Ashton Dulin (last touchdown scorer),Scorer markets,Neds,31.00,27.30,13.6,,,,pending,
 2026-10-12 04:00,NFL,Indianapolis Colts @ Pittsburgh Steelers,,2026-10-08 10:23,89.6,Michael Pittman (anytime touchdown),Scorer markets,Unibet,5.40,4.22,27.8,,,,pending,
 2026-10-12 04:00,NFL,Cincinnati Bengals @ Miami Dolphins,,2026-10-08 11:55,88.1,Samaje Perine (last touchdown scorer),Scorer markets,Neds,23.00,19.50,17.9,,,,pending,
+2026-10-12 04:00,NFL,Minnesota Vikings @ New Orleans Saints,,2026-10-08 14:20,85.7,Kendre Miller (anytime touchdown),Scorer markets,Neds,3.25,2.71,19.8,,,,pending,
 2026-10-12 07:25,NFL,San Francisco 49ers @ Seattle Seahawks,,2026-10-07 02:21,125.1,Seattle Seahawks -4.5,Sharp-money moves,Betr,2.35,2.40,-1.9,,,,pending,
 2026-10-12 07:25,NFL,San Francisco 49ers @ Seattle Seahawks,,2026-10-07 05:55,121.5,Rashid Shaheed Under 20.5 receiving yards,Player props,PointsBet,1.80,1.67,8.0,,,,pending,
 2026-10-12 07:25,NFL,San Francisco 49ers @ Seattle Seahawks,,2026-10-07 22:21,105.1,Jacob Cowing (anytime touchdown),Scorer markets,Unibet,10.00,8.77,14.1,,,,pending,
 2026-10-12 07:25,NFL,Detroit Lions @ Arizona Cardinals,,2026-10-08 02:17,101.1,Jameson Williams Under 55.5 receiving yards,Player props,TAB,1.90,1.75,8.5,,,,pending,
 2026-10-12 07:25,NFL,Detroit Lions @ Arizona Cardinals,,2026-10-08 08:26,95.0,Jahmyr Gibbs Under 4.5 receptions,Player props,TAB,2.20,2.01,9.5,,,,pending,
+2026-10-12 07:25,NFL,Detroit Lions @ Arizona Cardinals,,2026-10-08 14:20,89.1,Tyler Allgeier Under 30.5 rushing yards,Player props,TAB,1.75,1.62,8.3,,,,pending,
 2026-10-12 11:20,NFL,Baltimore Ravens @ Atlanta Falcons,,2026-09-30 07:04,291.3,Atlanta Falcons,Game lines,Sportsbet,3.73,3.39,10.0,,,,pending,
 2026-10-12 11:20,NFL,Baltimore Ravens @ Atlanta Falcons,,2026-10-07 21:19,110.0,Rashod Bateman (last touchdown scorer),Scorer markets,Neds,26.00,22.73,14.4,,,,pending,
 2026-10-12 11:20,NFL,Baltimore Ravens @ Atlanta Falcons,,2026-10-08 09:26,97.9,Tyler Huntley (last touchdown scorer),Scorer markets,Neds,26.00,22.10,17.6,,,,pending,
