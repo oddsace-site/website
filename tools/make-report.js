@@ -164,8 +164,8 @@ const sentRows = api.resultRows(sentBets);
 const testRows = api.resultRows(testBets.map(d => Object.assign({}, d, { emailed: true, held_back: false })));
 const T = { all: tally(sentRows.concat(testRows)), sent: tally(sentRows), tests: tally(testRows) };
 
-// Time on the old line (Kaplan-Meier), with the website's rules: only alerts first re-checked within 50 minutes, a drop
-// timed halfway between the last check that still found the old price and the first that didn't.
+// How long an alerted price lasted (Kaplan-Meier), with the website's rules: only alerts first re-checked within 50 minutes, a drop
+// timed halfway between the last check that still found the alerted price and the first that didn't.
 function kmCurve(list) {
   const ids = {}; list.filter(isSent).forEach(d => { ids[d._id] = 1; });
   const obs = [];
@@ -280,7 +280,7 @@ function kmChart() {
   const W = 680, H = 230, ml = 46, mr = 24, mt = 14, mb = 34;
   const xMax = Math.max(120, Math.min(24 * 60, Math.ceil(Math.max(KM.longest, 60) / 60) * 60));
   const X = m => ml + Math.min(m, xMax) / xMax * (W - ml - mr), Y = s => mt + (1 - s) * (H - mt - mb);
-  const out = ['<svg class="chart" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Share of alerted prices still on the old line">'];
+  const out = ['<svg class="chart" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Share of alerted prices still available">'];
   [0, 0.25, 0.5, 0.75, 1].forEach(s => {
     out.push('<line class="grid" x1="' + ml + '" x2="' + (W - mr) + '" y1="' + Y(s).toFixed(1) + '" y2="' + Y(s).toFixed(1) + '"/>');
     out.push('<text class="tick" x="' + (ml - 8) + '" y="' + (Y(s) + 4).toFixed(1) + '" text-anchor="end">' + Math.round(s * 100) + '%</text>');
@@ -294,7 +294,7 @@ function kmChart() {
   if (F.S.at30 != null) {
     out.push('<line class="mark" x1="' + X(30).toFixed(1) + '" x2="' + X(30).toFixed(1) + '" y1="' + mt + '" y2="' + (H - mb) + '"/>');
     out.push('<circle class="dot k-sent" cx="' + X(30).toFixed(1) + '" cy="' + Y(F.S.at30).toFixed(1) + '" r="3.5"/>');
-    out.push('<text class="note-t" x="' + (X(30) + 8).toFixed(1) + '" y="' + (Y(F.S.at30) - 8).toFixed(1) + '">' + Math.round(F.S.at30 * 100) + '% still on the old price at 30 min</text>');
+    out.push('<text class="note-t" x="' + (X(30) + 8).toFixed(1) + '" y="' + (Y(F.S.at30) - 8).toFixed(1) + '">' + Math.round(F.S.at30 * 100) + '% still available at 30 min</text>');
   }
   out.push('<text class="axis-t" x="' + ((ml + W - mr) / 2) + '" y="' + (H - 1) + '" text-anchor="middle">Time since the alert</text>');
   out.push('</svg>');
@@ -303,7 +303,7 @@ function kmChart() {
 
 // ------------------------------------------------------------------ tables
 function groupTable(title, groups, firstCol) {
-  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time on old line</th><th>Settled</th><th>Paper units</th></tr></thead>';
+  const head = '<thead><tr><th class="l">' + esc(firstCol) + '</th><th>Alerts sent</th><th>Average gap</th><th>Beat the US close</th><th>Average closing value</th><th>Dropped by kick-off</th><th>Typical time a price lasted</th><th>Settled</th><th>Paper units</th></tr></thead>';
   const body = groups.map(([label, list]) => {
     const f = figures(list), S = f.S, U = f.settled >= UNITS_FROM ? f.U : null;
     const clv = S.clvClosed >= CLV_MIN && S.clvAvg != null, dr = S.closes >= SPEED_MIN_CLOSES, tm = S.tracked >= SPEED_MIN_TIMED;
@@ -389,7 +389,7 @@ const tiles = [];
 tiles.push([String(sentBets.length), 'alerts sent to members' + (testBets.length ? ', plus ' + testBets.length + ' tests that weren\'t sent' : '')]);
 if (S.clvClosed >= CLV_MIN && S.clvAvg != null) tiles.push([pct(S.clvBeat, S.clvClosed), 'beat the US closing price (' + S.clvBeat + ' of ' + S.clvClosed + '), average ' + signed(S.clvAvg, 1) + '%']);
 if (S.closes >= SPEED_MIN_CLOSES) tiles.push([pct(S.dropped, S.closes), 'had dropped by kick-off at the same bookmaker (' + S.dropped + ' of ' + S.closes + ')']);
-if (S.tracked >= SPEED_MIN_TIMED) tiles.push([S.median != null ? fmtMinutes(S.median).replace(/ h /, 'h ').replace(/ min$/, 'm').replace(/^(\d+) h$/, '$1h') : 'Over ' + fmtMinutes(S.longest || 0), 'typical time an alerted price stayed on the old line (' + S.tracked + ' followed)']);
+if (S.tracked >= SPEED_MIN_TIMED) tiles.push([S.median != null ? fmtMinutes(S.median).replace(/ h /, 'h ').replace(/ min$/, 'm').replace(/^(\d+) h$/, '$1h') : 'Over ' + fmtMinutes(S.longest || 0), 'typical time an alerted price lasted (' + S.tracked + ' followed)']);
 function tallyRow(label, t) {
   return '<tr><th class="l">' + esc(label) + '</th><td>' + t.settled + '</td><td>' + (t.U ? signed(t.U.units, 1) : DASH) + '</td></tr>';
 }
@@ -420,16 +420,16 @@ const doc = `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><titl
 
 <section class="pg">
   <h2>How the alerted prices held up</h2>
-  <p>Each alert compares an Aussie bookmaker's price with the US reference price: the US market's price with the bookmakers' margin removed. Three things show whether those prices were out of line: whether the Aussie price beat where the US market closed, whether the Aussie bookmaker cut the price before the game, and how long the old price lasted.</p>
-  ${kmChart() ? '<figure><figcaption><b>Share of alerted prices still on the old line</b>, by time since the alert (' + KM.n + ' alerts followed from their first re-check, ' + KM.moved + ' seen to move)</figcaption>' + kmChart() + '</figure>' : '<p class="small">Timings appear once ' + SPEED_MIN_TIMED + ' alerts have been followed.</p>'}
-  <p class="small">After each alert the same bookmaker's price is checked again at each scan until it drops or the game starts. Only alerts first re-checked within ${SPEED_START_MAX} minutes count, and a drop is timed halfway between the last check that found the old price and the first that didn't. Alerts whose game started first still count until then (a Kaplan-Meier estimate).</p>
+  <p>Each alert compares an Aussie bookmaker's price with the US reference price: the US market's price with the bookmakers' margin removed. Three things show whether those prices were out of line: whether the Aussie price beat where the US market closed, whether the Aussie bookmaker cut the price before the game, and how long the alerted price lasted.</p>
+  ${kmChart() ? '<figure><figcaption><b>Share of alerted prices still available</b>, by time since the alert (' + KM.n + ' alerts followed from their first re-check, ' + KM.moved + ' seen to move)</figcaption>' + kmChart() + '</figure>' : '<p class="small">Timings appear once ' + SPEED_MIN_TIMED + ' alerts have been followed.</p>'}
+  <p class="small">After each alert the same bookmaker's price is checked again at each scan until it drops or the game starts. Only alerts first re-checked within ${SPEED_START_MAX} minutes count, and a drop is timed halfway between the last check that found the alerted price and the first that didn't. Alerts whose game started first still count until then (a Kaplan-Meier estimate).</p>
   <h2>Hypothetical paper units over time</h2>
   <figure><figcaption><b>Paper units, added up game by game</b> in order of start time (a hypothetical 1 unit on every settled alert at the alerted price; no money is staked)</figcaption>${unitsChart() || '<p class="small">The chart appears from ' + UNITS_FROM + ' results.</p>'}</figure>
 </section>
 
 <section class="pg">
   <h2>Where the alerts came from</h2>
-  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, time on the old line from ${SPEED_MIN_TIMED} followed alerts, and paper units from ${UNITS_FROM} results.</p>
+  <p>Alerts sent to members, by sport, market and bookmaker. A dash means too few alerts to measure yet: closing value shows from ${CLV_MIN} games that have started, kick-off drops from ${SPEED_MIN_CLOSES} checked alerts, timings from ${SPEED_MIN_TIMED} followed alerts, and paper units from ${UNITS_FROM} results.</p>
   ${groupTable('By sport', groupsBy(sportOf, Object.keys(LEAGUES).map(k => LEAGUES[k])), 'Sport')}
   ${groupTable('By market', groupsBy(marketOf), 'Market')}
   ${groupTable('By bookmaker', groupsBy(d => d.paper_track_book || d.book || 'Unknown'), 'Bookmaker')}
