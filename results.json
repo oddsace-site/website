@@ -1,8 +1,37 @@
 {
  "v": 1,
- "generated_utc": "2026-10-08T06:23:25Z",
- "updated": "Updated Thu, 8 Oct, 4:48 pm Sydney time.",
+ "generated_utc": "2026-10-08T07:21:38Z",
+ "updated": "Updated Thu, 8 Oct, 5:51 pm Sydney time.",
  "rows": [
+  {
+   "date": "Thu, 8 Oct",
+   "league": "NHL",
+   "game": "Edmonton Oilers @ Anaheim Ducks",
+   "alert": "Trent Frederic (anytime goal)",
+   "book": "Neds",
+   "price": "6.60",
+   "us": "5.70",
+   "gap": "+15.8%",
+   "final": "EDM 5, ANA 2",
+   "result": "lost",
+   "t": "2026-10-08T02:00:00Z",
+   "id": "usau-2026-10-08-nhl-2afbc9c67a"
+  },
+  {
+   "date": "Thu, 8 Oct",
+   "league": "MLB",
+   "game": "Milwaukee Brewers @ San Diego Padres",
+   "alert": "Under 7.5",
+   "book": "Betfair",
+   "price": "1.96",
+   "us": "2.00",
+   "gap": "−1.9%",
+   "final": "MIL 3, SD 1",
+   "result": "won",
+   "t": "2026-10-08T02:00:00Z",
+   "id": "usau-2026-10-08-mlb-e91ae65b13",
+   "type": "sharp"
+  },
   {
    "date": "Thu, 8 Oct",
    "league": "MLB",
@@ -4912,10 +4941,10 @@
   }
  ],
  "speed": {
-  "tracked": 245,
-  "median": 179,
+  "tracked": 246,
+  "median": 186,
   "longest": 710,
-  "at30": 0.838,
+  "at30": 0.839,
   "closes": 234,
   "dropped": 155,
   "clvClosed": 305,
@@ -4923,7 +4952,7 @@
   "clvAvg": 11.7,
   "gapAvg": 14.7,
   "gapMedian": 11.2,
-  "gapN": 452,
+  "gapN": 453,
   "perDay": 51,
   "perDayDays": 7,
   "perDayLow": 31,
