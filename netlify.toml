@@ -10,3 +10,26 @@
   to = "https://raw.githubusercontent.com/oddsace-site/website/reports/reports/:splat"
   status = 200
   force = true
+
+# Per-platform links (8 Oct 2026). Each opens the home page at its own address, so Cloudflare Web Analytics counts
+# the visits from each platform separately (under Paths); it doesn't record UTM tags or anything after a "?".
+# /ig is the Instagram bio link, /fb the Facebook Page's, /yt YouTube's and /x X's. The page's canonical link stays /.
+[[redirects]]
+  from = "/ig"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/fb"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/yt"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/x"
+  to = "/index.html"
+  status = 200
