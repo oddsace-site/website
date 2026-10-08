@@ -1,8 +1,22 @@
 {
  "v": 1,
- "generated_utc": "2026-10-08T00:21:08Z",
- "updated": "Updated Thu, 8 Oct, 10:47 am Sydney time.",
+ "generated_utc": "2026-10-08T01:20:59Z",
+ "updated": "Updated Thu, 8 Oct, 11:50 am Sydney time.",
  "rows": [
+  {
+   "date": "Thu, 8 Oct",
+   "league": "MLB",
+   "game": "Cleveland Guardians @ Chicago White Sox",
+   "alert": "Andrew Benintendi Over 0.5 RBIs (TAB '1+')",
+   "book": "TAB",
+   "price": "4.00",
+   "us": "3.52",
+   "gap": "+13.5%",
+   "final": "CLE 9, CWS 3",
+   "result": "void",
+   "t": "2026-10-07T20:00:00Z",
+   "id": "usau-2026-10-08-mlb-dd5c7511dc"
+  },
   {
    "date": "Wed, 7 Oct",
    "league": "NHL",
@@ -4826,14 +4840,14 @@
   }
  ],
  "speed": {
-  "tracked": 233,
+  "tracked": 237,
   "median": 178,
   "longest": 710,
-  "at30": 0.83,
+  "at30": 0.833,
   "closes": 232,
   "dropped": 153,
   "clvClosed": 303,
-  "clvBeat": 250,
+  "clvBeat": 249,
   "clvAvg": 11.8,
   "gapAvg": 14.7,
   "gapMedian": 11.2,
@@ -5141,7 +5155,7 @@
    "usau-2026-10-07-nhl-d8373c8ef7": 18.9,
    "usau-2026-10-07-nhl-dc1f01fb1a": 0.5,
    "usau-2026-10-07-nhl-f47db7ec1d": 10.4,
-   "usau-2026-10-08-mlb-dd5c7511dc": 12.8,
+   "usau-2026-10-08-mlb-6652f8d2d4": -1,
    "usau-2026-10-08-ncaaf-6c2d208a8d": 3.4,
    "usau-2026-10-08-nhl-3ef22135c7": 96.7,
    "usau-2026-10-08-nhl-3f1ea884ce": 224.8,
@@ -5150,22 +5164,12 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-07-nhl-f47db7ec1d",
-    "sent": "2026-10-06T17:51:48Z",
-    "posted": "2026-10-06T17:52:24Z",
-    "text": "<b>NHL · Minnesota Wild @ Buffalo Sabres</b> · Wed 7 Oct 10:00am Sydney\n<b>TAB</b> Line Buffalo Sabres -1.5 @ <b>3.50</b>\nUS reference price (margin removed) 3.12 · gap <b>+12.1%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> The US market's win chance for this game hasn't moved since it was first quoted, and TAB's 3.50 on Sabres -1.5 is above the only other Australian bookmaker offering it (Betr 3.20).\nPrices taken 4:28am, re-checked 4:47am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What are you really gambling with? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "lost",
-    "final": "BUF 3, MIN 2",
-    "clv": 10.4
-   },
-   {
-    "kind": "sharp",
-    "id": "usau-2026-10-07-nhl-5febea3f1f",
-    "sent": "2026-10-06T22:48:42Z",
-    "posted": "2026-10-06T22:49:20Z",
-    "text": "<b>SHARP MONEY · NHL · Ottawa Senators @ Detroit Red Wings</b> · Wed 7 Oct 10:00am Sydney · starts in 10 min\n<b>PointsBet</b> Total Under 5.5 @ <b>2.20</b>\nUS reference price (margin removed) 2.19 · +0.7% vs US reference (a sharp-money alert, not a price gap)\nUS line: 5.5 → 6 → 6 now (last change 1:43am)\n<b>SHARP-MONEY FLAG.</b> In the last 5 hours the US total moved 6.5 → 5.5 toward the under although only 19% of US punters are on it.\nPrices taken 9:32am, re-checked 9:45am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What are you really gambling with? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "lost",
-    "final": "DET 5, OTT 3",
+    "id": "usau-2026-10-08-mlb-dd5c7511dc",
+    "sent": "2026-10-07T11:21:04Z",
+    "posted": "2026-10-07T11:19:28Z",
+    "text": "<b>MLB · Cleveland Guardians @ Chicago White Sox</b> · Thu 8 Oct 7:00am Sydney\n<b>TAB</b> Andrew Benintendi 1+ RBIs @ <b>4.00</b>\nUS reference price (margin removed) 3.52 · gap <b>+13.5%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> TAB's price is new this check with no US move behind it, and only 3 US books price it.\nWeather: Rate Field, wind 2-11 km/h (1-7 mph), rain chance 0%\nPrices taken 9:58pm, re-checked 10:16pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What are you really gambling with? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "void",
+    "final": "CLE 9, CWS 3",
     "clv": null
    }
   ]
