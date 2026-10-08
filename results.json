@@ -1,8 +1,23 @@
 {
  "v": 1,
- "generated_utc": "2026-10-08T04:21:56Z",
- "updated": "Updated Thu, 8 Oct, 2:50 pm Sydney time.",
+ "generated_utc": "2026-10-08T05:21:12Z",
+ "updated": "Updated Thu, 8 Oct, 3:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Thu, 8 Oct",
+   "league": "MLB",
+   "game": "Tampa Bay Rays @ New York Yankees",
+   "alert": "New York Yankees",
+   "book": "Neds",
+   "price": "1.62",
+   "us": "1.65",
+   "gap": "−1.7%",
+   "final": "TB 4, NYY 3",
+   "result": "lost",
+   "t": "2026-10-08T00:00:00Z",
+   "id": "usau-2026-10-08-mlb-6652f8d2d4",
+   "type": "sharp"
+  },
   {
    "date": "Thu, 8 Oct",
    "league": "NHL",
@@ -44,6 +59,21 @@
    "result": "lost",
    "t": "2026-10-07T23:30:00Z",
    "id": "usau-2026-10-08-nhl-e449848815"
+  },
+  {
+   "date": "Thu, 8 Oct",
+   "league": "College football",
+   "game": "Jacksonville State @ Kennesaw State",
+   "alert": "Under 49.5",
+   "book": "Unibet",
+   "price": "1.97",
+   "us": "2.00",
+   "gap": "−1.5%",
+   "final": "Jacksonville State 27, Kennesaw State 26",
+   "result": "lost",
+   "t": "2026-10-07T23:00:00Z",
+   "id": "usau-2026-10-08-ncaaf-6c2d208a8d",
+   "type": "sharp"
   },
   {
    "date": "Thu, 8 Oct",
@@ -4882,7 +4912,7 @@
   }
  ],
  "speed": {
-  "tracked": 241,
+  "tracked": 243,
   "median": 179,
   "longest": 710,
   "at30": 0.836,
