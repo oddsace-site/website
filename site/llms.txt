@@ -1,6 +1,6 @@
 # Odds Ace Australia
 
-> Odds Ace Australia is a paid alert service for Australians who bet on US sports. It checks 7 Australian-licensed bookmakers (TAB, Sportsbet, Neds, PointsBet, Unibet, Betr and Betfair) against 8 major US sportsbooks 24 hours a day and sends a Telegram alert when an Aussie price is still on the old line after the American market has moved. Every alert is recorded at the price it went out at and settled from the box score once the game ends, wins and losses alike; the full record is public.
+> Odds Ace Australia is a paid alert service for Australians who bet on US sports. It checks 7 Australian-licensed bookmakers (TAB, Sportsbet, Neds, PointsBet, Unibet, Betr and Betfair) against 8 major US sportsbooks 24 hours a day and sends a Telegram alert when an Aussie price is out of line with the US market, usually a gap of at least 12% (8% for unders) against the US reference price. Every alert is recorded at the price it went out at and settled from the box score once the game ends, wins and losses alike; the full record is public.
 
 Key facts
 - Website: https://oddsaceaustralia.com/ (Melbourne, Australia; sole trader Tony Chalhoub; ABN 38 722 496 289; registered business name Odds Ace Australia)
