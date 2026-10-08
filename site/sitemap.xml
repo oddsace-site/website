@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://oddsaceaustralia.com/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
   </url>
   <url>
     <loc>https://oddsaceaustralia.com/why-aussie-odds-lag/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-08</lastmod>
   </url>
-  <!-- About, Compare, FAQ and the other pages are #views of the home page for now, so they aren't listed.
+  <!-- About, FAQ and the other pages are #views of the home page for now, so they aren't listed.
        Add one <url> per page here as each gets its own address (e.g. https://oddsaceaustralia.com/about/). -->
 </urlset>
