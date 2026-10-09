@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-09T19:21:24Z",
- "updated": "Updated Sat, 10 Oct, 5:46 am Sydney time.",
+ "generated_utc": "2026-10-09T20:21:05Z",
+ "updated": "Updated Sat, 10 Oct, 6:46 am Sydney time.",
  "rows": [
   {
    "date": "Fri, 9 Oct",
@@ -5424,7 +5424,7 @@
  ],
  "speed": {
   "tracked": 295,
-  "median": 208,
+  "median": 200,
   "longest": 710,
   "at30": 0.842,
   "closes": 261,
@@ -5434,7 +5434,7 @@
   "clvAvg": 11.3,
   "gapAvg": 14,
   "gapMedian": 11.2,
-  "gapN": 613,
+  "gapN": 618,
   "perDay": 60,
   "perDayDays": 7,
   "perDayLow": 31,
