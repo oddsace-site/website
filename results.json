@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-09T15:22:03Z",
- "updated": "Updated Sat, 10 Oct, 1:49 am Sydney time.",
+ "generated_utc": "2026-10-09T16:21:44Z",
+ "updated": "Updated Sat, 10 Oct, 2:50 am Sydney time.",
  "rows": [
   {
    "date": "Fri, 9 Oct",
@@ -59,6 +59,20 @@
    "result": "won",
    "t": "2026-10-09T00:15:00Z",
    "id": "usau-2026-10-09-nfl-026fa2166c"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NFL",
+   "game": "Tampa Bay Buccaneers @ Dallas Cowboys",
+   "alert": "Tyler Goodson (anytime touchdown)",
+   "book": "Unibet",
+   "price": "9.00",
+   "us": "7.76",
+   "gap": "+15.9%",
+   "final": "TB 24, DAL 16",
+   "result": "lost",
+   "t": "2026-10-09T00:15:00Z",
+   "id": "usau-2026-10-09-nfl-0a15a0d2c8"
   },
   {
    "date": "Fri, 9 Oct",
@@ -298,6 +312,20 @@
    "result": "won",
    "t": "2026-10-09T00:15:00Z",
    "id": "usau-2026-10-09-nfl-9dcd04710a"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NFL",
+   "game": "Tampa Bay Buccaneers @ Dallas Cowboys",
+   "alert": "Tyler Goodson Under 17.5 rushing yards",
+   "book": "Neds",
+   "price": "1.88",
+   "us": "1.74",
+   "gap": "+8.1%",
+   "final": "TB 24, DAL 16",
+   "result": "won",
+   "t": "2026-10-09T00:15:00Z",
+   "id": "usau-2026-10-09-nfl-9f2adaec58"
   },
   {
    "date": "Fri, 9 Oct",
@@ -5395,18 +5423,18 @@
   }
  ],
  "speed": {
-  "tracked": 280,
+  "tracked": 284,
   "median": 199,
   "longest": 710,
-  "at30": 0.837,
+  "at30": 0.838,
   "closes": 261,
   "dropped": 171,
   "clvClosed": 339,
   "clvBeat": 277,
   "clvAvg": 11.3,
-  "gapAvg": 14.2,
+  "gapAvg": 14.1,
   "gapMedian": 11.2,
-  "gapN": 585,
+  "gapN": 592,
   "perDay": 60,
   "perDayDays": 7,
   "perDayLow": 31,
