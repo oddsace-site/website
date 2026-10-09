@@ -1,8 +1,23 @@
 {
  "v": 1,
- "generated_utc": "2026-10-09T06:21:57Z",
- "updated": "Updated Fri, 9 Oct, 4:51 pm Sydney time.",
+ "generated_utc": "2026-10-09T07:21:44Z",
+ "updated": "Updated Fri, 9 Oct, 5:52 pm Sydney time.",
  "rows": [
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NHL",
+   "game": "Toronto Maple Leafs @ Vegas Golden Knights",
+   "alert": "Vegas Golden Knights",
+   "book": "PointsBet",
+   "price": "1.63",
+   "us": "1.66",
+   "gap": "−1.8%",
+   "final": "VGK 4, TOR 3",
+   "result": "won",
+   "t": "2026-10-09T02:00:00Z",
+   "id": "usau-2026-10-09-nhl-22bc7a7657",
+   "type": "sharp"
+  },
   {
    "date": "Fri, 9 Oct",
    "league": "NHL",
@@ -283,6 +298,20 @@
    "result": "won",
    "t": "2026-10-09T00:15:00Z",
    "id": "usau-2026-10-09-nfl-9dcd04710a"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NFL",
+   "game": "Tampa Bay Buccaneers @ Dallas Cowboys",
+   "alert": "Ted Hurst Under 1.5 receptions",
+   "book": "Neds",
+   "price": "2.25",
+   "us": "1.91",
+   "gap": "+17.9%",
+   "final": "TB 24, DAL 16",
+   "result": "won",
+   "t": "2026-10-09T00:15:00Z",
+   "id": "usau-2026-10-09-nfl-9ff3c55cf2"
   },
   {
    "date": "Fri, 9 Oct",
@@ -5366,10 +5395,10 @@
   }
  ],
  "speed": {
-  "tracked": 264,
+  "tracked": 267,
   "median": 187,
   "longest": 710,
-  "at30": 0.831,
+  "at30": 0.832,
   "closes": 261,
   "dropped": 171,
   "clvClosed": 339,
@@ -5377,7 +5406,7 @@
   "clvAvg": 11.3,
   "gapAvg": 14.2,
   "gapMedian": 11.2,
-  "gapN": 565,
+  "gapN": 569,
   "perDay": 52,
   "perDayDays": 7,
   "perDayLow": 31,
