@@ -1,8 +1,79 @@
 {
  "v": 1,
- "generated_utc": "2026-10-09T03:21:43Z",
- "updated": "Updated Fri, 9 Oct, 1:46 pm Sydney time.",
+ "generated_utc": "2026-10-09T04:21:00Z",
+ "updated": "Updated Fri, 9 Oct, 2:50 pm Sydney time.",
  "rows": [
+  {
+   "date": "Fri, 9 Oct",
+   "league": "College football",
+   "game": "South Florida @ UTSA",
+   "alert": "Under 49.5",
+   "book": "Unibet",
+   "price": "2.07",
+   "us": "2.10",
+   "gap": "−1.2%",
+   "final": "UTSA 31, South Florida 24",
+   "result": "lost",
+   "t": "2026-10-08T23:30:00Z",
+   "id": "usau-2026-10-09-ncaaf-5a80391594",
+   "type": "sharp"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NHL",
+   "game": "Minnesota Wild @ Tampa Bay Lightning",
+   "alert": "Marcus Foligno (anytime goal)",
+   "book": "Unibet",
+   "price": "8.50",
+   "us": "7.32",
+   "gap": "+16.1%",
+   "final": "TBL 3, MIN 2",
+   "result": "lost",
+   "t": "2026-10-08T23:00:00Z",
+   "id": "usau-2026-10-09-nhl-3c6719aa11"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NHL",
+   "game": "Philadelphia Flyers @ Ottawa Senators",
+   "alert": "Michael Bunting (anytime goal)",
+   "book": "Unibet",
+   "price": "8.50",
+   "us": "7.58",
+   "gap": "+12.2%",
+   "final": "OTT 2, PHI 1",
+   "result": "lost",
+   "t": "2026-10-08T23:00:00Z",
+   "id": "usau-2026-10-09-nhl-49a0b0c9cf"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NHL",
+   "game": "Philadelphia Flyers @ Ottawa Senators",
+   "alert": "Michael Amadio (anytime goal)",
+   "book": "Unibet",
+   "price": "8.00",
+   "us": "7.01",
+   "gap": "+14.0%",
+   "final": "OTT 2, PHI 1",
+   "result": "lost",
+   "t": "2026-10-08T23:00:00Z",
+   "id": "usau-2026-10-09-nhl-8e352bd3a5"
+  },
+  {
+   "date": "Fri, 9 Oct",
+   "league": "NHL",
+   "game": "Vancouver Canucks @ Carolina Hurricanes",
+   "alert": "Jonathan Lekkerimaki (anytime goal)",
+   "book": "Unibet",
+   "price": "7.50",
+   "us": "6.55",
+   "gap": "+14.4%",
+   "final": "CAR 7, VAN 2",
+   "result": "lost",
+   "t": "2026-10-08T23:00:00Z",
+   "id": "usau-2026-10-09-nhl-ac1cd612ba"
+  },
   {
    "date": "Thu, 8 Oct",
    "league": "NHL",
@@ -4952,7 +5023,7 @@
   "clvAvg": 11.3,
   "gapAvg": 14.2,
   "gapMedian": 11.2,
-  "gapN": 560,
+  "gapN": 562,
   "perDay": 52,
   "perDayDays": 7,
   "perDayLow": 31,
@@ -5301,13 +5372,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-08-mlb-dd5c7511dc",
-    "sent": "2026-10-07T11:21:04Z",
-    "posted": "2026-10-07T11:19:28Z",
-    "text": "<b>MLB · Cleveland Guardians @ Chicago White Sox</b> · Thu 8 Oct 7:00am Sydney\n<b>TAB</b> Andrew Benintendi 1+ RBIs @ <b>4.00</b>\nUS reference price (margin removed) 3.52 · gap <b>+13.5%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> TAB's price is new this check with no US move behind it, and only 3 US books price it.\nWeather: Rate Field, wind 2-11 km/h (1-7 mph), rain chance 0%\nPrices taken 9:58pm, re-checked 10:16pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What are you really gambling with? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "void",
-    "final": "CLE 9, CWS 3",
-    "clv": null
+    "id": "usau-2026-10-09-nhl-49a0b0c9cf",
+    "sent": "2026-10-08T21:30:00Z",
+    "posted": "2026-10-08T21:29:20Z",
+    "text": "<b>NHL · Philadelphia Flyers @ Ottawa Senators</b> · Fri 9 Oct 10:00am Sydney · starts in 90 min\n<b>Unibet</b> Michael Bunting anytime goal @ <b>8.50</b>\nUS reference price (margin removed) 7.58 · gap <b>+12.2%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Unibet's 8.50 is well above every other book, with no Unibet price history or US move to explain it.\nPrices taken 8:22am, re-checked 8:27am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "OTT 2, PHI 1",
+    "clv": 16.3
    }
   ]
  }
