@@ -1,8 +1,23 @@
 {
  "v": 1,
- "generated_utc": "2026-10-10T06:21:33Z",
- "updated": "Updated Sat, 10 Oct, 4:48 pm Sydney time.",
+ "generated_utc": "2026-10-10T07:21:16Z",
+ "updated": "Updated Sat, 10 Oct, 5:47 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 10 Oct",
+   "league": "College football",
+   "game": "Iowa State @ BYU",
+   "alert": "Under 44",
+   "book": "Betfair",
+   "price": "2.20",
+   "us": "2.19",
+   "gap": "+0.8%",
+   "final": "BYU 24, Iowa State 10",
+   "result": "won",
+   "t": "2026-10-10T02:15:00Z",
+   "id": "usau-2026-10-10-ncaaf-484652b677",
+   "type": "sharp"
+  },
   {
    "date": "Sat, 10 Oct",
    "league": "College football",
