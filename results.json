@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-10T13:21:34Z",
- "updated": "Updated Sat, 10 Oct, 11:47 pm Sydney time.",
+ "generated_utc": "2026-10-10T14:21:35Z",
+ "updated": "Updated Sun, 11 Oct, 12:46 am Sydney time.",
  "rows": [
   {
    "date": "Sat, 10 Oct",
@@ -5538,7 +5538,7 @@
   "gapAvg": 13.9,
   "gapMedian": 11.1,
   "gapN": 648,
-  "perDay": 60,
+  "perDay": 62,
   "perDayDays": 7,
   "perDayLow": 31,
   "perDayHigh": 105,
