@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-10T16:20:59Z",
- "updated": "Updated Sun, 11 Oct, 2:46 am Sydney time.",
+ "generated_utc": "2026-10-10T17:21:26Z",
+ "updated": "Updated Sun, 11 Oct, 3:46 am Sydney time.",
  "rows": [
   {
    "date": "Sat, 10 Oct",
@@ -5526,18 +5526,18 @@
   }
  ],
  "speed": {
-  "tracked": 297,
+  "tracked": 304,
   "median": 200,
   "longest": 710,
-  "at30": 0.843,
+  "at30": 0.84,
   "closes": 281,
   "dropped": 185,
-  "clvClosed": 346,
-  "clvBeat": 281,
-  "clvAvg": 11.2,
-  "gapAvg": 13.9,
-  "gapMedian": 11.1,
-  "gapN": 655,
+  "clvClosed": 353,
+  "clvBeat": 284,
+  "clvAvg": 10.9,
+  "gapAvg": 13.8,
+  "gapMedian": 11,
+  "gapN": 659,
   "perDay": 62,
   "perDayDays": 7,
   "perDayLow": 31,
@@ -5888,7 +5888,14 @@
    "usau-2026-10-10-ncaaf-c051357eee": -8.4,
    "usau-2026-10-10-nhl-1a1f7a1fbb": -1.5,
    "usau-2026-10-10-nhl-2f19f3eeb8": 13.9,
-   "usau-2026-10-10-nhl-cb32087797": 11.2
+   "usau-2026-10-10-nhl-cb32087797": 11.2,
+   "usau-2026-10-11-ncaaf-58b17c595e": -13.8,
+   "usau-2026-10-11-ncaaf-94e5c593bc": -2.9,
+   "usau-2026-10-11-ncaaf-a8908e025a": 0.8,
+   "usau-2026-10-11-ncaaf-bd06db238d": 0.2,
+   "usau-2026-10-11-ncaaf-c583b209d8": -1,
+   "usau-2026-10-11-ncaaf-cfa86bb368": -0.5,
+   "usau-2026-10-11-ncaaf-ed831cba7c": 0.7
   },
   "latest": [
    {
