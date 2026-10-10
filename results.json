@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-10T01:21:32Z",
- "updated": "Updated Sat, 10 Oct, 11:46 am Sydney time.",
+ "generated_utc": "2026-10-10T02:21:06Z",
+ "updated": "Updated Sat, 10 Oct, 12:46 pm Sydney time.",
  "rows": [
   {
    "date": "Fri, 9 Oct",
@@ -5429,12 +5429,12 @@
   "at30": 0.842,
   "closes": 265,
   "dropped": 174,
-  "clvClosed": 342,
-  "clvBeat": 279,
-  "clvAvg": 11.3,
+  "clvClosed": 345,
+  "clvBeat": 281,
+  "clvAvg": 11.2,
   "gapAvg": 14,
-  "gapMedian": 11.2,
-  "gapN": 645,
+  "gapMedian": 11.1,
+  "gapN": 646,
   "perDay": 60,
   "perDayDays": 7,
   "perDayLow": 31,
@@ -5779,6 +5779,9 @@
    "usau-2026-10-09-nhl-49a0b0c9cf": 16.3,
    "usau-2026-10-09-nhl-8e352bd3a5": 4.9,
    "usau-2026-10-09-nhl-ac1cd612ba": 7.1,
+   "usau-2026-10-10-ncaaf-3555103d52": 3.2,
+   "usau-2026-10-10-ncaaf-9ff6ebd3ef": 0.2,
+   "usau-2026-10-10-ncaaf-c051357eee": -8.4,
    "usau-2026-10-10-nhl-1a1f7a1fbb": -1.5,
    "usau-2026-10-10-nhl-2f19f3eeb8": 13.9,
    "usau-2026-10-10-nhl-cb32087797": 11.2
