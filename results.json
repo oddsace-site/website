@@ -1,8 +1,51 @@
 {
  "v": 1,
- "generated_utc": "2026-10-10T04:21:00Z",
- "updated": "Updated Sat, 10 Oct, 2:48 pm Sydney time.",
+ "generated_utc": "2026-10-10T05:21:00Z",
+ "updated": "Updated Sat, 10 Oct, 3:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 10 Oct",
+   "league": "NHL",
+   "game": "Anaheim Ducks @ Winnipeg Jets",
+   "alert": "Anaheim Ducks",
+   "book": "Unibet",
+   "price": "2.06",
+   "us": "2.10",
+   "gap": "−1.7%",
+   "final": "ANA 5, WPG 1",
+   "result": "won",
+   "t": "2026-10-10T00:00:00Z",
+   "id": "usau-2026-10-10-nhl-1a1f7a1fbb",
+   "type": "sharp"
+  },
+  {
+   "date": "Sat, 10 Oct",
+   "league": "NHL",
+   "game": "Anaheim Ducks @ Winnipeg Jets",
+   "alert": "Neal Pionk (anytime goal)",
+   "book": "Neds",
+   "price": "7.50",
+   "us": "6.47",
+   "gap": "+16.0%",
+   "final": "ANA 5, WPG 1",
+   "result": "lost",
+   "t": "2026-10-10T00:00:00Z",
+   "id": "usau-2026-10-10-nhl-2f19f3eeb8"
+  },
+  {
+   "date": "Sat, 10 Oct",
+   "league": "NHL",
+   "game": "Anaheim Ducks @ Winnipeg Jets",
+   "alert": "Nikita Nesterenko (anytime goal)",
+   "book": "Neds",
+   "price": "10.50",
+   "us": "8.54",
+   "gap": "+22.9%",
+   "final": "ANA 5, WPG 1",
+   "result": "won",
+   "t": "2026-10-10T00:00:00Z",
+   "id": "usau-2026-10-10-nhl-cb32087797"
+  },
   {
    "date": "Fri, 9 Oct",
    "league": "NHL",
@@ -5790,13 +5833,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-09-nfl-3f069f6fe8",
-    "sent": "2026-10-08T23:31:17Z",
-    "posted": "2026-10-08T23:30:20Z",
-    "text": "<b>GOLDEN WINDOW · NFL · Buccaneers @ Cowboys</b> · Fri 9 Oct 11:15am Sydney · starts in 45 min\n<b>TAB</b> Dak Prescott Under 34.5 pass attempts @ <b>2.00</b>\nUS reference price (margin removed) 1.83 · gap <b>+9.0%</b>\nUS line: 33.5 → 34.5 about 4h ago\n<b>PRICE-GAP FLAG.</b> The US market moved Dak Prescott's line from 33.5 to 34.5 about 4 hours ago; TAB is on the same 34.5 line but prices the Under well above the US market.\nPrices taken 10:15am, re-checked 10:28am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-10-nhl-2f19f3eeb8",
+    "sent": "2026-10-09T08:18:22Z",
+    "posted": "2026-10-09T08:17:28Z",
+    "text": "<b>NHL · Anaheim Ducks @ Winnipeg Jets</b> · Sat 10 Oct 11:00am Sydney\n<b>Neds</b> Anytime goal scorer - Neal Pionk @ <b>7.50</b>\nUS reference price (margin removed) 6.47 · gap <b>+16.0%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Neds' 7.50 sits well above every other Aussie book (4.50 to 5.20) and the best US price (6.25), with no US move and no news against him.\nPrices taken 7:03pm, re-checked 7:15pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "lost",
-    "final": "TB 24, DAL 16",
-    "clv": 9.6
+    "final": "ANA 5, WPG 1",
+    "clv": 13.9
    }
   ]
  }
