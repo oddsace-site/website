@@ -33,3 +33,10 @@
   from = "/x"
   to = "/index.html"
   status = 200
+
+# The walkthrough video on the home page (11 Oct 2026): one cut per weekly tagline, with posters and captions. A changed
+# video gets a new file name (v2, v3, ...), so browsers can keep these files for a year instead of fetching them again.
+[[headers]]
+  for = "/video/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
