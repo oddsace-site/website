@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-11T13:21:38Z",
- "updated": "Updated Sun, 11 Oct, 11:47 pm Sydney time.",
+ "generated_utc": "2026-10-11T14:21:11Z",
+ "updated": "Updated Mon, 12 Oct, 12:46 am Sydney time.",
  "rows": [
   {
    "date": "Sun, 11 Oct",
@@ -6117,19 +6117,19 @@
   }
  ],
  "speed": {
-  "tracked": 330,
+  "tracked": 331,
   "median": 197,
   "longest": 710,
   "at30": 0.829,
   "closes": 439,
   "dropped": 294,
-  "clvClosed": 386,
-  "clvBeat": 302,
-  "clvAvg": 10.2,
+  "clvClosed": 403,
+  "clvBeat": 309,
+  "clvAvg": 9.6,
   "gapAvg": 13.6,
-  "gapMedian": 10.9,
-  "gapN": 682,
-  "perDay": 62,
+  "gapMedian": 11,
+  "gapN": 687,
+  "perDay": 56,
   "perDayDays": 7,
   "perDayLow": 31,
   "perDayHigh": 105,
@@ -6519,7 +6519,24 @@
    "usau-2026-10-11-ncaaf-fbd7c788a9": -3,
    "usau-2026-10-11-ncaaf-ff31c6b484": -9.7,
    "usau-2026-10-11-nhl-c80f26d570": -1.3,
-   "usau-2026-10-11-nhl-f204a90e3c": -7.1
+   "usau-2026-10-11-nhl-f204a90e3c": -7.1,
+   "usau-2026-10-12-nfl-423725d94c": -15.5,
+   "usau-2026-10-12-nfl-51fd992aa9": 11.9,
+   "usau-2026-10-12-nfl-69dbcbac9d": -9.8,
+   "usau-2026-10-12-nfl-6c3589e037": -6.2,
+   "usau-2026-10-12-nfl-701784c841": -1.3,
+   "usau-2026-10-12-nfl-7d630d2852": -4.8,
+   "usau-2026-10-12-nfl-7e292d1720": 12.4,
+   "usau-2026-10-12-nfl-7f6a2984a6": 19.8,
+   "usau-2026-10-12-nfl-8303c16bc5": -5.6,
+   "usau-2026-10-12-nfl-8a5582c051": 17.1,
+   "usau-2026-10-12-nfl-a22772f25d": 9.1,
+   "usau-2026-10-12-nfl-a71d329fc2": -8.6,
+   "usau-2026-10-12-nfl-b621c8186d": 0.6,
+   "usau-2026-10-12-nfl-b769ff2f81": -29.8,
+   "usau-2026-10-12-nfl-ce56cf2461": -4.8,
+   "usau-2026-10-12-nfl-e493d67c38": -41.2,
+   "usau-2026-10-12-nfl-eda77158be": 8.7
   },
   "latest": [
    {
