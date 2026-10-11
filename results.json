@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-11T18:21:17Z",
- "updated": "Updated Mon, 12 Oct, 4:49 am Sydney time.",
+ "generated_utc": "2026-10-11T19:21:12Z",
+ "updated": "Updated Mon, 12 Oct, 5:49 am Sydney time.",
  "rows": [
   {
    "date": "Mon, 12 Oct",
@@ -21,6 +21,20 @@
    "date": "Mon, 12 Oct",
    "league": "NFL",
    "game": "Philadelphia Eagles @ Jacksonville Jaguars",
+   "alert": "Darius Cooper Under 2.5 receptions",
+   "book": "Neds",
+   "price": "2.00",
+   "us": "1.71",
+   "gap": "+16.9%",
+   "final": "JAX 19, PHI 17",
+   "result": "won",
+   "t": "2026-10-11T13:30:00Z",
+   "id": "usau-2026-10-12-nfl-51fd992aa9"
+  },
+  {
+   "date": "Mon, 12 Oct",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Jacksonville Jaguars",
    "alert": "Darius Cooper (anytime touchdown)",
    "book": "Unibet",
    "price": "7.00",
@@ -30,6 +44,20 @@
    "result": "won",
    "t": "2026-10-11T13:30:00Z",
    "id": "usau-2026-10-12-nfl-69dbcbac9d"
+  },
+  {
+   "date": "Mon, 12 Oct",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Jacksonville Jaguars",
+   "alert": "Bhayshul Tuten Under 60.5 rushing yards",
+   "book": "TAB",
+   "price": "2.00",
+   "us": "1.83",
+   "gap": "+9.3%",
+   "final": "JAX 19, PHI 17",
+   "result": "lost",
+   "t": "2026-10-11T13:30:00Z",
+   "id": "usau-2026-10-12-nfl-6c3589e037"
   },
   {
    "date": "Mon, 12 Oct",
@@ -91,6 +119,20 @@
    "date": "Mon, 12 Oct",
    "league": "NFL",
    "game": "Philadelphia Eagles @ Jacksonville Jaguars",
+   "alert": "Bhayshul Tuten Under 75.5 rushing + receiving yards",
+   "book": "TAB",
+   "price": "1.95",
+   "us": "1.80",
+   "gap": "+8.1%",
+   "final": "JAX 19, PHI 17",
+   "result": "lost",
+   "t": "2026-10-11T13:30:00Z",
+   "id": "usau-2026-10-12-nfl-8303c16bc5"
+  },
+  {
+   "date": "Mon, 12 Oct",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Jacksonville Jaguars",
    "alert": "Brenton Strange (first touchdown scorer)",
    "book": "Neds",
    "price": "19.00",
@@ -100,6 +142,20 @@
    "result": "lost",
    "t": "2026-10-11T13:30:00Z",
    "id": "usau-2026-10-12-nfl-8a5582c051"
+  },
+  {
+   "date": "Mon, 12 Oct",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Jacksonville Jaguars",
+   "alert": "Chris Rodriguez Under 7.5 rush attempts",
+   "book": "Unibet",
+   "price": "1.70",
+   "us": "1.56",
+   "gap": "+8.6%",
+   "final": "JAX 19, PHI 17",
+   "result": "won",
+   "t": "2026-10-11T13:30:00Z",
+   "id": "usau-2026-10-12-nfl-a22772f25d"
   },
   {
    "date": "Mon, 12 Oct",
@@ -170,6 +226,20 @@
    "result": "lost",
    "t": "2026-10-11T13:30:00Z",
    "id": "usau-2026-10-12-nfl-e493d67c38"
+  },
+  {
+   "date": "Mon, 12 Oct",
+   "league": "NFL",
+   "game": "Philadelphia Eagles @ Jacksonville Jaguars",
+   "alert": "Bhayshul Tuten Under 14.5 rush attempts",
+   "book": "TAB",
+   "price": "2.20",
+   "us": "1.98",
+   "gap": "+11.0%",
+   "final": "JAX 19, PHI 17",
+   "result": "lost",
+   "t": "2026-10-11T13:30:00Z",
+   "id": "usau-2026-10-12-nfl-eda77158be"
   },
   {
    "date": "Sun, 11 Oct",
@@ -6285,10 +6355,10 @@
   }
  ],
  "speed": {
-  "tracked": 343,
+  "tracked": 347,
   "median": 187,
   "longest": 710,
-  "at30": 0.825,
+  "at30": 0.82,
   "closes": 459,
   "dropped": 304,
   "clvClosed": 569,
@@ -6296,7 +6366,7 @@
   "clvAvg": 8.8,
   "gapAvg": 13.6,
   "gapMedian": 11,
-  "gapN": 700,
+  "gapN": 704,
   "perDay": 56,
   "perDayDays": 7,
   "perDayLow": 31,
@@ -6875,13 +6945,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-11-mlb-b210b58960",
-    "sent": "2026-10-10T20:20:28Z",
-    "posted": "2026-10-10T20:19:00Z",
-    "text": "<b>MLB · White Sox @ Guardians</b> · Sun 11 Oct 11:00am Sydney\n<b>TAB</b> Gavin Williams Under 3.5 hits allowed @ <b>1.95</b>\nUS reference price (margin removed) 1.71 · gap <b>+13.9%</b>\nUS line: 2.5 → 3.5 about 11h ago\n<b>PRICE-GAP FLAG.</b> TAB is on the same 3.5 line as the US market but prices the Under longer than the 4 US books quoting it.\nWeather: Progressive Field, wind 10-17 km/h (6-10 mph) from the SE, rain chance 10%\nPrices taken 6:58am, re-checked 7:16am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "CLE 2, CWS 0",
-    "clv": 14.6
+    "id": "usau-2026-10-12-nfl-eda77158be",
+    "sent": "2026-10-11T04:17:14Z",
+    "posted": "2026-10-11T04:16:05Z",
+    "text": "<b>NFL · Eagles @ Jaguars</b> · Mon 12 Oct 12:30am Sydney\n<b>TAB</b> Bhayshul Tuten Under 14.5 rush attempts @ <b>2.20</b>\nUS reference price (margin removed) 1.98 · gap <b>+11.0%</b>\nUS line: 15.5 → 14.5 about 5h ago\n<b>PRICE-GAP FLAG.</b> The US line already moved down to TAB's 14.5, and TAB prices this Under longer than the US market, Neds and Sportsbet, with no news on Tuten to explain it.\nWeather: Tottenham Hotspur Stadium, wind 4-7 km/h (2-4 mph), rain chance 0%\nPrices taken 2:57pm, re-checked 3:13pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "JAX 19, PHI 17",
+    "clv": 8.7
    }
   ]
  }
