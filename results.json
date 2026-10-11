@@ -1,8 +1,22 @@
 {
  "v": 1,
- "generated_utc": "2026-10-11T03:21:30Z",
- "updated": "Updated Sun, 11 Oct, 1:47 pm Sydney time.",
+ "generated_utc": "2026-10-11T04:21:32Z",
+ "updated": "Updated Sun, 11 Oct, 2:50 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 11 Oct",
+   "league": "NHL",
+   "game": "Detroit Red Wings @ Montreal Canadiens",
+   "alert": "Juraj Slafkovsky Over 2.5 shots on goal",
+   "book": "PointsBet",
+   "price": "2.10",
+   "us": "1.84",
+   "gap": "+14.4%",
+   "final": "MTL 1, DET 0",
+   "result": "won",
+   "t": "2026-10-10T23:00:00Z",
+   "id": "usau-2026-10-11-nhl-f204a90e3c"
+  },
   {
    "date": "Sun, 11 Oct",
    "league": "College football",
@@ -6349,13 +6363,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-10-nhl-2f19f3eeb8",
-    "sent": "2026-10-09T08:18:22Z",
-    "posted": "2026-10-09T08:17:28Z",
-    "text": "<b>NHL · Anaheim Ducks @ Winnipeg Jets</b> · Sat 10 Oct 11:00am Sydney\n<b>Neds</b> Anytime goal scorer - Neal Pionk @ <b>7.50</b>\nUS reference price (margin removed) 6.47 · gap <b>+16.0%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Neds' 7.50 sits well above every other Aussie book (4.50 to 5.20) and the best US price (6.25), with no US move and no news against him.\nPrices taken 7:03pm, re-checked 7:15pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "lost",
-    "final": "ANA 5, WPG 1",
-    "clv": 13.9
+    "id": "usau-2026-10-11-nhl-f204a90e3c",
+    "sent": "2026-10-10T15:52:09Z",
+    "posted": "2026-10-10T15:50:55Z",
+    "text": "<b>NHL · Detroit Red Wings @ Montreal Canadiens</b> · Sun 11 Oct 10:00am Sydney\n<b>PointsBet</b> Juraj Slafkovsky Over 2.5 shots on goal @ <b>2.10</b>\nUS reference price (margin removed) 1.84 · gap <b>+14.4%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> PointsBet has the same 2.5 line as the US market but a longer price on the Over, and no news or US move explains it.\nPrices taken 2:26am, re-checked 2:47am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "won",
+    "final": "MTL 1, DET 0",
+    "clv": -7.1
    }
   ]
  }
