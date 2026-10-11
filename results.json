@@ -1,8 +1,23 @@
 {
  "v": 1,
- "generated_utc": "2026-10-11T02:21:11Z",
- "updated": "Updated Sun, 11 Oct, 12:49 pm Sydney time.",
+ "generated_utc": "2026-10-11T03:21:30Z",
+ "updated": "Updated Sun, 11 Oct, 1:47 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 11 Oct",
+   "league": "College football",
+   "game": "San Diego State @ Oregon State",
+   "alert": "Oregon State -18",
+   "book": "Betfair",
+   "price": "2.22",
+   "us": "2.20",
+   "gap": "+1.1%",
+   "final": "Oregon State 66, San Diego State 14",
+   "result": "won",
+   "t": "2026-10-10T22:00:00Z",
+   "id": "usau-2026-10-11-ncaaf-d6c4786e77",
+   "type": "sharp"
+  },
   {
    "date": "Sun, 11 Oct",
    "league": "College football",
@@ -5933,7 +5948,7 @@
   "at30": 0.833,
   "closes": 297,
   "dropped": 194,
-  "clvClosed": 385,
+  "clvClosed": 386,
   "clvBeat": 302,
   "clvAvg": 10.2,
   "gapAvg": 13.7,
@@ -6328,6 +6343,7 @@
    "usau-2026-10-11-ncaaf-f5484f1049": 3.9,
    "usau-2026-10-11-ncaaf-fbd7c788a9": -3,
    "usau-2026-10-11-ncaaf-ff31c6b484": -9.7,
+   "usau-2026-10-11-nhl-c80f26d570": -1.3,
    "usau-2026-10-11-nhl-f204a90e3c": -7.1
   },
   "latest": [
