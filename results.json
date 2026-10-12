@@ -1,8 +1,22 @@
 {
  "v": 1,
- "generated_utc": "2026-10-12T21:21:15Z",
- "updated": "Updated Tue, 13 Oct, 7:47 am Sydney time.",
+ "generated_utc": "2026-10-12T22:21:11Z",
+ "updated": "Updated Tue, 13 Oct, 8:47 am Sydney time.",
  "rows": [
+  {
+   "date": "Tue, 13 Oct",
+   "league": "NHL",
+   "game": "Florida Panthers @ Buffalo Sabres",
+   "alert": "Buffalo Sabres -1.5",
+   "book": "TAB",
+   "price": "3.60",
+   "us": "3.12",
+   "gap": "+15.5%",
+   "final": "BUF 5, FLA 3",
+   "result": "won",
+   "t": "2026-10-12T17:00:00Z",
+   "id": "usau-2026-10-13-nhl-e553e149b5"
+  },
   {
    "date": "Mon, 12 Oct",
    "league": "NFL",
@@ -9567,8 +9581,8 @@
   "at30": 0.816,
   "closes": 478,
   "dropped": 319,
-  "clvClosed": 616,
-  "clvBeat": 478,
+  "clvClosed": 617,
+  "clvBeat": 479,
   "clvAvg": 8.9,
   "gapAvg": 13.5,
   "gapMedian": 11,
@@ -10193,18 +10207,19 @@
    "usau-2026-10-12-nfl-fe690d3ee7": -9.3,
    "usau-2026-10-12-nfl-feb62ac77e": 8.1,
    "usau-2026-10-12-nfl-ff146646cf": 16.2,
+   "usau-2026-10-13-mlb-67fead7954": 18.3,
    "usau-2026-10-13-nhl-e553e149b5": 10.4
   },
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-12-nfl-50d1406201",
-    "sent": "2026-10-11T22:44:50Z",
-    "posted": "2026-10-11T22:44:01Z",
-    "text": "<b>NFL · Ravens @ Falcons</b> · Mon 12 Oct 11:20am Sydney · starts in 96 min\n<b>TAB</b> Tyler Huntley Under 30.5 rushing yards @ <b>2.00</b>\nUS reference price (margin removed) 1.83 · gap <b>+9.1%</b> (estimate)\nUS line: 28.5 → 29.5 about 2h ago\n<b>PRICE-GAP FLAG.</b> Huntley's start has been public since 9 Oct and is already in the US 29.5; TAB changed this price within the last hour and sits above the US number, with the US line moving 28.5 → 29.5 towards TAB's 30.5.\nPrices taken 9:27am, re-checked 9:42am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-13-nhl-e553e149b5",
+    "sent": "2026-10-12T00:17:24Z",
+    "posted": "2026-10-12T00:16:40Z",
+    "text": "<b>NHL · Florida Panthers @ Buffalo Sabres</b> · Tue 13 Oct 4:00am Sydney\n<b>TAB</b> Buffalo Sabres -1.5 (puck line) @ <b>3.60</b>\nUS reference price (margin removed) 3.12 · gap <b>+15.5%</b>\nUS line: Sabres 49% to win, no move recorded\n<b>PRICE-GAP FLAG.</b> TAB changed its puck line at 10:58am with no US move behind it, and it now leans further towards Florida than the other Aussie books.\nPrices taken 10:58am, re-checked 11:14am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
-    "final": "BAL 30, ATL 23",
-    "clv": 10
+    "final": "BUF 5, FLA 3",
+    "clv": 10.4
    }
   ]
  }
