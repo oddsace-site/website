@@ -1,8 +1,22 @@
 {
  "v": 1,
- "generated_utc": "2026-10-13T01:21:05Z",
- "updated": "Updated Tue, 13 Oct, 11:47 am Sydney time.",
+ "generated_utc": "2026-10-13T02:20:50Z",
+ "updated": "Updated Tue, 13 Oct, 12:47 pm Sydney time.",
  "rows": [
+  {
+   "date": "Tue, 13 Oct",
+   "league": "MLB",
+   "game": "Los Angeles Dodgers @ Milwaukee Brewers",
+   "alert": "Logan Henderson Under 14.5 outs recorded",
+   "book": "TAB",
+   "price": "2.55",
+   "us": "2.25",
+   "gap": "+13.2%",
+   "final": "MIL 7, LAD 4",
+   "result": "won",
+   "t": "2026-10-12T21:00:00Z",
+   "id": "usau-2026-10-13-mlb-67fead7954"
+  },
   {
    "date": "Tue, 13 Oct",
    "league": "NHL",
@@ -9586,7 +9600,7 @@
   "clvAvg": 8.9,
   "gapAvg": 13.5,
   "gapMedian": 11,
-  "gapN": 717,
+  "gapN": 718,
   "perDay": 55,
   "perDayDays": 7,
   "perDayLow": 25,
@@ -10238,13 +10252,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-13-nhl-e553e149b5",
-    "sent": "2026-10-12T00:17:24Z",
-    "posted": "2026-10-12T00:16:40Z",
-    "text": "<b>NHL · Florida Panthers @ Buffalo Sabres</b> · Tue 13 Oct 4:00am Sydney\n<b>TAB</b> Buffalo Sabres -1.5 (puck line) @ <b>3.60</b>\nUS reference price (margin removed) 3.12 · gap <b>+15.5%</b>\nUS line: Sabres 49% to win, no move recorded\n<b>PRICE-GAP FLAG.</b> TAB changed its puck line at 10:58am with no US move behind it, and it now leans further towards Florida than the other Aussie books.\nPrices taken 10:58am, re-checked 11:14am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-13-mlb-67fead7954",
+    "sent": "2026-10-12T13:49:01Z",
+    "posted": "2026-10-12T13:48:01Z",
+    "text": "<b>MLB · Los Angeles Dodgers @ Milwaukee Brewers</b> · Tue 13 Oct 8:00am Sydney\n<b>TAB</b> Logan Henderson Under 14.5 outs recorded @ <b>2.55</b>\nUS reference price (margin removed) 2.25 · gap <b>+13.2%</b> (estimate)\nUS line: 16.5 → 15.5 about 8h ago\n<b>PRICE-GAP FLAG.</b> The US market moved Henderson from 16.5 to 15.5 outs about 8 hours ago, and TAB prices the Under 14.5 longer than the US 15.5 consensus implies.\nPrices taken 12:28am, re-checked 12:45am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
-    "final": "BUF 5, FLA 3",
-    "clv": 10.4
+    "final": "MIL 7, LAD 4",
+    "clv": 18.3
    }
   ]
  }
