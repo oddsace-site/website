@@ -1,8 +1,22 @@
 {
  "v": 1,
- "generated_utc": "2026-10-13T05:20:58Z",
- "updated": "Updated Tue, 13 Oct, 3:54 pm Sydney time.",
+ "generated_utc": "2026-10-13T06:21:53Z",
+ "updated": "Updated Tue, 13 Oct, 4:51 pm Sydney time.",
  "rows": [
+  {
+   "date": "Tue, 13 Oct",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Los Angeles Rams",
+   "alert": "Jordan Whittington (anytime touchdown)",
+   "book": "Unibet",
+   "price": "12.00",
+   "us": "10.63",
+   "gap": "+12.9%",
+   "final": "BUF 37, LAR 34",
+   "result": "lost",
+   "t": "2026-10-13T00:15:00Z",
+   "id": "usau-2026-10-13-nfl-0390acd434"
+  },
   {
    "date": "Tue, 13 Oct",
    "league": "NFL",
@@ -190,6 +204,20 @@
    "date": "Tue, 13 Oct",
    "league": "NFL",
    "game": "Buffalo Bills @ Los Angeles Rams",
+   "alert": "Dawson Knox Under 1.5 receptions",
+   "book": "TAB",
+   "price": "1.90",
+   "us": "1.75",
+   "gap": "+8.6%",
+   "final": "BUF 37, LAR 34",
+   "result": "won",
+   "t": "2026-10-13T00:15:00Z",
+   "id": "usau-2026-10-13-nfl-7c5841149c"
+  },
+  {
+   "date": "Tue, 13 Oct",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Los Angeles Rams",
    "alert": "Kyren Williams Under 25.5 receiving yards",
    "book": "TAB",
    "price": "1.87",
@@ -255,6 +283,20 @@
    "result": "won",
    "t": "2026-10-13T00:15:00Z",
    "id": "usau-2026-10-13-nfl-d246657d02"
+  },
+  {
+   "date": "Tue, 13 Oct",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Los Angeles Rams",
+   "alert": "Jordan Whittington Under 5.5 receiving yards",
+   "book": "TAB",
+   "price": "2.15",
+   "us": "1.91",
+   "gap": "+12.9%",
+   "final": "BUF 37, LAR 34",
+   "result": "won",
+   "t": "2026-10-13T00:15:00Z",
+   "id": "usau-2026-10-13-nfl-d3d5bebdc6"
   },
   {
    "date": "Tue, 13 Oct",
@@ -10561,13 +10603,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-13-nfl-d246657d02",
-    "sent": "2026-10-12T17:49:47Z",
-    "posted": "2026-10-12T17:48:35Z",
-    "text": "<b>NFL · Buffalo Bills @ Los Angeles Rams</b> · Tue 13 Oct 11:15am Sydney\n<b>TAB</b> Blake Corum Under 35.5 rushing yards @ <b>1.95</b>\nUS reference price (margin removed) 1.80 · gap <b>+8.6%</b> (estimate)\nUS line: 35.5 → 33.5 about 2h before 4:26am\n<b>PRICE-GAP FLAG.</b> The US market moved Blake Corum's line from 35.5 to 33.5 and TAB is still at 35.5.\nPrices taken 4:26am, re-checked 4:45am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-13-nfl-d3d5bebdc6",
+    "sent": "2026-10-12T23:33:56Z",
+    "posted": "2026-10-12T23:32:40Z",
+    "text": "<b>GOLDEN WINDOW · NFL · Buffalo Bills @ Los Angeles Rams</b> · Tue 13 Oct 11:15am Sydney · starts in 42 min\n<b>TAB</b> Jordan Whittington Under 5.5 receiving yards @ <b>2.15</b>\nUS reference price (margin removed) 1.90 · gap <b>+12.9%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> TAB has the Under at 2.15 while 7 US books sit at 1.83-1.91 on the same 5.5 line with no US move, and Neds, Sportsbet and Unibet are at 1.86-1.88.\nPrices taken 10:16am, re-checked 10:30am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
     "final": "BUF 37, LAR 34",
-    "clv": 8.6
+    "clv": 12.9
    }
   ]
  }
