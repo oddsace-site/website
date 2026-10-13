@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-13T13:22:57Z",
- "updated": "Updated Tue, 13 Oct, 11:53 pm Sydney time.",
+ "generated_utc": "2026-10-13T23:21:23Z",
+ "updated": "Updated Wed, 14 Oct, 9:48 am Sydney time.",
  "rows": [
   {
    "date": "Tue, 13 Oct",
@@ -218,6 +218,24 @@
    "m": "yes",
    "w": "neutral",
    "h": 106.3
+  },
+  {
+   "date": "Tue, 13 Oct",
+   "league": "NFL",
+   "game": "Buffalo Bills @ Los Angeles Rams",
+   "alert": "Konata Mumpfield Under 10.5 receiving yards",
+   "book": "PointsBet",
+   "price": "1.83",
+   "us": "1.56",
+   "gap": "+17.2%",
+   "final": "BUF 37, LAR 34",
+   "result": "won",
+   "t": "2026-10-13T00:15:00Z",
+   "id": "usau-2026-10-13-nfl-6afb7110ee",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 90.4
   },
   {
    "date": "Tue, 13 Oct",
@@ -12608,12 +12626,12 @@
   "clvClosed": 642,
   "clvBeat": 502,
   "clvAvg": 8.9,
-  "gapAvg": 13.5,
+  "gapAvg": 13.4,
   "gapMedian": 11,
-  "gapN": 724,
-  "perDay": 55,
+  "gapN": 725,
+  "perDay": 53,
   "perDayDays": 7,
-  "perDayLow": 25,
+  "perDayLow": 17,
   "perDayHigh": 105,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
