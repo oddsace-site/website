@@ -1,8 +1,26 @@
 {
  "v": 1,
- "generated_utc": "2026-10-14T03:21:43Z",
- "updated": "Updated Wed, 14 Oct, 1:48 pm Sydney time.",
+ "generated_utc": "2026-10-14T04:20:49Z",
+ "updated": "Updated Wed, 14 Oct, 2:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 14 Oct",
+   "league": "NHL",
+   "game": "Vancouver Canucks @ New York Islanders",
+   "alert": "Vancouver Canucks",
+   "book": "Unibet",
+   "price": "2.88",
+   "us": "2.92",
+   "gap": "−1.5%",
+   "final": "NYI 3, VAN 2",
+   "result": "lost",
+   "t": "2026-10-13T23:45:00Z",
+   "id": "usau-2026-10-14-nhl-c9b62662af",
+   "type": "sharp",
+   "k": "sharp",
+   "m": "same",
+   "h": 11.9
+  },
   {
    "date": "Wed, 14 Oct",
    "league": "NHL",
