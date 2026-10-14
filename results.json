@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-14T16:21:51Z",
- "updated": "Updated Thu, 15 Oct, 2:48 am Sydney time.",
+ "generated_utc": "2026-10-14T22:21:21Z",
+ "updated": "Updated Thu, 15 Oct, 8:47 am Sydney time.",
  "rows": [
   {
    "date": "Wed, 14 Oct",
@@ -12680,7 +12680,7 @@
   "clvAvg": 8.9,
   "gapAvg": 13.4,
   "gapMedian": 10.9,
-  "gapN": 732,
+  "gapN": 734,
   "perDay": 46,
   "perDayDays": 7,
   "perDayLow": 5,
@@ -13998,14 +13998,68 @@
    "avgU": 0.299
   },
   "runs": {
-   "checks": 87,
-   "total": 286402,
-   "full": 59,
+   "checks": 93,
+   "total": 339256,
+   "full": 65,
    "pre": 28,
-   "day": 84838,
+   "day": 116890,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-14T09:51:19Z",
+   "to": "2026-10-14T21:47:00Z",
    "recent": [
+    {
+     "t": "2026-10-14T19:26:44Z",
+     "type": "full",
+     "games": 103,
+     "prices": 9028,
+     "books": 7,
+     "sent": 0,
+     "kept": 4
+    },
+    {
+     "t": "2026-10-14T17:27:00Z",
+     "type": "full",
+     "games": 103,
+     "prices": 9198,
+     "books": 7,
+     "sent": 2,
+     "kept": 3
+    },
+    {
+     "t": "2026-10-14T15:26:52Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8862,
+     "books": 7,
+     "sent": 0,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-14T13:27:00Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8866,
+     "books": 7,
+     "sent": 2,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-14T11:26:57Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8818,
+     "books": 7,
+     "sent": 0,
+     "kept": 3
+    },
+    {
+     "t": "2026-10-14T09:28:00Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8082,
+     "books": 7,
+     "sent": 1,
+     "kept": 2
+    },
     {
      "t": "2026-10-14T07:43:33Z",
      "type": "full",
@@ -14041,60 +14095,6 @@
      "books": 7,
      "sent": 0,
      "kept": 1
-    },
-    {
-     "t": "2026-10-14T02:14:47Z",
-     "type": "pregame",
-     "games": 2,
-     "prices": 70,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-14T01:44:32Z",
-     "type": "pregame",
-     "games": 2,
-     "prices": 88,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-14T01:26:45Z",
-     "type": "full",
-     "games": 94,
-     "prices": 8824,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-14T01:15:00Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 142,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-14T00:44:02Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 142,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-14T00:30:00Z",
-     "type": "full",
-     "games": 96,
-     "prices": 8878,
-     "books": 7,
-     "sent": 2,
-     "kept": 2
     }
    ]
   }
