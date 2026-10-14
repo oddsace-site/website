@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-13T23:21:23Z",
- "updated": "Updated Wed, 14 Oct, 9:48 am Sydney time.",
+ "generated_utc": "2026-10-14T00:21:24Z",
+ "updated": "Updated Wed, 14 Oct, 10:46 am Sydney time.",
  "rows": [
   {
    "date": "Tue, 13 Oct",
@@ -12621,10 +12621,10 @@
   "median": 178,
   "longest": 710,
   "at30": 0.807,
-  "closes": 496,
-  "dropped": 333,
-  "clvClosed": 642,
-  "clvBeat": 502,
+  "closes": 498,
+  "dropped": 335,
+  "clvClosed": 643,
+  "clvBeat": 503,
   "clvAvg": 8.9,
   "gapAvg": 13.4,
   "gapMedian": 11,
@@ -13275,7 +13275,8 @@
    "usau-2026-10-13-nfl-ec24dbd199": 0.34,
    "usau-2026-10-13-nfl-fbfdee94ab": 4.3,
    "usau-2026-10-13-nfl-fdf1b5dd22": 7.32,
-   "usau-2026-10-13-nhl-e553e149b5": 10.36
+   "usau-2026-10-13-nhl-e553e149b5": 10.36,
+   "usau-2026-10-14-nhl-c9b62662af": 0.96
   },
   "latest": [
    {
@@ -13931,7 +13932,8 @@
    "usau-2026-10-13-nfl-ec24dbd199": 0.4778,
    "usau-2026-10-13-nfl-fbfdee94ab": 0.6209,
    "usau-2026-10-13-nfl-fdf1b5dd22": 0.5832,
-   "usau-2026-10-13-nhl-e553e149b5": 0.3065
+   "usau-2026-10-13-nhl-e553e149b5": 0.3065,
+   "usau-2026-10-14-nhl-c9b62662af": 0.3505
   },
   "moves": {
    "n": 221,
