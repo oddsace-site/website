@@ -1,8 +1,25 @@
 {
  "v": 1,
- "generated_utc": "2026-10-14T04:20:49Z",
- "updated": "Updated Wed, 14 Oct, 2:48 pm Sydney time.",
+ "generated_utc": "2026-10-14T10:20:49Z",
+ "updated": "Updated Wed, 14 Oct, 8:51 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 14 Oct",
+   "league": "NHL",
+   "game": "Minnesota Wild @ Winnipeg Jets",
+   "alert": "Winnipeg Jets -1.5",
+   "book": "TAB",
+   "price": "3.80",
+   "us": "3.05",
+   "gap": "+24.6%",
+   "final": "WPG 5, MIN 2",
+   "result": "won",
+   "t": "2026-10-14T00:15:00Z",
+   "id": "usau-2026-10-14-nhl-a2d5200d7d",
+   "k": "line",
+   "m": "same",
+   "h": 23.5
+  },
   {
    "date": "Wed, 14 Oct",
    "league": "NHL",
@@ -13317,13 +13334,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-13-nfl-d3d5bebdc6",
-    "sent": "2026-10-12T23:33:56Z",
-    "posted": "2026-10-12T23:32:40Z",
-    "text": "<b>GOLDEN WINDOW · NFL · Buffalo Bills @ Los Angeles Rams</b> · Tue 13 Oct 11:15am Sydney · starts in 42 min\n<b>TAB</b> Jordan Whittington Under 5.5 receiving yards @ <b>2.15</b>\nUS reference price (margin removed) 1.90 · gap <b>+12.9%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> TAB has the Under at 2.15 while 7 US books sit at 1.83-1.91 on the same 5.5 line with no US move, and Neds, Sportsbet and Unibet are at 1.86-1.88.\nPrices taken 10:16am, re-checked 10:30am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-14-nhl-a2d5200d7d",
+    "sent": "2026-10-13T00:47:49Z",
+    "posted": "2026-10-13T00:46:53Z",
+    "text": "<b>NHL · Minnesota Wild @ Winnipeg Jets</b> · Wed 14 Oct 11:15am Sydney\n<b>TAB</b> Line Winnipeg Jets -1.5 @ <b>3.80</b>\nUS reference price (margin removed) 3.05 · gap <b>+24.6%</b>\nUS line: no move recorded (Jets 50% to win)\n<b>PRICE-GAP FLAG.</b> The US market hasn't moved all day, while TAB has lengthened Jets -1.5 to 3.80 (3.60 at the first check).\nPrices taken 11:28am, re-checked 11:44am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
-    "final": "BUF 37, LAR 34",
-    "clv": 12.87
+    "final": "WPG 5, MIN 2",
+    "clv": 9.68
    }
   ],
   "closeP": {
@@ -13981,103 +13998,103 @@
    "avgU": 0.299
   },
   "runs": {
-   "checks": 69,
-   "total": 201564,
-   "full": 49,
-   "pre": 20,
-   "day": 127070,
+   "checks": 87,
+   "total": 286402,
+   "full": 59,
+   "pre": 28,
+   "day": 84838,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-13T09:49:34Z",
+   "to": "2026-10-14T09:51:19Z",
    "recent": [
     {
-     "t": "2026-10-13T09:26:50Z",
+     "t": "2026-10-14T07:43:33Z",
      "type": "full",
-     "games": 91,
-     "prices": 6492,
+     "games": 92,
+     "prices": 8828,
+     "books": 7,
+     "sent": 0,
+     "kept": 3
+    },
+    {
+     "t": "2026-10-14T05:26:33Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8806,
      "books": 7,
      "sent": 0,
      "kept": 1
     },
     {
-     "t": "2026-10-13T08:34:00Z",
+     "t": "2026-10-14T03:26:34Z",
      "type": "full",
      "games": 91,
-     "prices": 6384,
+     "prices": 8752,
      "books": 7,
-     "sent": 1,
+     "sent": 0,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-14T02:26:09Z",
+     "type": "full",
+     "games": 92,
+     "prices": 8772,
+     "books": 7,
+     "sent": 0,
      "kept": 1
     },
     {
-     "t": "2026-10-13T07:27:00Z",
-     "type": "full",
-     "games": 91,
-     "prices": 6418,
-     "books": 7,
-     "sent": 1,
-     "kept": 13
-    },
-    {
-     "t": "2026-10-13T06:26:52Z",
-     "type": "full",
-     "games": 91,
-     "prices": 6352,
+     "t": "2026-10-14T02:14:47Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 70,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-13T05:27:19Z",
-     "type": "full",
-     "games": 91,
-     "prices": 6304,
+     "t": "2026-10-14T01:44:32Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 88,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-13T04:27:00Z",
+     "t": "2026-10-14T01:26:45Z",
      "type": "full",
-     "games": 91,
-     "prices": 6414,
+     "games": 94,
+     "prices": 8824,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-13T03:27:48Z",
-     "type": "full",
-     "games": 90,
-     "prices": 5984,
+     "t": "2026-10-14T01:15:00Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 142,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-13T02:26:48Z",
-     "type": "full",
-     "games": 89,
-     "prices": 5934,
+     "t": "2026-10-14T00:44:02Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 142,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-13T01:27:01Z",
+     "t": "2026-10-14T00:30:00Z",
      "type": "full",
-     "games": 89,
-     "prices": 5894,
+     "games": 96,
+     "prices": 8878,
      "books": 7,
-     "sent": 1,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-13T00:28:00Z",
-     "type": "full",
-     "games": 89,
-     "prices": 5606,
-     "books": 7,
-     "sent": 1,
-     "kept": 0
+     "sent": 2,
+     "kept": 2
     }
    ]
   }
