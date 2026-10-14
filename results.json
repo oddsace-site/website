@@ -1,8 +1,25 @@
 {
  "v": 1,
- "generated_utc": "2026-10-14T02:21:12Z",
- "updated": "Updated Wed, 14 Oct, 12:46 pm Sydney time.",
+ "generated_utc": "2026-10-14T03:21:43Z",
+ "updated": "Updated Wed, 14 Oct, 1:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 14 Oct",
+   "league": "NHL",
+   "game": "New Jersey Devils @ Detroit Red Wings",
+   "alert": "Detroit Red Wings -1.5",
+   "book": "Unibet",
+   "price": "3.65",
+   "us": "3.09",
+   "gap": "+17.9%",
+   "final": "NJD 5, DET 4",
+   "result": "lost",
+   "t": "2026-10-13T22:00:00Z",
+   "id": "usau-2026-10-14-nhl-448740e98b",
+   "k": "line",
+   "m": "same",
+   "h": 24.2
+  },
   {
    "date": "Tue, 13 Oct",
    "league": "NFL",
