@@ -1,8 +1,44 @@
 {
  "v": 1,
- "generated_utc": "2026-10-15T04:21:04Z",
- "updated": "Updated Thu, 15 Oct, 2:47 pm Sydney time.",
+ "generated_utc": "2026-10-15T10:21:28Z",
+ "updated": "Updated Thu, 15 Oct, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Thu, 15 Oct",
+   "league": "NHL",
+   "game": "Dallas Stars @ Colorado Avalanche",
+   "alert": "Colorado Avalanche",
+   "book": "Unibet",
+   "price": "1.67",
+   "us": "1.70",
+   "gap": "−1.5%",
+   "final": "DAL 3, COL 2",
+   "result": "lost",
+   "t": "2026-10-15T00:30:00Z",
+   "id": "usau-2026-10-15-nhl-47a79c1625",
+   "type": "sharp",
+   "k": "sharp",
+   "m": "same",
+   "h": 0.6
+  },
+  {
+   "date": "Thu, 15 Oct",
+   "league": "MLB",
+   "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+   "alert": "Under 7",
+   "book": "Neds",
+   "price": "2.05",
+   "us": "2.09",
+   "gap": "−1.8%",
+   "final": "MIL 6, LAD 2",
+   "result": "lost",
+   "t": "2026-10-15T00:00:00Z",
+   "id": "usau-2026-10-15-mlb-fb43a676b0",
+   "type": "sharp",
+   "k": "sharp",
+   "m": "same",
+   "h": 1
+  },
   {
    "date": "Wed, 14 Oct",
    "league": "NHL",
@@ -12678,9 +12714,9 @@
   "clvClosed": 646,
   "clvBeat": 504,
   "clvAvg": 8.8,
-  "gapAvg": 13.3,
-  "gapMedian": 10.9,
-  "gapN": 739,
+  "gapAvg": 13.2,
+  "gapMedian": 10.8,
+  "gapN": 744,
   "perDay": 46,
   "perDayDays": 7,
   "perDayLow": 5,
@@ -14002,103 +14038,103 @@
    "avgU": 0.299
   },
   "runs": {
-   "checks": 93,
-   "total": 339256,
-   "full": 65,
-   "pre": 28,
-   "day": 116890,
+   "checks": 104,
+   "total": 395422,
+   "full": 71,
+   "pre": 33,
+   "day": 100938,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-14T21:47:00Z",
+   "to": "2026-10-15T09:49:59Z",
    "recent": [
     {
-     "t": "2026-10-14T19:26:44Z",
+     "t": "2026-10-15T07:32:00Z",
      "type": "full",
-     "games": 103,
-     "prices": 9028,
-     "books": 7,
-     "sent": 0,
-     "kept": 4
-    },
-    {
-     "t": "2026-10-14T17:27:00Z",
-     "type": "full",
-     "games": 103,
-     "prices": 9198,
+     "games": 100,
+     "prices": 9128,
      "books": 7,
      "sent": 2,
-     "kept": 3
+     "kept": 0
     },
     {
-     "t": "2026-10-14T15:26:52Z",
+     "t": "2026-10-15T05:36:00Z",
      "type": "full",
-     "games": 92,
-     "prices": 8862,
-     "books": 7,
-     "sent": 0,
-     "kept": 2
-    },
-    {
-     "t": "2026-10-14T13:27:00Z",
-     "type": "full",
-     "games": 92,
-     "prices": 8866,
-     "books": 7,
-     "sent": 2,
-     "kept": 2
-    },
-    {
-     "t": "2026-10-14T11:26:57Z",
-     "type": "full",
-     "games": 92,
-     "prices": 8818,
-     "books": 7,
-     "sent": 0,
-     "kept": 3
-    },
-    {
-     "t": "2026-10-14T09:28:00Z",
-     "type": "full",
-     "games": 92,
-     "prices": 8082,
+     "games": 100,
+     "prices": 9110,
      "books": 7,
      "sent": 1,
      "kept": 2
     },
     {
-     "t": "2026-10-14T07:43:33Z",
+     "t": "2026-10-15T03:26:48Z",
      "type": "full",
-     "games": 92,
-     "prices": 8828,
+     "games": 100,
+     "prices": 9078,
      "books": 7,
-     "sent": 0,
-     "kept": 3
+     "sent": 2,
+     "kept": 4
     },
     {
-     "t": "2026-10-14T05:26:33Z",
+     "t": "2026-10-15T01:32:00Z",
      "type": "full",
-     "games": 92,
-     "prices": 8806,
+     "games": 99,
+     "prices": 9054,
+     "books": 7,
+     "sent": 1,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-14T23:42:00Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 106,
+     "books": 7,
+     "sent": 1,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-14T23:27:21Z",
+     "type": "full",
+     "games": 102,
+     "prices": 9246,
      "books": 7,
      "sent": 0,
      "kept": 1
     },
     {
-     "t": "2026-10-14T03:26:34Z",
-     "type": "full",
-     "games": 91,
-     "prices": 8752,
+     "t": "2026-10-14T23:10:00Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 256,
      "books": 7,
      "sent": 0,
-     "kept": 2
+     "kept": 0
     },
     {
-     "t": "2026-10-14T02:26:09Z",
-     "type": "full",
-     "games": 92,
-     "prices": 8772,
+     "t": "2026-10-14T22:41:00Z",
+     "type": "pregame",
+     "games": 5,
+     "prices": 356,
+     "books": 7,
+     "sent": 1,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-14T22:15:04Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 310,
      "books": 7,
      "sent": 0,
-     "kept": 1
+     "kept": 0
+    },
+    {
+     "t": "2026-10-14T21:41:50Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 148,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
     }
    ]
   }
