@@ -1,8 +1,44 @@
 {
  "v": 1,
- "generated_utc": "2026-10-17T04:21:06Z",
- "updated": "Updated Sat, 17 Oct, 2:47 pm Sydney time.",
+ "generated_utc": "2026-10-17T10:21:54Z",
+ "updated": "Updated Sat, 17 Oct, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 17 Oct",
+   "league": "College football",
+   "game": "App State @ Coastal Carolina",
+   "alert": "Under 47",
+   "book": "Betfair",
+   "price": "2.18",
+   "us": "2.18",
+   "gap": "+0.3%",
+   "final": "APP 35, CCU 32",
+   "result": "lost",
+   "t": "2026-10-17T00:00:00Z",
+   "id": "usau-2026-10-17-ncaaf-64f477b96a",
+   "type": "sharp",
+   "k": "sharp",
+   "m": "est",
+   "h": 4.1
+  },
+  {
+   "date": "Sat, 17 Oct",
+   "league": "College football",
+   "game": "Washington @ Purdue",
+   "alert": "Washington +2",
+   "book": "Betfair",
+   "price": "2.22",
+   "us": "2.14",
+   "gap": "+3.9%",
+   "final": "WASH 38, PUR 26",
+   "result": "won",
+   "t": "2026-10-17T00:00:00Z",
+   "id": "usau-2026-10-17-ncaaf-c6933723ec",
+   "type": "sharp",
+   "k": "sharp",
+   "m": "est",
+   "h": 2.1
+  },
   {
    "date": "Fri, 16 Oct",
    "league": "NHL",
@@ -13039,7 +13075,7 @@
   "clvAvg": 8.7,
   "gapAvg": 12.8,
   "gapMedian": 10.7,
-  "gapN": 809,
+  "gapN": 810,
   "perDay": 31,
   "perDayDays": 7,
   "perDayLow": 5,
@@ -14401,103 +14437,103 @@
    "avgU": 0.305
   },
   "runs": {
-   "checks": 135,
-   "total": 556252,
-   "full": 89,
-   "pre": 46,
-   "day": 96452,
+   "checks": 150,
+   "total": 610502,
+   "full": 95,
+   "pre": 55,
+   "day": 97082,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-16T21:47:23Z",
+   "to": "2026-10-17T09:49:19Z",
    "recent": [
     {
-     "t": "2026-10-16T19:31:00Z",
-     "type": "full",
-     "games": 108,
-     "prices": 8596,
-     "books": 7,
-     "sent": 1,
-     "kept": 17
-    },
-    {
-     "t": "2026-10-16T17:26:00Z",
-     "type": "full",
-     "games": 108,
-     "prices": 8818,
-     "books": 7,
-     "sent": 0,
-     "kept": 10
-    },
-    {
-     "t": "2026-10-16T15:27:00Z",
+     "t": "2026-10-17T07:26:28Z",
      "type": "full",
      "games": 107,
-     "prices": 8622,
+     "prices": 8704,
      "books": 7,
-     "sent": 3,
-     "kept": 6
+     "sent": 0,
+     "kept": 8
     },
     {
-     "t": "2026-10-16T13:29:00Z",
+     "t": "2026-10-17T05:31:00Z",
      "type": "full",
-     "games": 92,
-     "prices": 8408,
+     "games": 107,
+     "prices": 8710,
      "books": 7,
-     "sent": 3,
+     "sent": 1,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-17T03:26:41Z",
+     "type": "full",
+     "games": 107,
+     "prices": 8652,
+     "books": 7,
+     "sent": 0,
      "kept": 3
     },
     {
-     "t": "2026-10-16T11:27:05Z",
+     "t": "2026-10-17T01:43:43Z",
+     "type": "pregame",
+     "games": 1,
+     "prices": 6,
+     "books": 1,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-17T01:27:10Z",
      "type": "full",
-     "games": 89,
-     "prices": 8388,
+     "games": 108,
+     "prices": 8706,
+     "books": 7,
+     "sent": 1,
+     "kept": 11
+    },
+    {
+     "t": "2026-10-17T01:20:43Z",
+     "type": "pregame",
+     "games": 1,
+     "prices": 40,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-17T00:45:11Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 84,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-17T00:20:26Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 96,
      "books": 7,
      "sent": 0,
      "kept": 1
     },
     {
-     "t": "2026-10-16T09:27:00Z",
-     "type": "full",
-     "games": 89,
-     "prices": 8376,
-     "books": 7,
-     "sent": 3,
-     "kept": 2
-    },
-    {
-     "t": "2026-10-16T07:28:00Z",
-     "type": "full",
-     "games": 89,
-     "prices": 8366,
-     "books": 7,
-     "sent": 2,
-     "kept": 8
-    },
-    {
-     "t": "2026-10-16T05:31:00Z",
-     "type": "full",
-     "games": 89,
-     "prices": 8354,
-     "books": 7,
-     "sent": 3,
-     "kept": 11
-    },
-    {
-     "t": "2026-10-16T03:27:08Z",
-     "type": "full",
-     "games": 86,
-     "prices": 8206,
-     "books": 7,
-     "sent": 3,
-     "kept": 3
-    },
-    {
-     "t": "2026-10-16T01:44:16Z",
+     "t": "2026-10-16T23:41:00Z",
      "type": "pregame",
-     "games": 1,
-     "prices": 26,
-     "books": 4,
+     "games": 3,
+     "prices": 100,
+     "books": 7,
      "sent": 0,
      "kept": 0
+    },
+    {
+     "t": "2026-10-16T23:26:40Z",
+     "type": "full",
+     "games": 111,
+     "prices": 8934,
+     "books": 7,
+     "sent": 0,
+     "kept": 13
     }
    ]
   }
