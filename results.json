@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-21T10:21:26Z",
- "updated": "Updated Wed, 21 Oct, 8:51 pm Sydney time.",
+ "generated_utc": "2026-10-21T16:21:43Z",
+ "updated": "Updated Thu, 22 Oct, 2:48 am Sydney time.",
  "rows": [
   {
    "date": "Wed, 21 Oct",
@@ -16048,10 +16048,10 @@
   "clvAvg": 8.1,
   "gapAvg": 12.3,
   "gapMedian": 10.4,
-  "gapN": 913,
-  "perDay": 24,
+  "gapN": 920,
+  "perDay": 27,
   "perDayDays": 7,
-  "perDayLow": 5,
+  "perDayLow": 14,
   "perDayHigh": 49,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
