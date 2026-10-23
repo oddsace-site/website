@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-22T22:20:58Z",
- "updated": "Updated Fri, 23 Oct, 8:47 am Sydney time.",
+ "generated_utc": "2026-10-23T04:20:53Z",
+ "updated": "Updated Fri, 23 Oct, 2:48 pm Sydney time.",
  "rows": [
   {
    "date": "Thu, 22 Oct",
@@ -16341,14 +16341,14 @@
   "median": 178,
   "longest": 710,
   "at30": 0.805,
-  "closes": 649,
-  "dropped": 441,
-  "clvClosed": 832,
-  "clvBeat": 647,
+  "closes": 654,
+  "dropped": 443,
+  "clvClosed": 839,
+  "clvBeat": 651,
   "clvAvg": 8.2,
   "gapAvg": 12.3,
   "gapMedian": 10.5,
-  "gapN": 962,
+  "gapN": 973,
   "perDay": 29,
   "perDayDays": 7,
   "perDayLow": 14,
@@ -17185,7 +17185,14 @@
    "usau-2026-10-22-nba-ed79893801": 15.38,
    "usau-2026-10-22-nba-f12e5d036b": 9.24,
    "usau-2026-10-22-nhl-3e950f73dc": 21.17,
-   "usau-2026-10-22-nhl-845f6db5fe": 20.3
+   "usau-2026-10-22-nhl-845f6db5fe": 20.3,
+   "usau-2026-10-23-nba-42401263e8": -23.55,
+   "usau-2026-10-23-nba-634f3a2a6e": 12.09,
+   "usau-2026-10-23-nfl-492b850fca": -3.44,
+   "usau-2026-10-23-nfl-5df60a506e": 26.44,
+   "usau-2026-10-23-nfl-6db983d161": -12.91,
+   "usau-2026-10-23-nfl-70dbbcae36": 9.52,
+   "usau-2026-10-23-nfl-bbba0292ec": 6.67
   },
   "latest": [
    {
@@ -18031,15 +18038,22 @@
    "usau-2026-10-22-nba-ed79893801": 0.5769,
    "usau-2026-10-22-nba-f12e5d036b": 0.4459,
    "usau-2026-10-22-nhl-3e950f73dc": 0.3189,
-   "usau-2026-10-22-nhl-845f6db5fe": 0.3008
+   "usau-2026-10-22-nhl-845f6db5fe": 0.3008,
+   "usau-2026-10-23-nba-42401263e8": 0.2506,
+   "usau-2026-10-23-nba-634f3a2a6e": 0.2802,
+   "usau-2026-10-23-nfl-492b850fca": 0.4598,
+   "usau-2026-10-23-nfl-5df60a506e": 0.4958,
+   "usau-2026-10-23-nfl-6db983d161": 0.4632,
+   "usau-2026-10-23-nfl-70dbbcae36": 0.5984,
+   "usau-2026-10-23-nfl-bbba0292ec": 0.6095
   },
   "moves": {
-   "n": 289,
-   "tab": 131,
-   "us": 71,
-   "none": 87,
-   "avgT": 0.662,
-   "avgU": 0.271
+   "n": 293,
+   "tab": 132,
+   "us": 73,
+   "none": 88,
+   "avgT": 0.658,
+   "avgU": 0.276
   },
   "runs": {
    "checks": 287,
