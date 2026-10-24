@@ -1,8 +1,25 @@
 {
  "v": 1,
- "generated_utc": "2026-10-23T22:20:57Z",
- "updated": "Updated Sat, 24 Oct, 8:48 am Sydney time.",
+ "generated_utc": "2026-10-24T04:20:58Z",
+ "updated": "Updated Sat, 24 Oct, 2:48 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 24 Oct",
+   "league": "College football",
+   "game": "UMass @ UConn",
+   "alert": "Under 49.5",
+   "book": "Betfair",
+   "price": "2.24",
+   "us": "1.99",
+   "gap": "+12.5%",
+   "final": "UConn 35, UMass 16",
+   "result": "lost",
+   "t": "2026-10-23T23:00:00Z",
+   "id": "usau-2026-10-24-ncaaf-e1b8c8b708",
+   "k": "line",
+   "m": "same",
+   "h": 7
+  },
   {
    "date": "Fri, 23 Oct",
    "league": "NBA",
@@ -16484,14 +16501,14 @@
   "median": 178,
   "longest": 710,
   "at30": 0.805,
-  "closes": 654,
-  "dropped": 443,
-  "clvClosed": 839,
-  "clvBeat": 651,
+  "closes": 656,
+  "dropped": 445,
+  "clvClosed": 842,
+  "clvBeat": 654,
   "clvAvg": 8.2,
   "gapAvg": 12.3,
   "gapMedian": 10.5,
-  "gapN": 988,
+  "gapN": 989,
   "perDay": 26,
   "perDayDays": 7,
   "perDayLow": 14,
@@ -17335,18 +17352,21 @@
    "usau-2026-10-23-nfl-5df60a506e": 26.44,
    "usau-2026-10-23-nfl-6db983d161": -12.91,
    "usau-2026-10-23-nfl-70dbbcae36": 9.52,
-   "usau-2026-10-23-nfl-bbba0292ec": 6.67
+   "usau-2026-10-23-nfl-bbba0292ec": 6.67,
+   "usau-2026-10-24-nba-f0c929a4d7": 6.04,
+   "usau-2026-10-24-nba-f35b0c4e8a": 8.45,
+   "usau-2026-10-24-ncaaf-e1b8c8b708": 12.53
   },
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-23-nfl-bbba0292ec",
-    "sent": "2026-10-22T22:36:46Z",
-    "posted": "2026-10-22T22:35:20Z",
-    "text": "<b>NFL · Patriots @ Bears</b> · Fri 23 Oct 11:15am Sydney · starts in 99 min\n<b>TAB</b> Caleb Williams Under 34.5 pass attempts @ <b>1.75</b>\nUS reference price (margin removed) 1.58 · gap <b>+10.7%</b> (estimate)\nUS line: 33.5 → 32.5 about 13h ago\n<b>PRICE-GAP FLAG.</b> TAB's new 34.5 line was already above the old US 33.5, so it can't be shown whether TAB is behind an earlier US move or simply disagrees.\nWeather: Soldier Field, wind 8-10 km/h (5-6 mph), rain chance 0%\nPrices taken 9:13am, re-checked 9:32am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "CHI 30, NE 24",
-    "clv": 6.67
+    "id": "usau-2026-10-24-ncaaf-e1b8c8b708",
+    "sent": "2026-10-23T16:01:37Z",
+    "posted": "2026-10-23T15:59:00Z",
+    "text": "<b>NCAAF · UMass @ UConn</b> · Sat 24 Oct 10:00am Sydney\n<b>Betfair</b> Total Under 49.5 @ <b>2.24</b> after 6% commission (Betfair shows 2.32)\nTop 2 Aussie prices: Betfair 2.24 after commission · Neds 2.15\nUS reference price (margin removed) 1.99 · gap <b>+12.5%</b>\nUS line: no US line history available\n<b>PRICE-GAP FLAG.</b> Every Aussie book has the total at 51.5 to 52.5 while 5 US books price 49.5, and Betfair's Under 49.5 reflects the Aussie market's higher total.\nPrices taken 2:31am, re-checked 2:56am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "UConn 35, UMass 16",
+    "clv": 12.53
    }
   ],
   "closeP": {
@@ -18188,7 +18208,10 @@
    "usau-2026-10-23-nfl-5df60a506e": 0.4958,
    "usau-2026-10-23-nfl-6db983d161": 0.4632,
    "usau-2026-10-23-nfl-70dbbcae36": 0.5984,
-   "usau-2026-10-23-nfl-bbba0292ec": 0.6095
+   "usau-2026-10-23-nfl-bbba0292ec": 0.6095,
+   "usau-2026-10-24-nba-f0c929a4d7": 0.564,
+   "usau-2026-10-24-nba-f35b0c4e8a": 0.4338,
+   "usau-2026-10-24-ncaaf-e1b8c8b708": 0.5022
   },
   "moves": {
    "n": 293,
