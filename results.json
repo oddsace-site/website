@@ -1,8 +1,26 @@
 {
  "v": 1,
- "generated_utc": "2026-10-25T04:21:10Z",
- "updated": "Updated Sun, 25 Oct, 2:52 pm Sydney time.",
+ "generated_utc": "2026-10-25T10:21:31Z",
+ "updated": "Updated Sun, 25 Oct, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 25 Oct",
+   "league": "NBA",
+   "game": "Houston Rockets @ Atlanta Hawks",
+   "alert": "Jabari Smith Over 2.5 made threes (Sportsbet '3+')",
+   "book": "Sportsbet",
+   "price": "2.85",
+   "us": "2.35",
+   "gap": "+21.1%",
+   "final": "HOU 121, ATL 114",
+   "result": "lost",
+   "t": "2026-10-25T00:30:00Z",
+   "id": "usau-2026-10-25-nba-d778a3893d",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 0.7
+  },
   {
    "date": "Sun, 25 Oct",
    "league": "College football",
@@ -16856,7 +16874,7 @@
   "clvAvg": 8.1,
   "gapAvg": 12.3,
   "gapMedian": 10.5,
-  "gapN": 994,
+  "gapN": 1001,
   "perDay": 26,
   "perDayDays": 7,
   "perDayLow": 10,
@@ -17725,13 +17743,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-25-nhl-d6e37875ac",
-    "sent": "2026-10-24T21:55:32Z",
-    "posted": "2026-10-24T21:53:06Z",
-    "text": "<b>NHL · Nashville Predators @ Pittsburgh Penguins</b> · Sun 25 Oct 10:00am Sydney · starts in 67 min\n<b>PointsBet</b> Steven Stamkos Under 0.5 assists @ <b>1.87</b>\nUS reference price (margin removed) 1.66 · gap <b>+13.0%</b>\nUS line: no move recorded in the last 72h\n<b>PRICE-GAP FLAG.</b> PointsBet has the same 0.5 line as the US market but prices the Under at 1.87, while the US market makes the Under the favourite.\nPrices taken 8:31am, re-checked 8:50am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "Pittsburgh Penguins 3, Nashville Predators 2",
-    "clv": 12.95
+    "id": "usau-2026-10-25-nba-d778a3893d",
+    "sent": "2026-10-24T23:50:22Z",
+    "posted": "2026-10-24T23:48:30Z",
+    "text": "<b>GOLDEN WINDOW · NBA · Houston Rockets @ Atlanta Hawks</b> · Sun 25 Oct 11:30am Sydney · starts in 41 min\n<b>Sportsbet</b> Jabari Smith 3+ made threes @ <b>2.85</b>\nUS reference price (margin removed) 2.35 · gap <b>+21.1%</b>\nUS line: 2.5 → 1.5 within the last hour\n<b>PRICE-GAP FLAG.</b> Half the US market moved Jabari Smith's threes line from 2.5 to 1.5 within the last hour, while Sportsbet is still on 2.5 at a price above every other Australian bookmaker.\nPrices taken 10:30am, re-checked 10:45am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "HOU 121, ATL 114",
+    "clv": null
    }
   ],
   "closeP": {
@@ -18604,103 +18622,103 @@
    "avgU": 0.277
   },
   "runs": {
-   "checks": 344,
-   "total": 1295420,
-   "full": 183,
-   "pre": 161,
-   "day": 91502,
+   "checks": 359,
+   "total": 1327096,
+   "full": 189,
+   "pre": 170,
+   "day": 76462,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-24T21:50:35Z",
+   "to": "2026-10-25T09:49:51Z",
    "recent": [
     {
-     "t": "2026-10-24T21:12:00Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 462,
+     "t": "2026-10-25T07:35:00Z",
+     "type": "full",
+     "games": 74,
+     "prices": 4776,
      "books": 7,
-     "sent": 0,
-     "kept": 0
+     "sent": 1,
+     "kept": 2
     },
     {
-     "t": "2026-10-24T20:48:17Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 490,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-24T20:16:00Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 402,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-24T19:44:07Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 524,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-24T19:26:50Z",
+     "t": "2026-10-25T05:28:00Z",
      "type": "full",
      "games": 54,
-     "prices": 4988,
+     "prices": 4314,
      "books": 7,
-     "sent": 0,
-     "kept": 8
+     "sent": 6,
+     "kept": 4
     },
     {
-     "t": "2026-10-24T19:12:00Z",
-     "type": "pregame",
-     "games": 17,
-     "prices": 1776,
-     "books": 7,
-     "sent": 0,
-     "kept": 1
-    },
-    {
-     "t": "2026-10-24T18:44:00Z",
-     "type": "pregame",
-     "games": 15,
-     "prices": 1570,
-     "books": 7,
-     "sent": 0,
-     "kept": 1
-    },
-    {
-     "t": "2026-10-24T18:13:42Z",
-     "type": "pregame",
-     "games": 15,
-     "prices": 1568,
+     "t": "2026-10-25T03:27:13Z",
+     "type": "full",
+     "games": 39,
+     "prices": 3412,
      "books": 7,
      "sent": 0,
      "kept": 2
     },
     {
-     "t": "2026-10-24T17:44:07Z",
+     "t": "2026-10-25T01:44:23Z",
      "type": "pregame",
-     "games": 13,
-     "prices": 1324,
+     "games": 4,
+     "prices": 258,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-24T17:27:03Z",
+     "t": "2026-10-25T01:33:00Z",
      "type": "full",
-     "games": 67,
-     "prices": 5930,
+     "games": 43,
+     "prices": 3618,
+     "books": 7,
+     "sent": 1,
+     "kept": 6
+    },
+    {
+     "t": "2026-10-25T01:22:31Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 308,
      "books": 7,
      "sent": 0,
-     "kept": 13
+     "kept": 0
+    },
+    {
+     "t": "2026-10-25T00:44:49Z",
+     "type": "pregame",
+     "games": 6,
+     "prices": 492,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-25T00:19:00Z",
+     "type": "pregame",
+     "games": 7,
+     "prices": 650,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-24T23:46:00Z",
+     "type": "pregame",
+     "games": 5,
+     "prices": 598,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-24T23:30:00Z",
+     "type": "full",
+     "games": 47,
+     "prices": 4324,
+     "books": 7,
+     "sent": 1,
+     "kept": 11
     }
    ]
   }
