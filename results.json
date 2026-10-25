@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-25T10:21:31Z",
- "updated": "Updated Sun, 25 Oct, 8:49 pm Sydney time.",
+ "generated_utc": "2026-10-25T16:21:23Z",
+ "updated": "Updated Mon, 26 Oct, 2:47 am Sydney time.",
  "rows": [
   {
    "date": "Sun, 25 Oct",
@@ -16863,22 +16863,22 @@
   }
  ],
  "speed": {
-  "tracked": 373,
+  "tracked": 375,
   "median": 178,
   "longest": 710,
   "at30": 0.805,
-  "closes": 671,
-  "dropped": 456,
-  "clvClosed": 859,
-  "clvBeat": 669,
+  "closes": 676,
+  "dropped": 460,
+  "clvClosed": 866,
+  "clvBeat": 676,
   "clvAvg": 8.1,
   "gapAvg": 12.3,
   "gapMedian": 10.5,
-  "gapN": 1001,
-  "perDay": 26,
+  "gapN": 1011,
+  "perDay": 23,
   "perDayDays": 7,
   "perDayLow": 10,
-  "perDayHigh": 33,
+  "perDayHigh": 32,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
    "usau-2026-09-30-mlb-bf2a576bab": 13.21,
@@ -17738,7 +17738,14 @@
    "usau-2026-10-25-ncaaf-d4ee75a2b8": 15.55,
    "usau-2026-10-25-ncaaf-e41acb12a5": 7.22,
    "usau-2026-10-25-nhl-c24ffd7250": 2.6,
-   "usau-2026-10-25-nhl-d6e37875ac": 12.95
+   "usau-2026-10-25-nhl-d6e37875ac": 12.95,
+   "usau-2026-10-26-nfl-4b8ac5fbf6": 19.55,
+   "usau-2026-10-26-nfl-6ea2d27090": 7.66,
+   "usau-2026-10-26-nfl-7fc6b7ad34": 13.88,
+   "usau-2026-10-26-nfl-a78f349952": 13.17,
+   "usau-2026-10-26-nfl-b95fa96452": 7.89,
+   "usau-2026-10-26-nfl-eb057d3e23": 8.02,
+   "usau-2026-10-26-nfl-f8861f7a1b": 2.99
   },
   "latest": [
    {
@@ -18611,7 +18618,14 @@
    "usau-2026-10-25-ncaaf-d4ee75a2b8": 0.4444,
    "usau-2026-10-25-ncaaf-e41acb12a5": 0.5176,
    "usau-2026-10-25-nhl-c24ffd7250": 0.4366,
-   "usau-2026-10-25-nhl-d6e37875ac": 0.604
+   "usau-2026-10-25-nhl-d6e37875ac": 0.604,
+   "usau-2026-10-26-nfl-4b8ac5fbf6": 0.5586,
+   "usau-2026-10-26-nfl-6ea2d27090": 0.5666,
+   "usau-2026-10-26-nfl-7fc6b7ad34": 0.5994,
+   "usau-2026-10-26-nfl-a78f349952": 0.6394,
+   "usau-2026-10-26-nfl-b95fa96452": 0.559,
+   "usau-2026-10-26-nfl-eb057d3e23": 0.5839,
+   "usau-2026-10-26-nfl-f8861f7a1b": 0.5919
   },
   "moves": {
    "n": 302,
