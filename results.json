@@ -1,8 +1,62 @@
 {
  "v": 1,
- "generated_utc": "2026-10-26T04:21:20Z",
- "updated": "Updated Mon, 26 Oct, 2:57 pm Sydney time.",
+ "generated_utc": "2026-10-26T10:21:08Z",
+ "updated": "Updated Mon, 26 Oct, 8:52 pm Sydney time.",
  "rows": [
+  {
+   "date": "Mon, 26 Oct",
+   "league": "NFL",
+   "game": "Kansas City Chiefs @ Seattle Seahawks",
+   "alert": "Cyrus Allen Under 5.5 receiving yards",
+   "book": "TAB",
+   "price": "2.15",
+   "us": "1.91",
+   "gap": "+12.9%",
+   "final": "SEA 20, KC 3",
+   "result": "lost",
+   "t": "2026-10-26T00:20:00Z",
+   "id": "usau-2026-10-26-nfl-77f3e212e0",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 0.8
+  },
+  {
+   "date": "Mon, 26 Oct",
+   "league": "NFL",
+   "game": "Kansas City Chiefs @ Seattle Seahawks",
+   "alert": "Kenneth Walker Under 19.5 rush attempts",
+   "book": "Unibet",
+   "price": "1.78",
+   "us": "1.64",
+   "gap": "+8.4%",
+   "final": "SEA 20, KC 3",
+   "result": "won",
+   "t": "2026-10-26T00:20:00Z",
+   "id": "usau-2026-10-26-nfl-85ae786fe7",
+   "k": "prop",
+   "m": "est",
+   "w": "nothing",
+   "h": 110.4
+  },
+  {
+   "date": "Mon, 26 Oct",
+   "league": "NFL",
+   "game": "Kansas City Chiefs @ Seattle Seahawks",
+   "alert": "Emanuel Wilson Under 10.5 receiving yards",
+   "book": "PointsBet",
+   "price": "1.77",
+   "us": "1.56",
+   "gap": "+13.2%",
+   "final": "SEA 20, KC 3",
+   "result": "lost",
+   "t": "2026-10-26T00:20:00Z",
+   "id": "usau-2026-10-26-nfl-e572be7809",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 10.5
+  },
   {
    "date": "Mon, 26 Oct",
    "league": "NBA",
@@ -19041,13 +19095,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-26-nfl-41ad15b674",
-    "sent": "2026-10-25T19:35:16Z",
-    "posted": "2026-10-25T19:35:00Z",
-    "text": "<b>GOLDEN WINDOW · NFL · Los Angeles Rams @ Las Vegas Raiders</b> · Mon 26 Oct 7:25am Sydney · starts in 50 min\n<b>PointsBet</b> Tutu Atwell Under 10.5 receiving yards @ <b>1.77</b>\nUS reference price (margin removed) 1.56 · gap <b>+13.6%</b> (estimate)\nUS line: 6.5 → 7.5 within the last hour\n<b>PRICE-GAP FLAG.</b> PointsBet's 10.5 line sits above the US consensus of 7.5, after the US line moved 6.5 → 7.5 within the last hour.\nPrices taken 6:15am, re-checked 6:33am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "LAR 35, LV 21",
-    "clv": 13.56
+    "id": "usau-2026-10-26-nfl-77f3e212e0",
+    "sent": "2026-10-25T23:33:47Z",
+    "posted": "2026-10-25T23:33:40Z",
+    "text": "<b>GOLDEN WINDOW · NFL · Kansas City Chiefs @ Seattle Seahawks</b> · Mon 26 Oct 11:20am Sydney · starts in 47 min\n<b>TAB</b> Cyrus Allen Under 5.5 receiving yards @ <b>2.15</b>\nTop 2 Aussie prices: TAB 2.15 · Sportsbet 1.88\nUS reference price (margin removed) 1.90 · gap <b>+12.9%</b>\nUS line: 6.5 → 5.5 within the last hour\n<b>PRICE-GAP FLAG.</b> TAB is on the same 5.5 line as the US market, which cut it from 6.5 within the last hour, and TAB still prices the Under at 2.15.\nWeather: Lumen Field, wind 1-6 km/h (1-4 mph), rain chance 9%\nPrices taken 10:13am, re-checked 10:31am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Chances are you're about to lose. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "SEA 20, KC 3",
+    "clv": 4.9
    }
   ],
   "closeP": {
@@ -19977,102 +20031,102 @@
    "avgU": 0.273
   },
   "runs": {
-   "checks": 383,
-   "total": 1368354,
-   "full": 196,
-   "pre": 187,
-   "day": 66652,
+   "checks": 395,
+   "total": 1392956,
+   "full": 201,
+   "pre": 194,
+   "day": 61038,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-25T21:59:52Z",
+   "to": "2026-10-26T09:52:50Z",
    "recent": [
     {
-     "t": "2026-10-25T21:52:35Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 980,
+     "t": "2026-10-26T09:26:24Z",
+     "type": "full",
+     "games": 84,
+     "prices": 4780,
      "books": 7,
      "sent": 0,
      "kept": 0
     },
     {
-     "t": "2026-10-25T21:26:00Z",
+     "t": "2026-10-26T07:27:19Z",
      "type": "full",
-     "games": 82,
-     "prices": 3508,
+     "games": 84,
+     "prices": 4778,
      "books": 7,
      "sent": 0,
      "kept": 1
     },
     {
-     "t": "2026-10-25T21:22:17Z",
-     "type": "pregame",
-     "games": 6,
-     "prices": 874,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-25T20:45:09Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 390,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-25T20:15:08Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 450,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-25T19:27:01Z",
+     "t": "2026-10-26T05:32:00Z",
      "type": "full",
-     "games": 81,
-     "prices": 4206,
+     "games": 84,
+     "prices": 4650,
+     "books": 7,
+     "sent": 0,
+     "kept": 3
+    },
+    {
+     "t": "2026-10-26T03:27:54Z",
+     "type": "full",
+     "games": 84,
+     "prices": 4174,
      "books": 7,
      "sent": 0,
      "kept": 2
     },
     {
-     "t": "2026-10-25T19:15:00Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 796,
-     "books": 7,
-     "sent": 3,
-     "kept": 2
-    },
-    {
-     "t": "2026-10-25T18:45:00Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 598,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-25T18:14:49Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 638,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-25T17:43:29Z",
+     "t": "2026-10-26T01:21:58Z",
      "type": "pregame",
      "games": 1,
-     "prices": 44,
+     "prices": 42,
      "books": 7,
      "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-26T00:41:39Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 182,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-26T00:16:07Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 240,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-25T23:53:52Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 374,
+     "books": 6,
+     "sent": 0,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-25T23:27:00Z",
+     "type": "full",
+     "games": 84,
+     "prices": 3048,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-25T23:13:00Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 562,
+     "books": 7,
+     "sent": 1,
      "kept": 0
     }
    ]
