@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-10-30T10:21:34Z",
- "updated": "Updated Fri, 30 Oct, 8:54 pm Sydney time.",
+ "generated_utc": "2026-10-30T22:21:30Z",
+ "updated": "Updated Sat, 31 Oct, 8:50 am Sydney time.",
  "rows": [
   {
    "date": "Fri, 30 Oct",
@@ -113,6 +113,24 @@
   },
   {
    "date": "Fri, 30 Oct",
+   "league": "NFL",
+   "game": "Carolina Panthers @ Green Bay Packers",
+   "alert": "Jonnu Smith Under 5.5 receiving yards",
+   "book": "TAB",
+   "price": "1.72",
+   "us": "1.59",
+   "gap": "+8.1%",
+   "final": "GB 27, CAR 19",
+   "result": "void",
+   "t": "2026-10-30T00:15:00Z",
+   "id": "usau-2026-10-30-nfl-c6edf150e4",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 4.3
+  },
+  {
+   "date": "Fri, 30 Oct",
    "league": "NHL",
    "game": "Boston Bruins @ St. Louis Blues",
    "alert": "Boston Bruins -1.5",
@@ -144,6 +162,24 @@
    "k": "line",
    "m": "same",
    "h": 28.1
+  },
+  {
+   "date": "Fri, 30 Oct",
+   "league": "NBA",
+   "game": "Sacramento Kings @ New Orleans Pelicans",
+   "alert": "Zion Williamson Over 3.5 assists (Sportsbet '4+')",
+   "book": "Sportsbet",
+   "price": "2.75",
+   "us": "2.29",
+   "gap": "+20.0%",
+   "final": "NO 132, SAC 120",
+   "result": "lost",
+   "t": "2026-10-30T00:00:00Z",
+   "id": "usau-2026-10-30-nba-75f43dc19f",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 14.2
   },
   {
    "date": "Fri, 30 Oct",
@@ -19121,8 +19157,8 @@
   "clvAvg": 8.2,
   "gapAvg": 12.4,
   "gapMedian": 10.7,
-  "gapN": 1103,
-  "perDay": 19,
+  "gapN": 1118,
+  "perDay": 18,
   "perDayDays": 7,
   "perDayLow": 10,
   "perDayHigh": 32,
@@ -21051,14 +21087,50 @@
    "avgU": 0.267
   },
   "runs": {
-   "checks": 462,
-   "total": 1724632,
-   "full": 239,
-   "pre": 223,
-   "day": 72724,
+   "checks": 466,
+   "total": 1746436,
+   "full": 242,
+   "pre": 224,
+   "day": 52512,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-30T09:54:40Z",
+   "to": "2026-10-30T21:50:13Z",
    "recent": [
+    {
+     "t": "2026-10-30T20:42:41Z",
+     "type": "pregame",
+     "games": 1,
+     "prices": 56,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-30T17:27:00Z",
+     "type": "full",
+     "games": 113,
+     "prices": 7548,
+     "books": 6,
+     "sent": 7,
+     "kept": 3
+    },
+    {
+     "t": "2026-10-30T14:00:00Z",
+     "type": "full",
+     "games": 103,
+     "prices": 7230,
+     "books": 6,
+     "sent": 5,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-30T09:26:00Z",
+     "type": "full",
+     "games": 103,
+     "prices": 6970,
+     "books": 6,
+     "sent": 3,
+     "kept": 7
+    },
     {
      "t": "2026-10-30T05:34:00Z",
      "type": "full",
@@ -21112,42 +21184,6 @@
      "books": 6,
      "sent": 0,
      "kept": 0
-    },
-    {
-     "t": "2026-10-29T23:43:55Z",
-     "type": "pregame",
-     "games": 1,
-     "prices": 66,
-     "books": 3,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-29T23:33:00Z",
-     "type": "full",
-     "games": 111,
-     "prices": 6926,
-     "books": 6,
-     "sent": 1,
-     "kept": 15
-    },
-    {
-     "t": "2026-10-29T23:15:00Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 438,
-     "books": 5,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-29T22:44:05Z",
-     "type": "pregame",
-     "games": 13,
-     "prices": 938,
-     "books": 6,
-     "sent": 0,
-     "kept": 1
     }
    ]
   }
