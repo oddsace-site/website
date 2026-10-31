@@ -1,0 +1,93 @@
+{
+  "captured_at_utc": "2026-10-31T20:50:54.170Z",
+  "captured_at_sydney": "01/11/2026, 07:50 AEDT",
+  "since_utc": "2026-10-06T20:48:12.074Z",
+  "site_commit": "a20c3042151e204fec524e4cefc3697b84af4c7f",
+  "site_index_sha256": "9c40c8d7bc78d22c1c82c86ce18d9dbec8c1b3810ed5e0dd1f93d2f74816ef47",
+  "results_json_sha256": "b2af9ebc2e7fe0c27dbf31d41608015d038a15515aa165ffba557ccfbb0a6c9a",
+  "versions_published": 21,
+  "files": [
+    {
+      "page": "home",
+      "url": "https://oddsaceaustralia.com/",
+      "title": "Odds Ace Australia | US sports price alerts for Aussie punters",
+      "file": "home.pdf",
+      "bytes": 1213595,
+      "pages": 6
+    },
+    {
+      "page": "terms",
+      "url": "https://oddsaceaustralia.com/#terms",
+      "title": "Terms of Service · Odds Ace Australia",
+      "file": "terms.pdf",
+      "bytes": 176604,
+      "pages": 4
+    },
+    {
+      "page": "privacy",
+      "url": "https://oddsaceaustralia.com/#privacy",
+      "title": "Privacy Policy · Odds Ace Australia",
+      "file": "privacy.pdf",
+      "bytes": 161705,
+      "pages": 3
+    },
+    {
+      "page": "responsible-gambling",
+      "url": "https://oddsaceaustralia.com/#responsible-gambling",
+      "title": "Responsible gambling · Odds Ace Australia",
+      "file": "responsible-gambling.pdf",
+      "bytes": 146558,
+      "pages": 1
+    },
+    {
+      "page": "about",
+      "url": "https://oddsaceaustralia.com/#about",
+      "title": "About Odds Ace Australia",
+      "file": "about.pdf",
+      "bytes": 156554,
+      "pages": 2
+    },
+    {
+      "page": "method",
+      "url": "https://oddsaceaustralia.com/#method",
+      "title": "Our method · Odds Ace Australia",
+      "file": "method.pdf",
+      "bytes": 162159,
+      "pages": 3
+    },
+    {
+      "page": "faq",
+      "url": "https://oddsaceaustralia.com/#faq",
+      "title": "Frequently asked questions · Odds Ace Australia",
+      "file": "faq.pdf",
+      "bytes": 162817,
+      "pages": 3
+    },
+    {
+      "page": "after-you-join",
+      "url": "https://oddsaceaustralia.com/#after-you-join",
+      "title": "After you join · Odds Ace Australia",
+      "file": "after-you-join.pdf",
+      "bytes": 144309,
+      "pages": 1
+    },
+    {
+      "page": "why-aussie-odds-lag",
+      "url": "https://oddsaceaustralia.com/why-aussie-odds-lag/",
+      "title": "Why Australian odds on US sports lag the American market | Odds Ace Australia",
+      "file": "why-aussie-odds-lag.pdf",
+      "bytes": 135323,
+      "pages": 2
+    },
+    {
+      "page": "home (phone, first screen)",
+      "url": "https://oddsaceaustralia.com/",
+      "file": "home-phone.png",
+      "bytes": 869355
+    }
+  ],
+  "blocked_hosts": [
+    "static.cloudflareinsights.com"
+  ],
+  "note": "Printed from a local copy of the site at site_commit, with the live results data from the data branch. Fonts are the site's own Google Fonts, from tools/fonts on the reports branch."
+}

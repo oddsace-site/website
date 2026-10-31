@@ -1,0 +1,25 @@
+Odds Ace Australia website: versions published from 07/10/2026, 07:48 AEDT to 01/11/2026, 07:50 AEDT
+Each line is one publish to oddsaceaustralia.com (a commit to the site on the main branch of github.com/oddsace-site/website):
+Sydney time, commit, what changed. The exact files of any version: https://github.com/oddsace-site/website/tree/<commit>/site
+
+27/10/2026, 21:40 AEDT  a20c304  Publish website changes
+21/10/2026, 21:21 AEDT  c8be2d7  Publish website changes
+19/10/2026, 09:20 AEDT  73d3c28  Publish website changes
+13/10/2026, 21:22 AEDT  09c546d  Publish website changes
+12/10/2026, 21:21 AEDT  92dc76d  Publish website changes
+12/10/2026, 12:26 AEDT  c3eb514  llms.txt: Our method adds the 12 Oct 2026 tracking-only kinds [skip netlify]
+11/10/2026, 14:39 AEDT  2eb98ae  Publish website changes
+11/10/2026, 13:52 AEDT  b76cd76  Walkthrough video: six weekly-tagline cuts, posters and captions (11 Oct 2026) [skip netlify]
+10/10/2026, 21:21 AEDT  7a270f1  Publish website changes
+10/10/2026, 12:53 AEDT  4669c0c  llms.txt: scorer alerts and NFL props 12-48h are recorded but not sent (10 Oct 2026) [skip netlify]
+08/10/2026, 21:23 AEDT  ad9817f  Publish website changes
+08/10/2026, 15:05 AEDT  3cac8cc  Explainer, llms.txt, sitemap and share image: double-check fixes [skip netlify]
+08/10/2026, 13:48 AEDT  102a4b2  Publish website changes
+08/10/2026, 13:45 AEDT  efa94eb  Explainer page and llms.txt: no Compare page; "how long an alerted price lasted" [skip netlify]
+08/10/2026, 13:25 AEDT  28c2ff8  Explainer page: Cloudflare Web Analytics; "out of line with the US market" [skip netlify]
+08/10/2026, 12:26 AEDT  00c37cc  Standard price A$99; Trustpilot link out of the explainer footer [skip netlify]
+08/10/2026, 09:21 AEDT  16d7491  Publish website changes
+07/10/2026, 21:21 AEDT  374f7ea  Publish website changes
+07/10/2026, 18:15 AEDT  9629688  llms.txt: one members' channel and the new welcome email [skip netlify]
+07/10/2026, 14:58 AEDT  fc7d8bc  Publish website changes
+07/10/2026, 13:58 AEDT  1a55e22  Explainer page and llms.txt: link Our method and Trustpilot, fix wording
