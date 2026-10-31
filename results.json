@@ -1,8 +1,98 @@
 {
  "v": 1,
- "generated_utc": "2026-10-30T22:21:30Z",
- "updated": "Updated Sat, 31 Oct, 8:50 am Sydney time.",
+ "generated_utc": "2026-10-31T10:20:59Z",
+ "updated": "Updated Sat, 31 Oct, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 31 Oct",
+   "league": "NBA",
+   "game": "New York Knicks @ Philadelphia 76ers",
+   "alert": "Jaylen Brown Over 7.5 rebounds (TAB '8+')",
+   "book": "TAB",
+   "price": "3.75",
+   "us": "3.12",
+   "gap": "+20.0%",
+   "final": "PHI 98, NYK 93",
+   "result": "void",
+   "t": "2026-10-30T23:30:00Z",
+   "id": "usau-2026-10-31-nba-427cb8079c",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 5.6
+  },
+  {
+   "date": "Sat, 31 Oct",
+   "league": "NBA",
+   "game": "New York Knicks @ Philadelphia 76ers",
+   "alert": "VJ Edgecombe Over 9.5 rebounds + assists (Sportsbet '10+')",
+   "book": "Sportsbet",
+   "price": "3.25",
+   "us": "2.85",
+   "gap": "+13.9%",
+   "final": "PHI 98, NYK 93",
+   "result": "won",
+   "t": "2026-10-30T23:30:00Z",
+   "id": "usau-2026-10-31-nba-6d18f22adb",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 9.1
+  },
+  {
+   "date": "Sat, 31 Oct",
+   "league": "NBA",
+   "game": "New York Knicks @ Philadelphia 76ers",
+   "alert": "Karl-Anthony Towns Under 12.5 rebounds",
+   "book": "PointsBet",
+   "price": "1.90",
+   "us": "1.73",
+   "gap": "+9.9%",
+   "final": "PHI 98, NYK 93",
+   "result": "won",
+   "t": "2026-10-30T23:30:00Z",
+   "id": "usau-2026-10-31-nba-fd41cee8df",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 13.7
+  },
+  {
+   "date": "Sat, 31 Oct",
+   "league": "NHL",
+   "game": "Winnipeg Jets @ Florida Panthers",
+   "alert": "Kyle Connor Under 0.5 assists",
+   "book": "PointsBet",
+   "price": "1.87",
+   "us": "1.68",
+   "gap": "+11.1%",
+   "final": "FLA 5, WPG 2",
+   "result": "won",
+   "t": "2026-10-30T23:00:00Z",
+   "id": "usau-2026-10-31-nhl-2b38ac38c6",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 1.1
+  },
+  {
+   "date": "Sat, 31 Oct",
+   "league": "NHL",
+   "game": "Winnipeg Jets @ Florida Panthers",
+   "alert": "Mark Scheifele Under 0.5 assists",
+   "book": "PointsBet",
+   "price": "2.00",
+   "us": "1.77",
+   "gap": "+12.7%",
+   "final": "FLA 5, WPG 2",
+   "result": "lost",
+   "t": "2026-10-30T23:00:00Z",
+   "id": "usau-2026-10-31-nhl-b5666bf578",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 5.1
+  },
   {
    "date": "Fri, 30 Oct",
    "league": "NFL",
@@ -19150,14 +19240,14 @@
   "median": 178,
   "longest": 710,
   "at30": 0.804,
-  "closes": 737,
-  "dropped": 500,
-  "clvClosed": 950,
-  "clvBeat": 750,
+  "closes": 741,
+  "dropped": 504,
+  "clvClosed": 954,
+  "clvBeat": 754,
   "clvAvg": 8.2,
   "gapAvg": 12.4,
   "gapMedian": 10.7,
-  "gapN": 1118,
+  "gapN": 1131,
   "perDay": 18,
   "perDayDays": 7,
   "perDayLow": 10,
@@ -20112,18 +20202,22 @@
    "usau-2026-10-30-nhl-94400eadd2": 9.11,
    "usau-2026-10-30-nhl-ab04c595a9": 12.48,
    "usau-2026-10-30-nhl-c891d2154a": 12.16,
-   "usau-2026-10-30-nhl-e4e388ebf9": 16.49
+   "usau-2026-10-30-nhl-e4e388ebf9": 16.49,
+   "usau-2026-10-31-nba-6d18f22adb": 30.41,
+   "usau-2026-10-31-nba-fd41cee8df": 2.88,
+   "usau-2026-10-31-nhl-2b38ac38c6": 10.02,
+   "usau-2026-10-31-nhl-b5666bf578": 9.31
   },
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-10-30-nhl-94400eadd2",
-    "sent": "2026-10-29T21:52:13Z",
-    "posted": "2026-10-29T21:52:13Z",
-    "text": "<b>NHL · Utah Mammoth @ Pittsburgh Penguins</b> · Fri 30 Oct 10:00am Sydney · starts in 68 min\n<b>PointsBet</b> Sidney Crosby Under 0.5 assists @ <b>1.87</b>\nUS reference price (margin removed) 1.71 · gap <b>+9.1%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> PointsBet is on the US line of 0.5 for Sidney Crosby, with a longer Under price than the US market.\nPrices taken 8:27am, re-checked 8:48am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What's gambling really costing you? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-10-31-nhl-2b38ac38c6",
+    "sent": "2026-10-30T21:53:05Z",
+    "posted": "2026-10-30T21:52:30Z",
+    "text": "<b>NHL · Winnipeg Jets @ Florida Panthers</b> · Sat 31 Oct 10:00am Sydney · starts in 67 min\n<b>PointsBet</b> Kyle Connor Under 0.5 assists @ <b>1.87</b>\nUS reference price (margin removed) 1.68 · gap <b>+11.1%</b>\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> PointsBet has the same 0.5 line as the US market, and its Under price is longer than the US reference.\nPrices taken 8:27am, re-checked 8:49am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · What's gambling really costing you? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
-    "final": "UTA 4, PIT 3",
-    "clv": 9.11
+    "final": "FLA 5, WPG 2",
+    "clv": 10.02
    }
   ],
   "closeP": {
@@ -21076,25 +21170,92 @@
    "usau-2026-10-30-nhl-94400eadd2": 0.5835,
    "usau-2026-10-30-nhl-ab04c595a9": 0.3124,
    "usau-2026-10-30-nhl-c891d2154a": 0.5752,
-   "usau-2026-10-30-nhl-e4e388ebf9": 0.3065
+   "usau-2026-10-30-nhl-e4e388ebf9": 0.3065,
+   "usau-2026-10-31-nba-6d18f22adb": 0.4013,
+   "usau-2026-10-31-nba-fd41cee8df": 0.5415,
+   "usau-2026-10-31-nhl-2b38ac38c6": 0.5884,
+   "usau-2026-10-31-nhl-b5666bf578": 0.5465
   },
   "moves": {
-   "n": 343,
-   "tab": 156,
+   "n": 347,
+   "tab": 160,
    "us": 84,
    "none": 103,
-   "avgT": 0.67,
-   "avgU": 0.267
+   "avgT": 0.679,
+   "avgU": 0.264
   },
   "runs": {
-   "checks": 466,
-   "total": 1746436,
-   "full": 242,
-   "pre": 224,
-   "day": 52512,
+   "checks": 473,
+   "total": 1771048,
+   "full": 245,
+   "pre": 228,
+   "day": 39446,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-10-30T21:50:13Z",
+   "to": "2026-10-31T09:49:22Z",
    "recent": [
+    {
+     "t": "2026-10-31T05:27:17Z",
+     "type": "full",
+     "games": 107,
+     "prices": 6826,
+     "books": 6,
+     "sent": 0,
+     "kept": 2
+    },
+    {
+     "t": "2026-10-31T01:44:08Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 166,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-31T01:26:00Z",
+     "type": "full",
+     "games": 107,
+     "prices": 6618,
+     "books": 6,
+     "sent": 6,
+     "kept": 5
+    },
+    {
+     "t": "2026-10-31T00:44:43Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 386,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-30T22:41:00Z",
+     "type": "pregame",
+     "games": 11,
+     "prices": 1416,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-10-30T21:55:28Z",
+     "type": "pregame",
+     "games": 13,
+     "prices": 1546,
+     "books": 6,
+     "sent": 0,
+     "kept": 1
+    },
+    {
+     "t": "2026-10-30T21:27:00Z",
+     "type": "full",
+     "games": 113,
+     "prices": 7654,
+     "books": 6,
+     "sent": 7,
+     "kept": 12
+    },
     {
      "t": "2026-10-30T20:42:41Z",
      "type": "pregame",
@@ -21121,69 +21282,6 @@
      "books": 6,
      "sent": 5,
      "kept": 2
-    },
-    {
-     "t": "2026-10-30T09:26:00Z",
-     "type": "full",
-     "games": 103,
-     "prices": 6970,
-     "books": 6,
-     "sent": 3,
-     "kept": 7
-    },
-    {
-     "t": "2026-10-30T05:34:00Z",
-     "type": "full",
-     "games": 102,
-     "prices": 6940,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-30T03:27:00Z",
-     "type": "full",
-     "games": 100,
-     "prices": 6884,
-     "books": 6,
-     "sent": 1,
-     "kept": 1
-    },
-    {
-     "t": "2026-10-30T01:27:00Z",
-     "type": "full",
-     "games": 104,
-     "prices": 6698,
-     "books": 6,
-     "sent": 6,
-     "kept": 1
-    },
-    {
-     "t": "2026-10-30T01:13:00Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 280,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-30T00:43:49Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 288,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-10-30T00:13:00Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 288,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
     }
    ]
   }
