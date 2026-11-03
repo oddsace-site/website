@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-11-03T10:21:02Z",
- "updated": "Updated Tue, 3 Nov, 9:08 pm Sydney time.",
+ "generated_utc": "2026-11-03T22:21:31Z",
+ "updated": "Updated Wed, 4 Nov, 8:48 am Sydney time.",
  "rows": [
   {
    "date": "Tue, 3 Nov",
@@ -218,6 +218,24 @@
    "m": "est",
    "w": "neutral",
    "h": 43.4
+  },
+  {
+   "date": "Tue, 3 Nov",
+   "league": "NFL",
+   "game": "Chicago Bears @ Seattle Seahawks",
+   "alert": "Emanuel Wilson Under 20.5 rushing yards",
+   "book": "TAB",
+   "price": "1.95",
+   "us": "1.78",
+   "gap": "+9.7%",
+   "final": "CHI 34, SEA 17",
+   "result": "won",
+   "t": "2026-11-03T01:15:00Z",
+   "id": "usau-2026-11-03-nfl-df62092606",
+   "k": "prop",
+   "m": "est",
+   "w": "nothing",
+   "h": 39.4
   },
   {
    "date": "Tue, 3 Nov",
@@ -21605,10 +21623,10 @@
   "clvAvg": 8.3,
   "gapAvg": 12.4,
   "gapMedian": 10.7,
-  "gapN": 1212,
-  "perDay": 25,
+  "gapN": 1214,
+  "perDay": 26,
   "perDayDays": 7,
-  "perDayLow": 11,
+  "perDayLow": 16,
   "perDayHigh": 45,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
@@ -23777,14 +23795,50 @@
    "avgU": 0.269
   },
   "runs": {
-   "checks": 530,
-   "total": 1935168,
-   "full": 263,
+   "checks": 534,
+   "total": 1969304,
+   "full": 267,
    "pre": 267,
-   "day": 73444,
+   "day": 65984,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-03T10:08:30Z",
+   "to": "2026-11-03T21:48:00Z",
    "recent": [
+    {
+     "t": "2026-11-03T21:27:00Z",
+     "type": "full",
+     "games": 141,
+     "prices": 10294,
+     "books": 6,
+     "sent": 0,
+     "kept": 3
+    },
+    {
+     "t": "2026-11-03T17:35:00Z",
+     "type": "full",
+     "games": 117,
+     "prices": 9648,
+     "books": 6,
+     "sent": 2,
+     "kept": 3
+    },
+    {
+     "t": "2026-11-03T13:27:11Z",
+     "type": "full",
+     "games": 113,
+     "prices": 7468,
+     "books": 6,
+     "sent": 0,
+     "kept": 2
+    },
+    {
+     "t": "2026-11-03T09:27:02Z",
+     "type": "full",
+     "games": 113,
+     "prices": 6726,
+     "books": 6,
+     "sent": 4,
+     "kept": 3
+    },
     {
      "t": "2026-11-03T05:26:25Z",
      "type": "full",
@@ -23838,42 +23892,6 @@
      "books": 6,
      "sent": 0,
      "kept": 0
-    },
-    {
-     "t": "2026-11-02T23:43:00Z",
-     "type": "pregame",
-     "games": 66,
-     "prices": 6104,
-     "books": 6,
-     "sent": 2,
-     "kept": 1
-    },
-    {
-     "t": "2026-11-02T22:42:21Z",
-     "type": "pregame",
-     "games": 65,
-     "prices": 5390,
-     "books": 6,
-     "sent": 0,
-     "kept": 1
-    },
-    {
-     "t": "2026-11-02T21:48:23Z",
-     "type": "pregame",
-     "games": 9,
-     "prices": 720,
-     "books": 5,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-02T21:28:00Z",
-     "type": "full",
-     "games": 222,
-     "prices": 15160,
-     "books": 6,
-     "sent": 1,
-     "kept": 5
     }
    ]
   }
