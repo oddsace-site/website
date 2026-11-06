@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-11-06T10:21:36Z",
- "updated": "Updated Fri, 6 Nov, 8:53 pm Sydney time.",
+ "generated_utc": "2026-11-06T22:20:55Z",
+ "updated": "Updated Sat, 7 Nov, 8:47 am Sydney time.",
  "rows": [
   {
    "date": "Fri, 6 Nov",
@@ -236,6 +236,24 @@
    "m": "same",
    "w": "nothing",
    "h": 7.3
+  },
+  {
+   "date": "Fri, 6 Nov",
+   "league": "NFL",
+   "game": "Jacksonville Jaguars @ Baltimore Ravens",
+   "alert": "Josh Cuevas Under 10.5 receiving yards",
+   "book": "PointsBet",
+   "price": "1.74",
+   "us": "1.59",
+   "gap": "+9.1%",
+   "final": "JAX 33, BAL 10",
+   "result": "won",
+   "t": "2026-11-06T01:15:00Z",
+   "id": "usau-2026-11-06-nfl-b05e069699",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 55.4
   },
   {
    "date": "Fri, 6 Nov",
@@ -22337,11 +22355,11 @@
   "clvAvg": 8.4,
   "gapAvg": 12.3,
   "gapMedian": 10.7,
-  "gapN": 1318,
-  "perDay": 26,
+  "gapN": 1338,
+  "perDay": 30,
   "perDayDays": 7,
   "perDayLow": 6,
-  "perDayHigh": 45,
+  "perDayHigh": 59,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
    "usau-2026-09-30-mlb-bf2a576bab": 13.21,
@@ -24585,14 +24603,59 @@
    "avgU": 0.259
   },
   "runs": {
-   "checks": 567,
-   "total": 2165908,
-   "full": 282,
-   "pre": 285,
-   "day": 81882,
+   "checks": 572,
+   "total": 2207086,
+   "full": 285,
+   "pre": 287,
+   "day": 71974,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-06T09:53:47Z",
+   "to": "2026-11-06T21:47:28Z",
    "recent": [
+    {
+     "t": "2026-11-06T20:44:37Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 316,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T19:41:50Z",
+     "type": "pregame",
+     "games": 1,
+     "prices": 104,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T19:27:20Z",
+     "type": "full",
+     "games": 181,
+     "prices": 14642,
+     "books": 7,
+     "sent": 6,
+     "kept": 12
+    },
+    {
+     "t": "2026-11-06T17:26:00Z",
+     "type": "full",
+     "games": 178,
+     "prices": 13806,
+     "books": 7,
+     "sent": 7,
+     "kept": 6
+    },
+    {
+     "t": "2026-11-06T13:27:00Z",
+     "type": "full",
+     "games": 166,
+     "prices": 12310,
+     "books": 7,
+     "sent": 7,
+     "kept": 15
+    },
     {
      "t": "2026-11-06T02:45:00Z",
      "type": "pregame",
@@ -24636,51 +24699,6 @@
      "prices": 2440,
      "books": 7,
      "sent": 1,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-05T23:27:00Z",
-     "type": "full",
-     "games": 196,
-     "prices": 13704,
-     "books": 7,
-     "sent": 8,
-     "kept": 7
-    },
-    {
-     "t": "2026-11-05T22:42:00Z",
-     "type": "pregame",
-     "games": 34,
-     "prices": 2390,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-05T21:43:59Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 506,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-05T21:27:00Z",
-     "type": "full",
-     "games": 200,
-     "prices": 14052,
-     "books": 7,
-     "sent": 10,
-     "kept": 2
-    },
-    {
-     "t": "2026-11-05T20:41:44Z",
-     "type": "pregame",
-     "games": 1,
-     "prices": 100,
-     "books": 7,
-     "sent": 0,
      "kept": 0
     }
    ]
