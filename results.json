@@ -1,8 +1,61 @@
 {
  "v": 1,
- "generated_utc": "2026-11-06T22:20:55Z",
- "updated": "Updated Sat, 7 Nov, 8:47 am Sydney time.",
+ "generated_utc": "2026-11-07T10:21:20Z",
+ "updated": "Updated Sat, 7 Nov, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Sat, 7 Nov",
+   "league": "NHL",
+   "game": "Anaheim Ducks @ Calgary Flames",
+   "alert": "Nico Myatovic (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "10.00",
+   "us": "7.63",
+   "gap": "+31.1%",
+   "final": "ANA 5, CGY 3",
+   "result": "lost",
+   "t": "2026-11-07T01:00:00Z",
+   "id": "usau-2026-11-07-nhl-66d5f93752",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 1.1
+  },
+  {
+   "date": "Sat, 7 Nov",
+   "league": "NHL",
+   "game": "Anaheim Ducks @ Calgary Flames",
+   "alert": "Jonathan Castagna (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "9.50",
+   "us": "8.38",
+   "gap": "+13.3%",
+   "final": "ANA 5, CGY 3",
+   "result": "lost",
+   "t": "2026-11-07T01:00:00Z",
+   "id": "usau-2026-11-07-nhl-66d740ac31",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 1.1
+  },
+  {
+   "date": "Sat, 7 Nov",
+   "league": "College basketball",
+   "game": "Michigan @ UConn",
+   "alert": "Over 144.5",
+   "book": "Betr",
+   "price": "2.10",
+   "us": "2.00",
+   "gap": "+5.0%",
+   "final": "UConn 85, Michigan 77",
+   "result": "won",
+   "t": "2026-11-07T01:00:00Z",
+   "id": "usau-2026-11-07-ncaab-50ab2e836b",
+   "k": "line",
+   "m": "same",
+   "h": 11.1
+  },
   {
    "date": "Fri, 6 Nov",
    "league": "NBA",
@@ -22348,14 +22401,14 @@
   "median": 178,
   "longest": 710,
   "at30": 0.804,
-  "closes": 851,
-  "dropped": 576,
-  "clvClosed": 1109,
-  "clvBeat": 892,
+  "closes": 853,
+  "dropped": 577,
+  "clvClosed": 1111,
+  "clvBeat": 893,
   "clvAvg": 8.4,
   "gapAvg": 12.3,
   "gapMedian": 10.7,
-  "gapN": 1338,
+  "gapN": 1353,
   "perDay": 30,
   "perDayDays": 7,
   "perDayLow": 6,
@@ -23469,18 +23522,20 @@
    "usau-2026-11-06-nhl-bcdd9a820b": 2.46,
    "usau-2026-11-06-nhl-bdb13714ee": -2.71,
    "usau-2026-11-06-nhl-c457cbb7d9": 19.02,
-   "usau-2026-11-06-nhl-d274360f2a": 31.15
+   "usau-2026-11-06-nhl-d274360f2a": 31.15,
+   "usau-2026-11-07-nba-872ff07629": 16.85,
+   "usau-2026-11-07-ncaab-50ab2e836b": -4.38
   },
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-11-06-nfl-d8b2ad948e",
-    "sent": "2026-11-06T00:02:57Z",
-    "posted": "2026-11-06T00:02:40Z",
-    "text": "<b>NFL · Jacksonville Jaguars @ Baltimore Ravens</b> · Fri 6 Nov 12:15pm Sydney · starts in 72 min\n<b>Unibet</b> Bhayshul Tuten Under 15.5 rush attempts @ <b>1.84</b>\nUS reference price (margin removed) 1.58 · gap <b>+16.5%</b> (estimate)\nUS line: 15.5 → 14.5 about 2h ago\n<b>PRICE-GAP FLAG.</b> The US market moved Bhayshul Tuten's rush attempts line from 15.5 to 14.5 about 2h ago and Unibet is still at 15.5.\nWeather: M&amp;T Bank Stadium, wind 4-6 km/h (3-4 mph), rain chance up to 45%\nPrices taken 10:42am, re-checked 11:00am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "JAX 33, BAL 10",
-    "clv": 14.94
+    "id": "usau-2026-11-07-nhl-66d740ac31",
+    "sent": "2026-11-06T23:53:51Z",
+    "posted": "2026-11-06T23:53:30Z",
+    "text": "<b>NHL · Anaheim Ducks @ Calgary Flames</b> · Sat 7 Nov 12:00pm Sydney · starts in 66 min\n<b>Ladbrokes</b> Anytime goal scorer - Jonathan Castagna @ <b>9.50</b>\nTop 2 Aussie prices: Ladbrokes 9.50 · Sportsbet 7.25\nUS reference price (margin removed) 8.38 · gap <b>+13.3%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> No US move explains Ladbrokes' price, Castagna is in the Flames' projected lineup, and Ladbrokes is above every other book.\nPrices taken 10:27am, re-checked 10:51am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "ANA 5, CGY 3",
+    "clv": null
    }
   ],
   "closeP": {
@@ -24592,25 +24647,108 @@
    "usau-2026-11-06-nhl-bcdd9a820b": 0.1025,
    "usau-2026-11-06-nhl-bdb13714ee": 0.4989,
    "usau-2026-11-06-nhl-c457cbb7d9": 0.4858,
-   "usau-2026-11-06-nhl-d274360f2a": 0.1639
+   "usau-2026-11-06-nhl-d274360f2a": 0.1639,
+   "usau-2026-11-07-nba-872ff07629": 0.6183,
+   "usau-2026-11-07-ncaab-50ab2e836b": 0.4553
   },
   "moves": {
-   "n": 447,
-   "tab": 204,
-   "us": 107,
+   "n": 449,
+   "tab": 205,
+   "us": 108,
    "none": 136,
-   "avgT": 0.676,
-   "avgU": 0.259
+   "avgT": 0.675,
+   "avgU": 0.26
   },
   "runs": {
-   "checks": 572,
-   "total": 2207086,
-   "full": 285,
-   "pre": 287,
-   "day": 71974,
+   "checks": 581,
+   "total": 2261756,
+   "full": 288,
+   "pre": 293,
+   "day": 95848,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-06T21:47:28Z",
+   "to": "2026-11-07T09:49:26Z",
    "recent": [
+    {
+     "t": "2026-11-07T02:43:12Z",
+     "type": "pregame",
+     "games": 6,
+     "prices": 714,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-07T01:44:37Z",
+     "type": "pregame",
+     "games": 10,
+     "prices": 978,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-07T01:26:19Z",
+     "type": "full",
+     "games": 158,
+     "prices": 10776,
+     "books": 7,
+     "sent": 5,
+     "kept": 3
+    },
+    {
+     "t": "2026-11-07T00:43:45Z",
+     "type": "pregame",
+     "games": 33,
+     "prices": 3036,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T23:42:00Z",
+     "type": "pregame",
+     "games": 40,
+     "prices": 4056,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T23:27:00Z",
+     "type": "full",
+     "games": 189,
+     "prices": 14812,
+     "books": 7,
+     "sent": 6,
+     "kept": 8
+    },
+    {
+     "t": "2026-11-06T22:55:32Z",
+     "type": "pregame",
+     "games": 50,
+     "prices": 4872,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T21:41:47Z",
+     "type": "pregame",
+     "games": 7,
+     "prices": 364,
+     "books": 5,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-06T21:27:00Z",
+     "type": "full",
+     "games": 188,
+     "prices": 15062,
+     "books": 7,
+     "sent": 4,
+     "kept": 3
+    },
     {
      "t": "2026-11-06T20:44:37Z",
      "type": "pregame",
@@ -24618,87 +24756,6 @@
      "prices": 316,
      "books": 7,
      "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-06T19:41:50Z",
-     "type": "pregame",
-     "games": 1,
-     "prices": 104,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-06T19:27:20Z",
-     "type": "full",
-     "games": 181,
-     "prices": 14642,
-     "books": 7,
-     "sent": 6,
-     "kept": 12
-    },
-    {
-     "t": "2026-11-06T17:26:00Z",
-     "type": "full",
-     "games": 178,
-     "prices": 13806,
-     "books": 7,
-     "sent": 7,
-     "kept": 6
-    },
-    {
-     "t": "2026-11-06T13:27:00Z",
-     "type": "full",
-     "games": 166,
-     "prices": 12310,
-     "books": 7,
-     "sent": 7,
-     "kept": 15
-    },
-    {
-     "t": "2026-11-06T02:45:00Z",
-     "type": "pregame",
-     "games": 2,
-     "prices": 262,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-06T01:45:24Z",
-     "type": "pregame",
-     "games": 4,
-     "prices": 484,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-06T01:27:00Z",
-     "type": "full",
-     "games": 149,
-     "prices": 10444,
-     "books": 7,
-     "sent": 3,
-     "kept": 2
-    },
-    {
-     "t": "2026-11-06T00:44:32Z",
-     "type": "pregame",
-     "games": 9,
-     "prices": 1072,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-05T23:42:00Z",
-     "type": "pregame",
-     "games": 31,
-     "prices": 2440,
-     "books": 7,
-     "sent": 1,
      "kept": 0
     }
    ]
