@@ -1,8 +1,60 @@
 {
  "v": 1,
- "generated_utc": "2026-11-10T10:21:19Z",
- "updated": "Updated Tue, 10 Nov, 8:56 pm Sydney time.",
+ "generated_utc": "2026-11-11T10:21:32Z",
+ "updated": "Updated Wed, 11 Nov, 8:54 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 11 Nov",
+   "league": "College basketball",
+   "game": "Yale @ Baylor",
+   "alert": "Baylor -21.5",
+   "book": "PointsBet",
+   "price": "2.10",
+   "us": "2.00",
+   "gap": "+5.0%",
+   "final": "Baylor 90, Yale 61",
+   "result": "won",
+   "t": "2026-11-11T01:00:00Z",
+   "id": "usau-2026-11-11-ncaab-b5f3358dfb",
+   "k": "line",
+   "m": "same",
+   "h": 11.1
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NHL",
+   "game": "Florida Panthers @ Columbus Blue Jackets",
+   "alert": "Florida Panthers -1.5",
+   "book": "Unibet",
+   "price": "3.30",
+   "us": "3.10",
+   "gap": "+6.5%",
+   "final": "FLA 4, CBJ 1",
+   "result": "won",
+   "t": "2026-11-11T00:30:00Z",
+   "id": "usau-2026-11-11-nhl-a6a849202e",
+   "k": "line",
+   "m": "same",
+   "h": 28.7
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NHL",
+   "game": "Colorado Avalanche @ Toronto Maple Leafs",
+   "alert": "T.J. Hughes (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "6.25",
+   "us": "5.28",
+   "gap": "+18.5%",
+   "final": "COL 6, TOR 3",
+   "result": "lost",
+   "t": "2026-11-11T00:00:00Z",
+   "id": "usau-2026-11-11-nhl-8d60859dd2",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 10.1
+  },
   {
    "date": "Tue, 10 Nov",
    "league": "NHL",
@@ -343,6 +395,24 @@
    "m": "est",
    "w": "neutral",
    "h": 10.1
+  },
+  {
+   "date": "Tue, 10 Nov",
+   "league": "NBA",
+   "game": "Cleveland Cavaliers @ Charlotte Hornets",
+   "alert": "Royce O'Neale Over 9.5 points (Sportsbet '10+')",
+   "book": "Sportsbet",
+   "price": "2.74",
+   "us": "2.41",
+   "gap": "+13.7%",
+   "final": "CHA 124, CLE 112",
+   "result": "won",
+   "t": "2026-11-10T00:00:00Z",
+   "id": "usau-2026-11-10-nba-590e938658",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 1
   },
   {
    "date": "Tue, 10 Nov",
@@ -26078,7 +26148,7 @@
   "clvAvg": 8.7,
   "gapAvg": 12.4,
   "gapMedian": 10.7,
-  "gapN": 1462,
+  "gapN": 1474,
   "perDay": 36,
   "perDayDays": 7,
   "perDayLow": 6,
@@ -27370,12 +27440,12 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-11-10-nhl-39145b2d93",
-    "sent": "2026-11-10T01:47:56Z",
-    "posted": "2026-11-10T01:47:40Z",
-    "text": "<b>GOLDEN WINDOW · NHL · Philadelphia Flyers @ Vancouver Canucks</b> · Tue 10 Nov 1:30pm Sydney · starts in 42 min\n<b>Betfair</b> Line Vancouver Canucks -1.5 @ <b>3.85</b> after 6% commission (Betfair shows 4.03)\nTop 2 Aussie prices: Betfair 3.85 after commission · Unibet 3.75\nUS reference price (margin removed) 3.55 · gap <b>+8.4%</b>\nUS line: Canucks win chance 46% → 45% → 45% now\n<b>PRICE-GAP FLAG.</b> The US market gives the Canucks about a 45% chance to win, and this Betfair offer on the Canucks -1.5 is longer than the US reference price.\nPrices taken 12:31pm, re-checked 12:45pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-11-11-nhl-8d60859dd2",
+    "sent": "2026-11-10T13:53:56Z",
+    "posted": "2026-11-10T13:53:30Z",
+    "text": "<b>NHL · Colorado Avalanche @ Toronto Maple Leafs</b> · Wed 11 Nov 11:00am Sydney\n<b>Ladbrokes</b> Anytime goal - T.J. Hughes @ <b>6.25</b>\nTop 2 Aussie prices: Ladbrokes 6.25 · Unibet 4.60\nUS reference price (margin removed) 5.27 · gap <b>+18.5%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Ladbrokes' 6.25 is well above every US market price (4.25 to 4.75) and the other Aussie prices (4.50 to 4.90).\nPrices taken 12:32am, re-checked 12:51am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "lost",
-    "final": "PHI 3, VAN 1",
+    "final": "COL 6, TOR 3",
     "clv": null
    }
   ],
@@ -28672,14 +28742,41 @@
    "avgU": 0.235
   },
   "runs": {
-   "checks": 631,
-   "total": 2437082,
-   "full": 306,
+   "checks": 634,
+   "total": 2471192,
+   "full": 309,
    "pre": 325,
-   "day": 59622,
+   "day": 34110,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-10T09:56:46Z",
+   "to": "2026-11-11T09:54:53Z",
    "recent": [
+    {
+     "t": "2026-11-10T19:26:20Z",
+     "type": "full",
+     "games": 169,
+     "prices": 14178,
+     "books": 7,
+     "sent": 3,
+     "kept": 3
+    },
+    {
+     "t": "2026-11-10T17:27:00Z",
+     "type": "full",
+     "games": 100,
+     "prices": 9200,
+     "books": 7,
+     "sent": 3,
+     "kept": 4
+    },
+    {
+     "t": "2026-11-10T13:32:00Z",
+     "type": "full",
+     "games": 150,
+     "prices": 10732,
+     "books": 7,
+     "sent": 6,
+     "kept": 2
+    },
     {
      "t": "2026-11-10T04:43:30Z",
      "type": "pregame",
@@ -28742,33 +28839,6 @@
      "books": 7,
      "sent": 1,
      "kept": 0
-    },
-    {
-     "t": "2026-11-09T21:41:36Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 310,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-09T21:27:00Z",
-     "type": "full",
-     "games": 159,
-     "prices": 9768,
-     "books": 7,
-     "sent": 0,
-     "kept": 1
-    },
-    {
-     "t": "2026-11-09T19:31:00Z",
-     "type": "full",
-     "games": 139,
-     "prices": 8406,
-     "books": 7,
-     "sent": 1,
-     "kept": 1
     }
    ]
   }
