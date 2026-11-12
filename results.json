@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-11-12T10:21:35Z",
- "updated": "Updated Thu, 12 Nov, 8:52 pm Sydney time.",
+ "generated_utc": "2026-11-12T22:21:28Z",
+ "updated": "Updated Fri, 13 Nov, 2:50 am Sydney time.",
  "rows": [
   {
    "date": "Wed, 11 Nov",
@@ -38,6 +38,24 @@
    "m": "est",
    "w": "neutral",
    "h": 14.1
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NHL",
+   "game": "Nashville Predators @ Los Angeles Kings",
+   "alert": "Nils Hoglander (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "8.75",
+   "us": "7.78",
+   "gap": "+12.6%",
+   "final": "NSH 3, LAK 0",
+   "result": "lost",
+   "t": "2026-11-11T03:00:00Z",
+   "id": "usau-2026-11-11-nhl-f7b55cd9d2",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 9.2
   },
   {
    "date": "Wed, 11 Nov",
@@ -108,6 +126,24 @@
    "m": "yes",
    "w": "neutral",
    "h": 10.1
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NHL",
+   "game": "Washington Capitals @ Ottawa Senators",
+   "alert": "Claude Giroux (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "5.20",
+   "us": "4.36",
+   "gap": "+19.2%",
+   "final": "WSH 3, OTT 2",
+   "result": "lost",
+   "t": "2026-11-11T00:00:00Z",
+   "id": "usau-2026-11-11-nhl-142c337e2c",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 22.2
   },
   {
    "date": "Tue, 10 Nov",
@@ -27501,12 +27537,12 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-11-11-nhl-8d60859dd2",
-    "sent": "2026-11-10T13:53:56Z",
-    "posted": "2026-11-10T13:53:30Z",
-    "text": "<b>NHL · Colorado Avalanche @ Toronto Maple Leafs</b> · Wed 11 Nov 11:00am Sydney\n<b>Ladbrokes</b> Anytime goal - T.J. Hughes @ <b>6.25</b>\nTop 2 Aussie prices: Ladbrokes 6.25 · Unibet 4.60\nUS reference price (margin removed) 5.27 · gap <b>+18.5%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Ladbrokes' 6.25 is well above every US market price (4.25 to 4.75) and the other Aussie prices (4.50 to 4.90).\nPrices taken 12:32am, re-checked 12:51am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-11-11-nhl-f7b55cd9d2",
+    "sent": "2026-11-10T17:48:55Z",
+    "posted": "2026-11-10T17:49:00Z",
+    "text": "<b>NHL · Nashville Predators @ Los Angeles Kings</b> · Wed 11 Nov 2:00pm Sydney\n<b>Ladbrokes</b> Nils Hoglander anytime goal scorer @ <b>8.75</b>\nTop 2 Aussie prices: Ladbrokes 8.75 · Sportsbet 6.00\nUS reference price (margin removed) 7.77 · gap <b>+12.5%</b> (estimate)\nUS line: no move recorded\n<b>PRICE-GAP FLAG.</b> Ladbrokes' 8.75 sits well above every other Aussie book (5.75 to 6.00) and the best US market price (7.75), with no US move to explain it.\nPrices taken 4:27am, re-checked 4:46am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Imagine what you could be buying instead. Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "lost",
-    "final": "COL 6, TOR 3",
+    "final": "NSH 3, LAK 0",
     "clv": null
    }
   ],
