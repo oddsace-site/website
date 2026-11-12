@@ -1,8 +1,62 @@
 {
  "v": 1,
- "generated_utc": "2026-11-11T22:21:22Z",
- "updated": "Updated Thu, 12 Nov, 2:48 am Sydney time.",
+ "generated_utc": "2026-11-12T10:21:35Z",
+ "updated": "Updated Thu, 12 Nov, 8:52 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NBA",
+   "game": "Oklahoma City Thunder @ Portland Trail Blazers",
+   "alert": "Isaiah Hartenstein Under 10.5 rebounds",
+   "book": "Unibet",
+   "price": "1.95",
+   "us": "1.79",
+   "gap": "+8.7%",
+   "final": "POR 123, OKC 103",
+   "result": "won",
+   "t": "2026-11-11T04:00:00Z",
+   "id": "usau-2026-11-11-nba-28631522b6",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 14.1
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NBA",
+   "game": "Oklahoma City Thunder @ Portland Trail Blazers",
+   "alert": "Isaiah Hartenstein Under 14.5 rebounds + assists",
+   "book": "Unibet",
+   "price": "1.98",
+   "us": "1.82",
+   "gap": "+8.9%",
+   "final": "POR 123, OKC 103",
+   "result": "won",
+   "t": "2026-11-11T04:00:00Z",
+   "id": "usau-2026-11-11-nba-ff7da2dadd",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 14.1
+  },
+  {
+   "date": "Wed, 11 Nov",
+   "league": "NHL",
+   "game": "Detroit Red Wings @ St. Louis Blues",
+   "alert": "Michael Brandsegg-Nygard (anytime goal)",
+   "book": "Ladbrokes",
+   "price": "10.00",
+   "us": "5.88",
+   "gap": "+69.9%",
+   "final": "STL 3, DET 2",
+   "result": "lost",
+   "t": "2026-11-11T01:00:00Z",
+   "id": "usau-2026-11-11-nhl-78d0f2ffd1",
+   "k": "scorer",
+   "m": "yes",
+   "w": "neutral",
+   "h": 23.2
+  },
   {
    "date": "Wed, 11 Nov",
    "league": "College basketball",
@@ -26141,14 +26195,14 @@
   "median": 178,
   "longest": 710,
   "at30": 0.802,
-  "closes": 964,
-  "dropped": 657,
-  "clvClosed": 1282,
-  "clvBeat": 1050,
-  "clvAvg": 8.7,
+  "closes": 970,
+  "dropped": 662,
+  "clvClosed": 1289,
+  "clvBeat": 1055,
+  "clvAvg": 8.8,
   "gapAvg": 12.4,
   "gapMedian": 10.7,
-  "gapN": 1482,
+  "gapN": 1516,
   "perDay": 37,
   "perDayDays": 7,
   "perDayLow": 12,
@@ -27435,7 +27489,14 @@
    "usau-2026-11-10-nfl-d3871ab547": 11.87,
    "usau-2026-11-10-nfl-ea3007d863": 23.4,
    "usau-2026-11-10-nfl-fcd4a6cd3b": 5.99,
-   "usau-2026-11-10-nhl-e238930a61": 17.1
+   "usau-2026-11-10-nhl-e238930a61": 17.1,
+   "usau-2026-11-12-nba-0600260c4c": -1.22,
+   "usau-2026-11-12-nba-0c886859c1": -1.31,
+   "usau-2026-11-12-nba-9ec59b8ad7": 29.81,
+   "usau-2026-11-12-nba-f02a0cb47d": 4.34,
+   "usau-2026-11-12-nba-fc20061250": 26.88,
+   "usau-2026-11-12-nhl-4299fa6476": 9.56,
+   "usau-2026-11-12-nhl-643766343a": 38.59
   },
   "latest": [
    {
@@ -28731,113 +28792,120 @@
    "usau-2026-11-10-nfl-d3871ab547": 0.5457,
    "usau-2026-11-10-nfl-ea3007d863": 0.6328,
    "usau-2026-11-10-nfl-fcd4a6cd3b": 0.5888,
-   "usau-2026-11-10-nhl-e238930a61": 0.1171
+   "usau-2026-11-10-nhl-e238930a61": 0.1171,
+   "usau-2026-11-12-nba-0600260c4c": 0.4818,
+   "usau-2026-11-12-nba-0c886859c1": 0.4112,
+   "usau-2026-11-12-nba-9ec59b8ad7": 0.4187,
+   "usau-2026-11-12-nba-f02a0cb47d": 0.4637,
+   "usau-2026-11-12-nba-fc20061250": 0.5639,
+   "usau-2026-11-12-nhl-4299fa6476": 0.5618,
+   "usau-2026-11-12-nhl-643766343a": 0.1848
   },
   "moves": {
-   "n": 555,
-   "tab": 258,
+   "n": 560,
+   "tab": 263,
    "us": 123,
    "none": 174,
-   "avgT": 0.69,
-   "avgU": 0.235
+   "avgT": 0.697,
+   "avgU": 0.231
   },
   "runs": {
-   "checks": 634,
-   "total": 2471192,
-   "full": 309,
-   "pre": 325,
-   "day": 34110,
+   "checks": 653,
+   "total": 2562722,
+   "full": 315,
+   "pre": 338,
+   "day": 91530,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-11T09:54:53Z",
+   "to": "2026-11-12T09:52:51Z",
    "recent": [
     {
-     "t": "2026-11-10T19:26:20Z",
+     "t": "2026-11-12T02:44:49Z",
+     "type": "pregame",
+     "games": 8,
+     "prices": 724,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-12T01:45:00Z",
+     "type": "pregame",
+     "games": 17,
+     "prices": 1068,
+     "books": 5,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-12T01:26:00Z",
      "type": "full",
-     "games": 169,
-     "prices": 14178,
+     "games": 147,
+     "prices": 10854,
      "books": 7,
-     "sent": 3,
+     "sent": 5,
+     "kept": 9
+    },
+    {
+     "t": "2026-11-12T00:44:00Z",
+     "type": "pregame",
+     "games": 21,
+     "prices": 1194,
+     "books": 4,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-11T23:47:00Z",
+     "type": "pregame",
+     "games": 20,
+     "prices": 2330,
+     "books": 7,
+     "sent": 1,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-11T23:00:00Z",
+     "type": "full",
+     "games": 182,
+     "prices": 14280,
+     "books": 7,
+     "sent": 5,
+     "kept": 9
+    },
+    {
+     "t": "2026-11-11T22:47:00Z",
+     "type": "pregame",
+     "games": 39,
+     "prices": 4314,
+     "books": 7,
+     "sent": 0,
+     "kept": 1
+    },
+    {
+     "t": "2026-11-11T21:42:00Z",
+     "type": "pregame",
+     "games": 5,
+     "prices": 368,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-11T21:31:00Z",
+     "type": "full",
+     "games": 164,
+     "prices": 14048,
+     "books": 7,
+     "sent": 6,
      "kept": 3
     },
     {
-     "t": "2026-11-10T17:27:00Z",
-     "type": "full",
-     "games": 100,
-     "prices": 9200,
-     "books": 7,
-     "sent": 3,
-     "kept": 4
-    },
-    {
-     "t": "2026-11-10T13:32:00Z",
-     "type": "full",
-     "games": 150,
-     "prices": 10732,
-     "books": 7,
-     "sent": 6,
-     "kept": 2
-    },
-    {
-     "t": "2026-11-10T04:43:30Z",
+     "t": "2026-11-11T20:43:00Z",
      "type": "pregame",
-     "games": 1,
-     "prices": 6,
-     "books": 1,
+     "games": 3,
+     "prices": 222,
+     "books": 6,
      "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-10T01:42:00Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 602,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-10T01:31:00Z",
-     "type": "full",
-     "games": 159,
-     "prices": 8764,
-     "books": 7,
-     "sent": 5,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-10T00:54:27Z",
-     "type": "pregame",
-     "games": 11,
-     "prices": 1192,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-09T23:43:25Z",
-     "type": "pregame",
-     "games": 21,
-     "prices": 2476,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-09T23:26:37Z",
-     "type": "full",
-     "games": 171,
-     "prices": 10736,
-     "books": 7,
-     "sent": 0,
-     "kept": 4
-    },
-    {
-     "t": "2026-11-09T22:42:00Z",
-     "type": "pregame",
-     "games": 24,
-     "prices": 2436,
-     "books": 7,
-     "sent": 1,
      "kept": 0
     }
    ]
