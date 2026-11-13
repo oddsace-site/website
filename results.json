@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-11-12T22:21:28Z",
- "updated": "Updated Fri, 13 Nov, 2:50 am Sydney time.",
+ "generated_utc": "2026-11-13T22:21:23Z",
+ "updated": "Updated Sat, 14 Nov, 2:54 am Sydney time.",
  "rows": [
   {
    "date": "Wed, 11 Nov",
@@ -26231,15 +26231,15 @@
   "median": 178,
   "longest": 710,
   "at30": 0.802,
-  "closes": 970,
-  "dropped": 662,
-  "clvClosed": 1289,
-  "clvBeat": 1055,
+  "closes": 979,
+  "dropped": 668,
+  "clvClosed": 1298,
+  "clvBeat": 1063,
   "clvAvg": 8.8,
-  "gapAvg": 12.4,
+  "gapAvg": 12.3,
   "gapMedian": 10.7,
-  "gapN": 1516,
-  "perDay": 37,
+  "gapN": 1570,
+  "perDay": 36,
   "perDayDays": 7,
   "perDayLow": 12,
   "perDayHigh": 65,
@@ -27532,7 +27532,16 @@
    "usau-2026-11-12-nba-f02a0cb47d": 4.34,
    "usau-2026-11-12-nba-fc20061250": 26.88,
    "usau-2026-11-12-nhl-4299fa6476": 9.56,
-   "usau-2026-11-12-nhl-643766343a": 38.59
+   "usau-2026-11-12-nhl-643766343a": 38.59,
+   "usau-2026-11-13-nba-2a8c2a6d3e": 2.2,
+   "usau-2026-11-13-nba-7aa3d1979f": -4.62,
+   "usau-2026-11-13-nhl-03b7c04ba2": 11.02,
+   "usau-2026-11-13-nhl-1e028ede0a": 14.59,
+   "usau-2026-11-13-nhl-22299bd76b": 5.77,
+   "usau-2026-11-13-nhl-379774021f": 7.45,
+   "usau-2026-11-13-nhl-aa5d125d4a": 12.05,
+   "usau-2026-11-13-nhl-bdfe475a85": 20.17,
+   "usau-2026-11-13-nhl-fc16e0cb27": 37.77
   },
   "latest": [
    {
@@ -28835,15 +28844,24 @@
    "usau-2026-11-12-nba-f02a0cb47d": 0.4637,
    "usau-2026-11-12-nba-fc20061250": 0.5639,
    "usau-2026-11-12-nhl-4299fa6476": 0.5618,
-   "usau-2026-11-12-nhl-643766343a": 0.1848
+   "usau-2026-11-12-nhl-643766343a": 0.1848,
+   "usau-2026-11-13-nba-2a8c2a6d3e": 0.5465,
+   "usau-2026-11-13-nba-7aa3d1979f": 0.502,
+   "usau-2026-11-13-nhl-03b7c04ba2": 0.3172,
+   "usau-2026-11-13-nhl-1e028ede0a": 0.3581,
+   "usau-2026-11-13-nhl-22299bd76b": 0.3111,
+   "usau-2026-11-13-nhl-379774021f": 0.5746,
+   "usau-2026-11-13-nhl-aa5d125d4a": 0.1867,
+   "usau-2026-11-13-nhl-bdfe475a85": 0.5862,
+   "usau-2026-11-13-nhl-fc16e0cb27": 0.3625
   },
   "moves": {
-   "n": 560,
-   "tab": 263,
-   "us": 123,
-   "none": 174,
-   "avgT": 0.697,
-   "avgU": 0.231
+   "n": 568,
+   "tab": 268,
+   "us": 125,
+   "none": 175,
+   "avgT": 0.696,
+   "avgU": 0.23
   },
   "runs": {
    "checks": 653,
