@@ -1433,31 +1433,246 @@
 2026-11-09 12:20,NFL,Tampa Bay Buccaneers @ Chicago Bears,"CHI 27, TB 24",2026-11-09 04:49,7.5,Bucky Irving Under 15.5 receiving yards,Player props,Unibet,1.90,1.75,8.9,1.90,held,8.9,lost,"28 yards, over the 15.5 line"
 2026-11-09 12:20,NFL,Tampa Bay Buccaneers @ Chicago Bears,"CHI 27, TB 24",2026-11-09 08:45,3.6,Emeka Egbuka Under 53.5 receiving yards,Player props,Unibet,1.87,1.71,9.4,1.87,held,9.6,won,"38 yards, under the 53.5 line"
 2026-11-09 13:00,NBA,Miami Heat @ Sacramento Kings,"MIA 114, SAC 108",2026-11-09 04:49,8.2,Precious Achiuwa Under 6.5 rebounds,Player props,PointsBet,2.05,1.73,18.7,1.87,dropped,-3.0,lost,"14 rebounds, over the 6.5 line"
-2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,,2026-11-10 00:55,10.1,Naz Reid Over 9.5 rebounds (TAB '10+'),Player props,TAB,2.90,2.48,17.1,2.10,dropped,11.9,pending,
-2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,,2026-11-10 00:55,10.1,Naz Reid Over 2.5 assists,Player props,PointsBet,2.40,2.08,15.1,1.95,dropped,13.7,pending,
-2026-11-10 11:00,College basketball,Grambling State @ Texas,,2026-11-10 00:55,10.1,Grambling State +35.5,Game lines,PointsBet,2.20,2.00,10.0,2.10,dropped,-5.6,pending,
-2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,,2026-11-10 04:49,6.2,Naz Reid Under 9.5 rebounds,Player props,PointsBet,1.87,1.64,14.3,,,14.8,pending,
-2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,,2026-11-10 09:57,1.0,Royce O'Neale Over 9.5 points (Sportsbet '10+'),Player props,Sportsbet,2.74,2.41,13.7,2.70,dropped,12.9,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-05 00:58,131.3,D.J. Moore Under 50.5 receiving yards,Player props,TAB,1.95,1.78,9.6,1.87,dropped,7.1,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-06 04:58,103.3,James Cook Under 13.5 receiving yards,Player props,Ladbrokes,1.88,1.67,12.7,,,,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-06 08:56,99.3,Justin Jefferson Over 6.5 receptions (Ladbrokes '7+'),Player props,Ladbrokes,2.25,2.01,12.0,1.98,dropped,10.2,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-06 08:56,99.3,Aaron Jones Under 10.5 receiving yards,Player props,TAB,1.87,1.56,19.6,1.68,dropped,3.0,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-06 10:52,97.4,Keon Coleman Under 30.5 receiving yards,Player props,TAB,1.95,1.78,9.5,,,23.4,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-06 12:52,95.4,Jauan Jennings Under 10.5 receiving yards,Player props,PointsBet,1.74,1.55,12.0,,,,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-07 00:53,83.4,Josh Allen Under 31.5 pass attempts,Player props,Ladbrokes,1.88,1.74,8.2,,,20.6,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-07 00:53,83.4,Carson Wentz Under 2.5 rush attempts,Player props,Sportsbet,2.35,2.16,8.9,2.19,dropped,9.0,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-07 00:53,83.4,Dawson Knox Under 10.5 receiving yards,Player props,PointsBet,1.80,1.58,14.0,1.77,dropped,6.0,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-08 06:58,53.3,Dalton Kincaid Under 43.5 receiving yards,Player props,Ladbrokes,1.87,1.60,16.9,,,8.8,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-08 06:58,53.3,Dalton Kincaid Under 3.5 receptions,Player props,Ladbrokes,2.05,1.72,19.3,1.87,dropped,11.9,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-08 08:51,51.4,Skyler Bell Under 5.5 receiving yards,Player props,TAB,2.05,1.89,8.5,,,,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-09 06:48,29.4,Josh Allen Under 7.5 rush attempts,Player props,Ladbrokes,1.94,1.79,8.2,1.73,dropped,10.8,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-10 00:55,11.3,Carson Wentz Under 31.5 pass attempts,Player props,TAB,1.87,1.67,12.2,1.80,dropped,2.7,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-10 04:49,7.4,Keon Coleman Under 2.5 receptions,Player props,Ladbrokes,1.75,1.62,8.3,1.60,dropped,11.9,pending,
-2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,,2026-11-10 04:49,7.4,T.J. Hockenson Under 4.5 receptions,Player props,Ladbrokes,1.87,1.72,8.6,1.77,dropped,7.4,pending,
-2026-11-10 13:30,NHL,Philadelphia Flyers @ Vancouver Canucks,,2026-11-10 04:49,8.7,Arshdeep Bains (anytime goal),Scorer markets,Ladbrokes,10.00,8.85,13.1,9.75,dropped,17.1,pending,
-2026-11-10 13:30,NHL,Philadelphia Flyers @ Vancouver Canucks,,2026-11-10 12:47,0.7,Vancouver Canucks -1.5,Game lines,Betfair,3.85,3.55,8.4,,,,pending,
-2026-11-11 11:00,NHL,Washington Capitals @ Ottawa Senators,,2026-11-10 12:47,22.2,Claude Giroux (anytime goal),Scorer markets,Ladbrokes,5.20,4.36,19.2,,,,pending,
-2026-11-11 11:00,NHL,Colorado Avalanche @ Toronto Maple Leafs,,2026-11-10 12:47,22.2,Vinni Lettieri (anytime goal),Scorer markets,Ladbrokes,10.00,8.23,21.4,,,,pending,
-2026-11-11 11:30,NHL,Florida Panthers @ Columbus Blue Jackets,,2026-11-10 06:49,28.7,Florida Panthers -1.5,Game lines,Unibet,3.30,3.10,6.5,,,,pending,
-2026-11-11 12:00,NHL,Detroit Red Wings @ St. Louis Blues,,2026-11-10 12:47,23.2,Michael Brandsegg-Nygard (anytime goal),Scorer markets,Ladbrokes,10.00,5.88,69.9,,,,pending,
-2026-11-11 14:00,NHL,Nashville Predators @ Los Angeles Kings,,2026-11-10 12:47,25.2,Alex Turcotte (anytime goal),Scorer markets,Ladbrokes,10.00,6.04,65.6,,,,pending,
+2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,"CHA 124, CLE 112",2026-11-10 00:55,10.1,Naz Reid Over 9.5 rebounds (TAB '10+'),Player props,TAB,2.90,2.48,17.1,2.10,dropped,11.9,won,"13 rebounds, over the 9.5 line"
+2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,"CHA 124, CLE 112",2026-11-10 00:55,10.1,Naz Reid Over 2.5 assists,Player props,PointsBet,2.40,2.08,15.1,1.95,dropped,13.7,won,"4 assists, over the 2.5 line"
+2026-11-10 11:00,College basketball,Grambling State @ Texas,"Texas 93, Grambling State 62",2026-11-10 00:55,10.1,Grambling State +35.5,Game lines,PointsBet,2.20,2.00,10.0,2.10,dropped,-5.6,won,"Grambling lost by 31, inside the 35.5 start"
+2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,"CHA 124, CLE 112",2026-11-10 04:49,6.2,Naz Reid Under 9.5 rebounds,Player props,PointsBet,1.87,1.64,14.3,,,14.8,lost,"13 rebounds, over the 9.5 line"
+2026-11-10 11:00,NBA,Cleveland Cavaliers @ Charlotte Hornets,"CHA 124, CLE 112",2026-11-10 09:57,1.0,Royce O'Neale Over 9.5 points (Sportsbet '10+'),Player props,Sportsbet,2.74,2.41,13.7,2.70,dropped,12.9,won,
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-05 00:58,131.3,D.J. Moore Under 50.5 receiving yards,Player props,TAB,1.95,1.78,9.6,1.87,dropped,7.1,won,"25 yards, under the 50.5 line"
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-06 04:58,103.3,James Cook Under 13.5 receiving yards,Player props,Ladbrokes,1.88,1.67,12.7,,,,won,0 receiving yards
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-06 08:56,99.3,Justin Jefferson Over 6.5 receptions (Ladbrokes '7+'),Player props,Ladbrokes,2.25,2.01,12.0,1.98,dropped,10.2,lost,3 catches
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-06 08:56,99.3,Aaron Jones Under 10.5 receiving yards,Player props,TAB,1.87,1.56,19.6,1.68,dropped,3.0,won,5 receiving yards
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-06 10:52,97.4,Keon Coleman Under 30.5 receiving yards,Player props,TAB,1.95,1.78,9.5,,,23.4,won,17 yards
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-06 12:52,95.4,Jauan Jennings Under 10.5 receiving yards,Player props,PointsBet,1.74,1.55,12.0,,,,void,He did not play
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-07 00:53,83.4,Josh Allen Under 31.5 pass attempts,Player props,Ladbrokes,1.88,1.74,8.2,,,20.6,won,"31 attempts, under the 31.5 line"
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-07 00:53,83.4,Carson Wentz Under 2.5 rush attempts,Player props,Sportsbet,2.35,2.16,8.9,2.19,dropped,9.0,won,1 rush attempt
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-07 00:53,83.4,Dawson Knox Under 10.5 receiving yards,Player props,PointsBet,1.80,1.58,14.0,1.77,dropped,6.0,lost,37 yards
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-08 06:58,53.3,Dalton Kincaid Under 43.5 receiving yards,Player props,Ladbrokes,1.87,1.60,16.9,,,8.8,won,28 yards
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-08 06:58,53.3,Dalton Kincaid Under 3.5 receptions,Player props,Ladbrokes,2.05,1.72,19.3,1.87,dropped,11.9,won,"3 catches, under the 3.5 line"
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-08 08:51,51.4,Skyler Bell Under 5.5 receiving yards,Player props,TAB,2.05,1.89,8.5,,,,void,He did not play
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-09 06:48,29.4,Josh Allen Under 7.5 rush attempts,Player props,Ladbrokes,1.94,1.79,8.2,1.73,dropped,10.8,won,6 rush attempts
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-10 00:55,11.3,Carson Wentz Under 31.5 pass attempts,Player props,TAB,1.87,1.67,12.2,1.80,dropped,2.7,won,25 attempts
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-10 04:49,7.4,Keon Coleman Under 2.5 receptions,Player props,Ladbrokes,1.75,1.62,8.3,1.60,dropped,11.9,lost,"3 catches, over the 2.5 line"
+2026-11-10 12:15,NFL,Buffalo Bills @ Minnesota Vikings,"BUF 23, MIN 6",2026-11-10 04:49,7.4,T.J. Hockenson Under 4.5 receptions,Player props,Ladbrokes,1.87,1.72,8.6,1.77,dropped,7.4,won,"4 catches, under the 4.5 line"
+2026-11-10 13:30,NHL,Philadelphia Flyers @ Vancouver Canucks,"PHI 3, VAN 1",2026-11-10 04:49,8.7,Arshdeep Bains (anytime goal),Scorer markets,Ladbrokes,10.00,8.85,13.1,9.75,dropped,17.1,lost,He did not score
+2026-11-10 13:30,NHL,Philadelphia Flyers @ Vancouver Canucks,"PHI 3, VAN 1",2026-11-10 12:47,0.7,Vancouver Canucks -1.5,Game lines,Betfair,3.85,3.55,8.4,,,,lost,Vancouver lost the game
+2026-11-11 11:00,NHL,Washington Capitals @ Ottawa Senators,"WSH 3, OTT 2",2026-11-10 12:47,22.2,Claude Giroux (anytime goal),Scorer markets,Ladbrokes,5.20,4.36,19.2,,,,lost,He did not score
+2026-11-11 11:00,NHL,Colorado Avalanche @ Toronto Maple Leafs,"COL 6, TOR 3",2026-11-10 12:47,22.2,Vinni Lettieri (anytime goal),Scorer markets,Ladbrokes,10.00,8.23,21.4,,,,void,Player did not play
+2026-11-11 11:00,NHL,Colorado Avalanche @ Toronto Maple Leafs,"COL 6, TOR 3",2026-11-11 00:53,10.1,T.J. Hughes (anytime goal),Scorer markets,Ladbrokes,6.25,5.28,18.5,,,,lost,
+2026-11-11 11:30,NHL,Florida Panthers @ Columbus Blue Jackets,"FLA 4, CBJ 1",2026-11-10 06:49,28.7,Florida Panthers -1.5,Game lines,Unibet,3.30,3.10,6.5,,,,won,
+2026-11-11 11:30,NHL,Florida Panthers @ Columbus Blue Jackets,"FLA 4, CBJ 1",2026-11-11 00:53,10.6,Valeri Nichushkin Over 0.5 assists,Player props,Ladbrokes,3.75,3.31,13.1,,,,won,"1 assist, over the 0.5 line"
+2026-11-11 12:00,NHL,Detroit Red Wings @ St. Louis Blues,"STL 3, DET 2",2026-11-10 12:47,23.2,Michael Brandsegg-Nygard (anytime goal),Scorer markets,Ladbrokes,10.00,5.88,69.9,,,,lost,He did not score
+2026-11-11 12:00,College basketball,Yale @ Baylor,"Baylor 90, Yale 61",2026-11-11 00:53,11.1,Baylor -21.5,Game lines,PointsBet,2.10,2.00,5.0,,,,won,
+2026-11-11 14:00,NHL,Nashville Predators @ Los Angeles Kings,"NSH 3, LAK 0",2026-11-10 12:47,25.2,Alex Turcotte (anytime goal),Scorer markets,Ladbrokes,10.00,6.04,65.6,,,,void,Player did not play
+2026-11-11 14:00,NHL,Nashville Predators @ Los Angeles Kings,"NSH 3, LAK 0",2026-11-11 04:48,9.2,Nils Hoglander (anytime goal),Scorer markets,Ladbrokes,8.75,7.78,12.6,,,,lost,He did not score
+2026-11-11 15:00,NBA,Oklahoma City Thunder @ Portland Trail Blazers,"POR 123, OKC 103",2026-11-11 00:53,14.1,Isaiah Hartenstein Under 10.5 rebounds,Player props,Unibet,1.95,1.79,8.7,,,,won,"He had 9 rebounds, under the 10.5 line"
+2026-11-11 15:00,NBA,Oklahoma City Thunder @ Portland Trail Blazers,"POR 123, OKC 103",2026-11-11 00:53,14.1,Isaiah Hartenstein Under 14.5 rebounds + assists,Player props,Unibet,1.98,1.82,8.9,,,,won,"14 total, under the 14.5 line"
+2026-11-12 11:00,NHL,Tampa Bay Lightning @ Buffalo Sabres,"TBL 8, BUF 3",2026-11-12 06:43,4.3,Brandon Hagel Under 0.5 assists,Player props,PointsBet,1.95,1.72,13.2,1.77,dropped,9.6,lost,"He had 1 assist, over the 0.5 line"
+2026-11-12 12:00,NBA,Los Angeles Lakers @ Milwaukee Bucks,"LAL 123, MIL 112",2026-11-12 04:43,7.3,Jake LaRavia Under 0.5 made threes,Player props,PointsBet,2.40,2.15,11.4,2.45,longer,-1.3,won,0 made threes
+2026-11-12 12:00,NBA,Brooklyn Nets @ New Orleans Pelicans,"BKN 145, NOP 111",2026-11-12 04:43,7.3,Herbert Jones Over 3.5 rebounds (TAB '4+'),Player props,TAB,3.10,2.38,30.3,1.80,dropped,29.8,lost,"2 rebounds, under the 3.5 line"
+2026-11-12 12:00,NBA,Brooklyn Nets @ New Orleans Pelicans,"BKN 145, NOP 111",2026-11-12 04:43,7.3,Derik Queen Over 9.5 points (TAB '10+'),Player props,TAB,2.25,1.98,13.7,1.55,dropped,26.9,lost,"9 points, under the 9.5 line"
+2026-11-12 12:00,NBA,San Antonio Spurs @ Chicago Bulls,"SAS 124, CHI 119",2026-11-12 10:56,1.1,Julian Champagnie Under 2.5 made threes,Player props,PointsBet,2.05,1.85,10.8,,,-1.2,lost,"3 made threes, over the 2.5 line"
+2026-11-12 14:00,NBA,Oklahoma City Thunder @ Portland Trail Blazers,"POR 118, OKC 108",2026-11-12 00:42,13.3,Damian Lillard Under 4.5 assists,Player props,PointsBet,2.25,2.00,12.5,2.05,dropped,4.3,won,"3 assists, under the 4.5 line"
+2026-11-12 14:00,NHL,Pittsburgh Penguins @ San Jose Sharks,"PIT 3, SJS 2",2026-11-12 04:43,9.3,Nicholas Robertson Over 0.5 assists (PointsBet '1+'),Player props,PointsBet,7.50,6.51,15.1,6.00,dropped,38.6,lost,No assists
+2026-11-13 11:00,NHL,Colorado Avalanche @ Ottawa Senators,"OTT 4, COL 3",2026-11-13 04:47,6.2,Colorado Avalanche -1.5,Game lines,TAB,3.50,3.27,6.9,3.50,held,11.0,lost,"Colorado lost the game, so it could not cover -1.5"
+2026-11-13 11:00,NHL,Minnesota Wild @ Toronto Maple Leafs,"MIN 5, TOR 2",2026-11-13 04:47,6.2,Blake Coleman Under 0.5 points (goals + assists),Player props,PointsBet,1.87,1.69,10.5,1.67,dropped,7.5,lost,"He had 1 point, over the 0.5 line"
+2026-11-13 11:00,NHL,Washington Capitals @ New Jersey Devils,"NJ 5, WSH 2",2026-11-13 04:47,6.2,Dougie Hamilton Under 2.5 shots on goal,Player props,PointsBet,2.05,1.74,17.6,1.65,dropped,20.2,lost,"He had 3 shots, over the 2.5 line"
+2026-11-13 11:00,NHL,Tampa Bay Lightning @ Columbus Blue Jackets,"TB 3, CBJ 1",2026-11-13 04:47,6.2,Ivan Provorov Over 0.5 points (goals + assists),Player props,PointsBet,3.80,2.93,29.5,2.75,dropped,37.8,lost,He had 0 points
+2026-11-13 11:00,NHL,Colorado Avalanche @ Ottawa Senators,"OTT 4, COL 3",2026-11-13 06:44,4.3,Ottawa Senators -1.5,Game lines,Unibet,3.40,3.20,6.2,3.05,dropped,5.8,lost,"Ottawa won by one goal in overtime, short of covering -1.5"
+2026-11-13 12:00,NHL,Winnipeg Jets @ Dallas Stars,"Winnipeg Jets 8, Dallas Stars 3",2026-11-13 06:44,5.3,Roope Hintz Under 0.5 assists,Player props,PointsBet,1.80,1.60,12.2,,,,lost,1 assist > 0.5
+2026-11-13 12:00,NHL,Buffalo Sabres @ Chicago Blackhawks,"CHI 3, BUF 2",2026-11-13 08:46,3.2,Tage Thompson Under 0.5 assists,Player props,PointsBet,1.87,1.71,9.1,,,,won,He had 0 assists
+2026-11-13 12:00,NHL,Buffalo Sabres @ Chicago Blackhawks,"CHI 3, BUF 2",2026-11-13 08:46,3.2,Ryan McLeod Over 0.5 points (goals + assists),Player props,PointsBet,2.90,2.52,14.8,,,,lost,He had 0 points
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-11 00:53,59.4,Devin Singletary Under 8.5 rush attempts,Player props,Sportsbet,1.75,1.59,9.9,,,,won,1 attempt
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-11 04:48,55.4,Darnell Mooney Under 17.5 receiving yards,Player props,Unibet,1.87,1.73,8.3,,,,won,"8 yards, under the 17.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 00:42,35.5,Austin Ekeler Under 10.5 receiving yards,Player props,PointsBet,1.71,1.56,9.3,,,,lost,"26 yards, over the 10.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 04:43,31.5,J.J. McCarthy Under 31.5 pass attempts,Player props,Ladbrokes,1.88,1.70,10.3,,,,lost,"36 attempts, over the 31.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 04:43,31.5,Antonio Williams Under 41.5 receiving yards,Player props,Ladbrokes,1.88,1.72,9.2,,,,lost,"42 yards, over the 41.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,,2026-11-12 04:43,31.5,Van Jefferson Under 10.5 receiving yards,Player props,PointsBet,1.77,1.63,8.8,,,,pending,
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 08:49,27.4,Devin Singletary Under 26.5 rushing yards,Player props,Unibet,1.88,1.71,9.9,,,,won,"3 yards, under the 26.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 08:49,27.4,J.J. McCarthy Under 17.5 rushing yards,Player props,Ladbrokes,1.88,1.74,8.1,,,,lost,"34 yards, over the 17.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-12 08:49,27.4,Cam Skattebo Over 15.5 rush attempts (Ladbrokes '16+'),Player props,Ladbrokes,2.70,2.39,13.0,,,,won,"18 attempts, over the 15.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-13 04:47,7.5,Treylon Burks Under 30.5 receiving yards,Player props,Ladbrokes,1.88,1.71,9.9,,,,won,"27 yards, under the 30.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-13 06:44,5.5,Malachi Fields Under 30.5 receiving yards,Player props,TAB,1.80,1.65,9.2,,,,lost,"62 yards, over the 30.5 line"
+2026-11-13 12:15,NFL,Washington Commanders @ New York Giants,"WSH 24, NYG 21",2026-11-13 10:46,1.5,Devin Singletary Over 5.5 rush attempts,Player props,Sportsbet,1.88,1.63,15.3,,,,lost,"1 attempt, under the 5.5 line"
+2026-11-13 13:00,NBA,Charlotte Hornets @ Phoenix Suns,"PHX 101, CHA 96",2026-11-13 04:47,8.2,Naz Reid Over 19.5 points,Player props,PointsBet,1.87,1.64,14.3,1.87,held,2.2,lost,"He scored 16, under the 19.5 line"
+2026-11-13 13:00,NBA,Charlotte Hornets @ Phoenix Suns,"PHX 101, CHA 96",2026-11-13 04:47,8.2,Naz Reid Over 22.5 points + assists,Player props,PointsBet,1.90,1.68,13.4,1.90,held,-4.6,lost,"19 combined, under the 22.5 line"
+2026-11-13 13:00,NHL,St. Louis Blues @ Utah Mammoth,"STL 1, UTA 0",2026-11-13 06:44,6.3,Utah Mammoth -1.5,Game lines,TAB,3.60,3.33,8.2,,,,lost,Utah lost the game
+2026-11-13 13:00,NHL,St. Louis Blues @ Utah Mammoth,"STL 1, UTA 0",2026-11-13 08:46,4.2,MacKenzie Weegar Over 0.5 points (goals + assists),Player props,PointsBet,3.20,2.85,12.1,3.00,dropped,14.6,lost,No points possible with no goals before the shootout
+2026-11-13 13:00,NHL,St. Louis Blues @ Utah Mammoth,"STL 1, UTA 0",2026-11-13 10:46,2.2,Michael Carcone Over 0.5 assists (PointsBet '1+'),Player props,PointsBet,6.00,5.36,12.1,5.50,dropped,12.1,lost,He had 0 assists
+2026-11-14 11:00,NBA,New York Knicks @ Indiana Pacers,"IND 106, NYK 104",2026-11-14 04:45,6.2,Andrew Nembhard Under 8.5 assists,Player props,Ladbrokes,1.75,1.62,8.2,,,9.7,won,"6 assists, under the 8.5 line"
+2026-11-14 12:00,NBA,Atlanta Hawks @ Chicago Bulls,"CHI 125, ATL 117",2026-11-14 10:49,1.2,CJ McCollum Over 14.5 points (Sportsbet '15+'),Player props,Sportsbet,2.05,1.82,12.9,2.10,longer,-5.9,won,"20 points, over the 14.5 line"
+2026-11-14 12:00,NBA,Atlanta Hawks @ Chicago Bulls,"CHI 125, ATL 117",2026-11-14 10:49,1.2,Aaron Wiggins Over 3.5 made threes (Sportsbet '4+'),Player props,Sportsbet,5.30,4.63,14.6,,,,lost,"He made 1, under the 3.5 line"
+2026-11-14 12:00,NBA,Memphis Grizzlies @ New Orleans Pelicans,"MEM 142, NOP 111",2026-11-14 10:49,1.2,Saddiq Bey Over 16.5 points,Player props,PointsBet,2.00,1.77,12.9,1.95,dropped,15.2,won,"He scored 30, over the 16.5 line"
+2026-11-14 12:00,NBA,Cleveland Cavaliers @ Miami Heat,"MIA 133, CLE 121",2026-11-14 10:54,1.1,Ryan Conwell Under 2.5 rebounds,Player props,PointsBet,2.20,2.00,10.0,1.74,dropped,11.2,lost,"5 rebounds, over the 2.5 line"
+2026-11-14 13:00,NHL,New York Rangers @ Vancouver Canucks,"NYR 5, VAN 1",2026-11-14 10:49,2.2,J.T. Miller Under 0.5 assists,Player props,PointsBet,2.00,1.78,12.1,1.74,dropped,9.2,lost,He had 2 assists
+2026-11-14 14:30,NBA,Oklahoma City Thunder @ LA Clippers,"LAC 113, OKC 112",2026-11-14 04:45,9.7,Ajay Mitchell Over 3.5 rebounds,Player props,PointsBet,2.20,1.90,15.8,,,,void,Player did not play
+2026-11-14 14:30,NBA,Oklahoma City Thunder @ LA Clippers,"LAC 113, OKC 112",2026-11-14 13:51,0.6,Alex Caruso Under 7.5 points,Player props,PointsBet,2.05,1.78,14.9,,,,won,"He scored 5, under the 7.5 line"
+2026-11-14 14:30,NBA,Oklahoma City Thunder @ LA Clippers,"LAC 113, OKC 112",2026-11-14 13:51,0.6,Over 222.5,Game lines,Unibet,2.15,2.04,5.2,,,,won,"225 points, over the 222.5 line"
+2026-11-15 05:00,NHL,Seattle Kraken @ Carolina Hurricanes,"Seattle Kraken 1, Carolina Hurricanes 5",2026-11-14 12:44,16.3,Carolina Hurricanes -2.5,Game lines,Unibet,2.35,2.23,5.6,2.17,dropped,9.2,won,Won by 4 > 2.5
+2026-11-15 05:00,NHL,Seattle Kraken @ Carolina Hurricanes,"Seattle Kraken 1, Carolina Hurricanes 5",2026-11-15 00:39,4.3,Mark Jankowski Over 0.5 assists (PointsBet '1+'),Player props,PointsBet,5.00,4.34,15.2,4.75,dropped,14.7,lost,"Goals only, 0 assists"
+2026-11-15 06:00,College basketball,Miami (OH) @ Evansville,"Miami (OH) 86, Evansville 78",2026-11-15 00:39,5.3,Under 151.5,Game lines,Betr,2.10,2.00,5.0,2.15,longer,-9.3,lost,Total 164 exceeds 151.5
+2026-11-15 08:00,College basketball,UNC Asheville @ Georgia Tech,"UNC Asheville 74, Georgia Tech 75",2026-11-15 00:39,7.3,Under 153.5,Game lines,Betr,2.10,2.00,5.0,,,-14.5,won,Total 149 is below 153.5
+2026-11-15 11:00,NHL,New Jersey Devils @ Washington Capitals,"New Jersey Devils 7, Washington Capitals 4",2026-11-14 04:45,30.2,New Jersey Devils -1.5,Game lines,Unibet,3.40,3.03,12.1,2.88,dropped,13.6,won,Won by 3
+2026-11-15 11:00,NHL,Florida Panthers @ St. Louis Blues,"Florida Panthers 4, St. Louis Blues 1",2026-11-15 04:50,6.2,Florida Panthers -1.5,Game lines,TAB,3.60,3.26,10.5,3.60,held,10.7,won,Won by 3
+2026-11-15 11:00,NHL,Colorado Avalanche @ Montreal Canadiens,"Colorado Avalanche 4, Montreal Canadiens 1",2026-11-15 08:46,2.2,Devon Toews Under 0.5 assists,Player props,PointsBet,2.05,1.89,8.6,1.80,dropped,7.4,won,0 assists
+2026-11-15 11:00,NHL,Edmonton Oilers @ Toronto Maple Leafs,"Edmonton Oilers 1, Toronto Maple Leafs 0",2026-11-15 08:46,2.2,Evan Bouchard Over 1.5 points (goals + assists) (PointsBet '2+'),Player props,PointsBet,3.20,2.85,12.1,2.85,dropped,2.8,lost,1 point < 2
+2026-11-15 11:30,College basketball,IU Indy @ Morehead State,"IU Indy 75, Morehead State 79",2026-11-15 00:39,10.8,Over 163.5,Game lines,Unibet,2.16,2.00,8.0,,,-15.9,lost,Total 154 is below 163.5
+2026-11-15 12:00,NBA,Brooklyn Nets @ Memphis Grizzlies,"Brooklyn Nets 110, Memphis Grizzlies 129",2026-11-15 04:50,7.2,Nolan Traore Under 12.5 points,Player props,Ladbrokes,1.91,1.66,15.0,,,,won,11 points is below 12.5
+2026-11-15 12:00,NHL,Buffalo Sabres @ Dallas Stars,"Buffalo Sabres 0, Dallas Stars 2",2026-11-15 08:46,3.2,Roope Hintz Under 0.5 assists,Player props,PointsBet,1.80,1.64,9.8,1.80,held,9.3,lost,1 assist > 0.5
+2026-11-15 14:00,NHL,Calgary Flames @ Los Angeles Kings,"Calgary Flames 3, Los Angeles Kings 2",2026-11-14 04:45,33.2,Los Angeles Kings -1.5,Game lines,Sportsbet,3.10,2.46,25.9,2.51,dropped,18.4,lost,Kings lost by 1
+2026-11-15 14:00,NHL,Calgary Flames @ Los Angeles Kings,"Calgary Flames 3, Los Angeles Kings 2",2026-11-14 04:45,33.2,Los Angeles Kings,Game lines,Sportsbet,1.89,1.62,16.7,1.58,dropped,14.3,lost,Kings lost
+2026-11-15 14:00,NHL,New York Islanders @ Anaheim Ducks,"New York Islanders 6, Anaheim Ducks 2",2026-11-15 08:46,5.2,Anaheim Ducks -1.5,Game lines,Betr,3.20,3.04,5.2,,,3.8,lost,Ducks lost outright
+2026-11-15 14:00,NHL,Calgary Flames @ Los Angeles Kings,"Calgary Flames 3, Los Angeles Kings 2",2026-11-15 12:42,1.3,Drew Doughty Over 0.5 assists,Player props,PointsBet,3.20,2.83,13.2,,,,lost,0 assists
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-11 04:48,116.7,Drake Maye Under 30.5 rushing yards,Player props,TAB,1.75,1.62,8.3,,,4.5,won,11 < 30.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-11 06:48,114.7,Corey Kiner Under 14.5 rush attempts,Player props,Unibet,1.78,1.59,11.8,,,,won,10 < 14.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-12 00:42,96.8,Isaac TeSlaa Under 20.5 receiving yards,Player props,PointsBet,1.80,1.67,8.0,,,,won,19 < 20.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-13 04:47,68.7,Drake Maye Under 4.5 rush attempts,Player props,Unibet,2.00,1.84,8.5,1.79,dropped,5.0,won,1 < 4.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-14 08:53,40.6,A.J. Brown Under 3.5 receptions,Player props,Sportsbet,2.39,2.21,8.0,,,,won,2 < 3.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-15 06:48,18.7,Eli Raridon Under 2.5 receptions,Player props,Ladbrokes,1.75,1.60,9.6,1.67,dropped,8.8,won,1 < 2.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-15 23:54,1.6,Rhamondre Stevenson Under 3.5 receptions,Player props,Ladbrokes,1.70,1.57,8.2,,,,won,1 < 3.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-15 23:54,1.6,Rhamondre Stevenson Under 13.5 rush attempts,Player props,Unibet,1.94,1.54,25.7,,,,won,6 < 13.5
+2026-11-16 01:30,NFL,New England Patriots @ Detroit Lions,"NE 10, DET 35",2026-11-16 00:46,0.7,Rhamondre Stevenson Over 2.5 receptions,Player props,Unibet,2.28,1.89,20.4,,,,lost,1 < 2.5
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-12 00:42,100.3,Olamide Zaccheaus Under 10.5 receiving yards,Player props,PointsBet,1.77,1.59,11.2,1.87,longer,1.0,lost,17 vs the 10.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-12 04:43,96.3,Josh Allen Under 7.5 rush attempts,Player props,Unibet,1.81,1.60,12.8,,,5.9,won,5 vs the 7.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-12 04:43,96.3,Trevor Lawrence Under 10.5 rushing yards,Player props,TAB,1.95,1.76,10.5,,,17.0,lost,27 vs the 10.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,,2026-11-12 04:43,96.3,Pierre Strong Under 10.5 rushing yards,Player props,TAB,2.10,1.90,10.3,,,9.6,pending,
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-12 04:43,96.3,Elic Ayomanor Under 25.5 receiving yards,Player props,TAB,1.80,1.63,10.3,1.87,longer,-8.8,lost,79 vs the 25.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-12 04:43,96.3,Wan'Dale Robinson Under 35.5 receiving yards,Player props,TAB,1.95,1.79,8.7,2.00,longer,-5.4,won,
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-12 04:43,96.3,MarShawn Lloyd Under 16.5 rushing yards,Player props,Ladbrokes,1.88,1.58,19.1,,,,won,13 vs the 16.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-12 06:43,94.3,Devaughn Vele Over 3.5 receptions (TAB '4+'),Player props,TAB,2.30,2.05,12.3,2.20,dropped,-4.4,lost,2 vs the 3.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-12 06:43,94.3,Darren Waller Under 2.5 receptions,Player props,Unibet,2.23,1.98,12.4,2.00,dropped,16.3,won,2 vs the 2.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-12 06:43,94.3,James Cook Under 10.5 receiving yards,Player props,PointsBet,1.77,1.56,13.2,1.74,dropped,7.8,won,0 vs the 10.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-12 08:49,92.2,Kaleb Johnson Under 35.5 rushing yards,Player props,TAB,1.80,1.66,8.7,,,,lost,42 vs the 35.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-12 08:49,92.2,Jalen Coker Under 50.5 receiving yards,Player props,Ladbrokes,1.87,1.70,10.0,,,-4.0,won,0 vs the 50.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-12 08:49,92.2,Devaughn Vele Under 35.5 receiving yards,Player props,TAB,1.87,1.69,10.8,,,15.7,won,14 vs the 35.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-12 10:42,90.3,Garrett Wilson Under 70.5 receiving yards,Player props,TAB,1.80,1.66,8.5,,,12.3,lost,106 vs the 70.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-12 10:42,90.3,Geno Smith Under 32.5 pass attempts,Player props,Ladbrokes,1.77,1.62,9.2,,,-0.4,won,21 vs the 32.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-12 10:42,90.3,Jerry Jeudy Under 15.5 receiving yards,Player props,PointsBet,2.00,1.81,10.5,1.87,dropped,-5.3,lost,74 vs the 15.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-12 12:42,88.3,Breece Hall Under 75.5 rushing + receiving yards,Player props,TAB,1.95,1.80,8.1,1.95,held,8.0,lost,108 vs the 75.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-12 12:42,88.3,Josh Downs Under 27.5 receiving yards,Player props,Unibet,1.85,1.66,11.7,,,12.4,lost,53 vs the 27.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-12 12:42,88.3,Deshaun Watson Over 1.5 passing TDs (Unibet '2+'),Player props,Unibet,3.35,2.96,13.2,,,10.3,lost,0 vs the 1.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 04:47,72.2,Juwan Johnson Under 25.5 receiving yards,Player props,TAB,1.80,1.63,10.3,1.80,held,-1.8,lost,28 vs the 25.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 04:47,72.2,Jordyn Tyson Under 4.5 receptions,Player props,Ladbrokes,1.87,1.68,11.3,,,12.8,lost,11 vs the 4.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 04:47,72.2,Bryce Young Under 2.5 rush attempts,Player props,Ladbrokes,1.98,1.83,8.2,,,18.1,won,1 vs the 2.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-13 04:47,72.2,Josh Downs Under 2.5 receptions,Player props,Ladbrokes,1.98,1.78,11.4,,,15.2,lost,4 vs the 2.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 04:47,72.2,Tetairoa McMillan Under 5.5 receptions,Player props,Ladbrokes,1.87,1.71,9.2,,,10.5,won,3 vs the 5.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-13 04:47,72.2,Parker Washington Under 4.5 receptions,Player props,Unibet,1.82,1.68,8.5,1.80,dropped,5.9,lost,7 vs the 4.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-13 06:44,70.3,C.J. Stroud Under 10.5 rushing yards,Player props,TAB,1.85,1.70,9.0,1.72,dropped,8.8,lost,20 vs the 10.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,,2026-11-13 06:44,70.3,Kenneth Walker Under 20.5 receiving yards,Player props,TAB,1.95,1.76,10.9,,,,pending,
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 06:44,70.3,Bryce Young Under 10.5 rushing yards,Player props,TAB,1.85,1.64,12.8,1.80,dropped,4.9,won,1 vs the 10.5 line
+2026-11-16 05:00,NFL,Miami Dolphins @ Indianapolis Colts,"IND 24, MIA 22",2026-11-13 08:46,68.2,Malik Washington Under 3.5 receptions,Player props,Unibet,1.94,1.76,10.4,1.98,longer,3.9,won,3 vs the 3.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 08:46,68.2,Tommy Tremble Under 15.5 receiving yards,Player props,TAB,1.95,1.71,14.2,1.75,dropped,2.4,lost,48 vs the 15.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-13 10:46,66.2,Dawson Knox Under 13.5 receiving yards,Player props,Unibet,1.87,1.73,8.3,1.86,dropped,10.1,won,7 vs the 13.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-13 10:46,66.2,Chuba Hubbard Under 20.5 receiving yards,Player props,TAB,1.80,1.67,8.1,1.80,held,-0.8,lost,80 vs the 20.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-13 10:46,66.2,Bhayshul Tuten Under 13.5 receiving yards,Player props,Sportsbet,1.88,1.68,11.9,1.88,held,-1.3,lost,25 vs the 13.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-13 12:42,64.3,Breece Hall Under 60.5 rushing yards,Player props,TAB,1.80,1.66,8.7,,,8.7,won,41 vs the 60.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-14 04:45,48.2,Dylan Sampson Under 3.5 receptions,Player props,Unibet,1.85,1.71,8.3,1.70,dropped,3.5,lost,4 vs the 3.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-14 04:45,48.2,Emmett Johnson Under 13.5 receiving yards,Player props,Unibet,1.87,1.71,9.1,,,,lost,70 vs the 13.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-14 04:45,48.2,Cam Ward Under 33.5 pass attempts,Player props,Ladbrokes,1.88,1.72,9.5,,,7.7,lost,39 vs the 33.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-14 04:45,48.2,John Metchie Under 13.5 receiving yards,Player props,Ladbrokes,1.88,1.60,17.3,,,,won,4 vs the 13.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-14 06:46,46.2,Nate Boerkircher Under 10.5 receiving yards,Player props,TAB,2.10,1.91,10.3,1.90,dropped,15.8,lost,12 vs the 10.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-14 06:46,46.2,Cam Ward Under 10.5 rushing yards,Player props,TAB,2.15,1.94,10.6,1.90,dropped,12.9,lost,39 vs the 10.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-14 06:46,46.2,John Metchie Under 1.5 receptions,Player props,Ladbrokes,2.02,1.67,20.7,,,28.2,won,1 vs the 1.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-14 08:53,44.1,Patrick Mahomes Under 10.5 rushing yards,Player props,TAB,2.00,1.75,14.4,,,11.2,lost,15 vs the 10.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-14 08:53,44.1,Xavier Worthy Under 30.5 receiving yards,Player props,TAB,1.85,1.66,11.2,1.95,longer,7.3,won,0 vs the 30.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-14 08:53,44.1,Tank Dell Under 2.5 receptions,Player props,Unibet,2.35,2.12,11.1,,,8.8,lost,3 vs the 2.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-15 00:39,28.3,Noah Fant Under 10.5 receiving yards,Player props,PointsBet,1.80,1.59,13.5,1.83,longer,9.3,won,0 vs the 10.5 line
+2026-11-16 05:00,NFL,Houston Texans @ Cleveland Browns,"CLE 27, HOU 24",2026-11-15 00:39,28.3,Xavier Hutchinson Under 2.5 receptions,Player props,Unibet,2.35,2.15,9.2,,,4.6,lost,4 vs the 2.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-15 00:39,28.3,Travis Kelce Under 50.5 receiving yards,Player props,TAB,1.95,1.78,9.6,,,7.5,won,30 vs the 50.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-15 04:50,24.2,Chris Olave Under 80.5 receiving yards,Player props,TAB,1.95,1.75,11.8,,,12.2,won,30 vs the 80.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-15 04:50,24.2,Ben Yurosek Under 1.5 receptions,Player props,Ladbrokes,1.90,1.68,13.3,,,6.6,won,1 vs the 1.5 line
+2026-11-16 05:00,NFL,Miami Dolphins @ Indianapolis Colts,"IND 24, MIA 22",2026-11-15 06:48,22.2,Jonathan Taylor Under 25.5 receiving yards,Player props,TAB,1.80,1.63,10.3,,,7.8,won,20 vs the 25.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-15 06:48,22.2,Travis Hunter Under 9.5 receiving yards,Player props,Ladbrokes,1.88,1.66,13.2,,,13.2,lost,16 vs the 9.5 line
+2026-11-16 05:00,NFL,Miami Dolphins @ Indianapolis Colts,"IND 24, MIA 22",2026-11-15 06:48,22.2,Jonathan Taylor Under 3.5 receptions,Player props,TAB,1.90,1.75,8.6,1.72,dropped,8.2,won,2 vs the 3.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-15 06:48,22.2,Josh Cameron Under 8.5 longest reception,Player props,TAB,1.87,1.71,9.5,1.85,dropped,7.7,lost,28 vs the 8.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-15 08:46,20.2,Jordan Mason Under 12.5 rush attempts,Player props,TAB,1.80,1.56,15.3,1.72,dropped,10.1,lost,16 vs the 12.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-15 08:46,20.2,Aaron Jones Under 8.5 rush attempts,Player props,TAB,2.05,1.73,18.7,1.75,dropped,21.3,lost,11 vs the 8.5 line
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-15 08:46,20.2,James Cook Under 20.5 rush attempts,Player props,TAB,1.80,1.65,9.2,,,,won,18 vs the 20.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,"CAR 20, NO 17",2026-11-15 08:46,20.2,Travis Etienne Under 10.5 rush attempts,Player props,TAB,1.72,1.46,17.8,,,,won,8 vs the 10.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-15 08:46,20.2,Xavier Worthy Under 17.5 longest reception,Player props,TAB,1.85,1.71,8.1,,,7.9,won,0 vs the 17.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-15 10:44,18.3,Tony Pollard Under 16.5 rush attempts,Player props,Unibet,1.76,1.59,10.7,,,10.7,won,9 vs the 16.5 line
+2026-11-16 05:00,NFL,Jacksonville Jaguars @ Tennessee Titans,"JAX 40, TEN 23",2026-11-15 12:42,16.3,Tony Pollard Under 10.5 receiving yards,Player props,TAB,1.85,1.67,10.7,1.68,dropped,9.5,lost,66 vs the 10.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-15 12:42,16.3,Patrick Mahomes Under 39.5 longest completion,Player props,TAB,1.80,1.65,9.4,,,9.4,lost,50 vs the 39.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-15 12:42,16.3,Patrick Mahomes Under 34.5 pass attempts,Player props,TAB,1.80,1.62,11.1,,,10.9,lost,35 vs the 34.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-15 12:42,16.3,Patrick Mahomes Under 2.5 rush attempts,Player props,TAB,2.35,2.15,9.5,,,8.4,won,2 vs the 2.5 line
+2026-11-16 05:00,NFL,Carolina Panthers @ New Orleans Saints,,2026-11-16 00:46,4.2,Xavier Legette Under 15.5 receiving yards,Player props,TAB,1.72,1.57,9.3,,,,pending,
+2026-11-16 05:00,NFL,Buffalo Bills @ New York Jets,"BUF 31, NYJ 12",2026-11-16 00:46,4.2,Breece Hall Under 18.5 receiving yards,Player props,Unibet,1.92,1.76,9.1,1.92,held,11.1,lost,67 vs the 18.5 line
+2026-11-16 05:00,NFL,Minnesota Vikings @ Green Bay Packers,"MIN 30, GB 10",2026-11-16 00:46,4.2,Jordan Mason Under 5.5 receiving yards,Player props,TAB,1.95,1.77,10.4,1.87,dropped,8.6,won,0 vs the 5.5 line
+2026-11-16 05:00,NFL,Kansas City Chiefs @ Atlanta Falcons,"KC 35, ATL 13",2026-11-16 00:46,4.2,Noah Gray Under 15.5 receiving yards,Player props,PointsBet,1.80,1.62,10.8,,,10.8,won,6 vs the 15.5 line
+2026-11-16 05:30,College basketball,New Hampshire @ Boston College,"BC 67, UNH 55",2026-11-16 03:56,1.6,Boston College -24.5,Game lines,Unibet,2.63,2.25,17.2,,,-2.5,lost,"Boston College won by 12, less than 24.5"
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-12 00:42,103.4,Zach Charbonnet Over 14.5 rush attempts (TAB '15+'),Player props,TAB,2.50,2.16,15.7,1.85,dropped,39.9,won,20 vs the 14.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-12 00:42,103.4,Jalen Nailor Under 15.5 receiving yards,Player props,TAB,1.72,1.58,8.6,,,5.9,won,1 vs the 15.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-12 10:42,93.4,Michael Mayer Under 25.5 receiving yards,Player props,TAB,1.75,1.60,9.1,,,4.8,won,16 vs the 25.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-13 04:47,75.3,AJ Barner Under 25.5 receiving yards,Player props,TAB,1.80,1.65,8.8,,,11.1,won,19 vs the 25.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,,2026-11-13 04:47,75.3,Fernando Mendoza Under 32.5 longest completion,Player props,TAB,1.85,1.68,10.3,,,,pending,
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 04:47,75.3,Blake Corum Under 11.5 rush attempts,Player props,Sportsbet,2.12,1.95,8.5,2.01,dropped,-3.1,lost,17 vs the 11.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 04:47,75.3,Simi Fehoko Under 15.5 receiving yards,Player props,TAB,2.00,1.74,15.0,,,,lost,21 vs the 15.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 04:47,75.3,Tyler Higbee Under 3.5 receptions,Player props,Unibet,2.23,2.00,11.3,2.05,dropped,10.2,won,3 vs the 3.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-13 06:44,73.3,Mike Washington Over 9.5 rush attempts (TAB '10+'),Player props,TAB,3.10,2.76,12.5,2.40,dropped,13.1,lost,8 vs the 9.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-13 06:44,73.3,Jadarian Price Under 10.5 receiving yards,Player props,TAB,2.05,1.87,9.7,1.87,dropped,1.0,won,8 vs the 10.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 08:46,71.3,Konata Mumpfield Under 30.5 receiving yards,Player props,TAB,1.85,1.61,15.1,1.87,longer,7.5,lost,81 vs the 30.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 08:46,71.3,Tyler Allgeier Under 40.5 rushing yards,Player props,TAB,1.95,1.75,11.5,,,18.1,won,14 vs the 40.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-13 08:46,71.3,Tyler Allgeier Under 12.5 rush attempts,Player props,Ladbrokes,1.98,1.61,22.6,,,,won,5 vs the 12.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,,2026-11-13 10:46,69.3,Tory Horton Under 10.5 receiving yards,Player props,PointsBet,1.80,1.56,15.0,,,,pending,
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-14 04:45,51.3,Carson Beck Under 3.5 rush attempts,Player props,Unibet,1.96,1.80,8.6,,,,won,1 vs the 3.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-14 06:46,49.3,Tutu Atwell Under 30.5 receiving yards,Player props,TAB,2.00,1.84,8.6,,,8.6,lost,31 vs the 30.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-15 04:50,27.2,Fernando Mendoza Under 15.5 rushing yards,Player props,Sportsbet,1.88,1.68,12.2,1.88,held,-2.8,lost,22 vs the 15.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-15 04:50,27.2,CJ Daniels Under 15.5 receiving yards,Player props,TAB,1.80,1.62,10.8,1.72,dropped,7.3,lost,22 vs the 15.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-15 04:50,27.2,Konata Mumpfield Under 2.5 receptions,Player props,Ladbrokes,1.87,1.70,9.9,1.75,dropped,7.5,lost,3 vs the 2.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-15 06:48,25.3,Rashid Shaheed Under 19.5 receiving yards,Player props,Unibet,1.87,1.68,11.0,1.86,dropped,2.8,won,8 vs the 19.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-15 08:46,23.3,Davis Allen Under 15.5 receiving yards,Player props,PointsBet,1.80,1.65,9.1,,,11.6,lost,19 vs the 15.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-15 10:44,21.3,Carson Beck Under 31.5 pass attempts,Player props,TAB,2.05,1.89,8.3,1.95,dropped,-2.0,won,18 vs the 31.5 line
+2026-11-16 08:05,NFL,Seattle Seahawks @ Las Vegas Raiders,"SEA 21, LV 13",2026-11-16 00:46,7.3,Cooper Kupp Under 21.5 receiving yards,Player props,Unibet,1.85,1.68,10.2,1.85,held,9.1,lost,34 vs the 21.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-16 04:37,3.5,Tyler Allgeier Under 11.5 receiving yards,Player props,Unibet,1.82,1.68,8.1,,,8.3,won,0 vs the 11.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-16 06:43,1.4,Tyler Allgeier Under 2.5 receptions,Player props,Ladbrokes,1.75,1.57,11.1,,,,won,0 vs the 2.5 line
+2026-11-16 08:05,NFL,Los Angeles Rams @ Arizona Cardinals,"LAR 34, ARI 6",2026-11-16 06:43,1.4,Simi Fehoko Under 10.5 longest reception,Player props,TAB,1.95,1.80,8.2,,,,lost,21 vs the 10.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-11 06:48,121.6,Javonte Williams Under 15.5 receiving yards,Player props,TAB,1.85,1.62,13.9,,,,won,4 vs the 15.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-11 06:48,121.6,Kaelon Black Under 35.5 rushing yards,Player props,TAB,1.95,1.79,8.6,,,,lost,53 vs the 35.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-13 04:47,75.6,Deebo Samuel Under 42.5 receiving yards,Player props,Unibet,1.87,1.67,11.7,,,,won,31 vs the 42.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-13 04:47,75.6,Deebo Samuel Under 3.5 receptions,Player props,Ladbrokes,1.98,1.77,12.0,,,,won,3 vs the 3.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,,2026-11-14 04:45,51.7,Kyle Juszczyk Under 10.5 receiving yards,Player props,PointsBet,1.77,1.57,12.6,,,,pending,
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,,2026-11-14 06:46,49.6,Demarcus Robinson Under 30.5 receiving yards,Player props,TAB,2.00,1.78,12.3,,,,pending,
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-14 06:46,49.6,Deebo Samuel Under 50.5 rushing + receiving yards,Player props,TAB,1.85,1.68,9.9,,,,lost,109 vs the 50.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-14 08:53,47.5,Deebo Samuel Under 5.5 rushing yards,Player props,TAB,2.10,1.91,10.3,,,,lost,78 vs the 5.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-14 10:49,45.6,Javonte Williams Under 16.5 rush attempts,Player props,Sportsbet,2.07,1.88,10.0,,,,won,16 vs the 16.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-15 04:50,27.6,Brock Purdy Over 2.5 passing TDs (Ladbrokes '3+'),Player props,Ladbrokes,3.00,2.67,12.5,,,,won,3 vs the 2.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-15 04:50,27.6,Ryan Flournoy Under 3.5 receptions,Player props,Ladbrokes,1.98,1.79,10.4,,,,lost,6 vs the 3.5 line
+2026-11-16 08:25,NFL,San Francisco 49ers @ Dallas Cowboys,"SF 46, DAL 40",2026-11-15 12:42,19.7,George Pickens Under 4.5 receptions,Player props,TAB,2.10,1.94,8.3,,,,lost,11 vs the 4.5 line
+2026-11-16 10:00,NBA,Dallas Mavericks @ Boston Celtics,"BOS 131, DAL 94",2026-11-16 08:36,1.4,Caleb Martin Under 6.5 points,Player props,Sportsbet,1.92,1.58,21.6,1.92,held,-2.7,lost,"12 points, over the 6.5 line"
+2026-11-16 12:00,NHL,Calgary Flames @ Anaheim Ducks,"ANA 6, CGY 1",2026-11-16 04:37,7.4,Beckett Sennecke Under 0.5 assists,Player props,PointsBet,1.87,1.72,8.9,1.63,dropped,5.5,lost,"1 assist, over the 0.5 line"
+2026-11-16 12:00,NHL,Florida Panthers @ Dallas Stars,"DAL 2, FLA 1",2026-11-16 04:37,7.4,Matthew Tkachuk Under 0.5 assists,Player props,PointsBet,2.10,1.91,10.0,1.77,dropped,6.2,won,No assists
+2026-11-16 12:00,NHL,Florida Panthers @ Dallas Stars,"DAL 2, FLA 1",2026-11-16 06:43,5.3,Brady Tkachuk Under 0.5 assists,Player props,PointsBet,1.80,1.62,11.3,1.48,dropped,12.0,won,No assists
+2026-11-16 12:00,NBA,Atlanta Hawks @ Milwaukee Bucks,"ATL 113, MIL 106",2026-11-16 10:44,1.3,Brayden Burries Under 5.5 rebounds,Player props,Sportsbet,2.10,1.89,11.3,2.10,held,-1.9,lost,"8 rebounds, over the 5.5 line"
+2026-11-16 12:00,NHL,Calgary Flames @ Anaheim Ducks,"ANA 6, CGY 1",2026-11-16 10:44,1.3,Matt Coronato Under 0.5 assists,Player props,PointsBet,1.83,1.68,8.7,1.67,dropped,8.9,won,No assists
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-12 00:42,107.6,Germie Bernard Under 52.5 receiving yards,Player props,Unibet,1.88,1.71,10.2,1.87,dropped,4.5,won,0 vs the 52.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-12 00:42,107.6,Dohnte Meyers Under 22.5 receiving yards,Player props,Unibet,1.88,1.74,8.3,,,5.3,won,20 vs the 22.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-12 12:42,95.6,Samaje Perine Under 24.5 rushing yards,Player props,Ladbrokes,1.88,1.69,11.1,,,20.4,won,14 vs the 24.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-13 04:47,79.5,Samaje Perine Under 30.5 rushing + receiving yards,Player props,PointsBet,1.90,1.72,10.6,,,10.8,lost,39 vs the 30.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-13 04:47,79.5,Samaje Perine Under 5.5 receiving yards,Player props,TAB,1.95,1.77,10.4,1.80,dropped,12.7,lost,25 vs the 5.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-13 06:44,77.6,Rico Dowdle Under 15.5 receiving yards,Player props,TAB,1.87,1.73,8.3,1.75,dropped,9.2,won,8 vs the 15.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-13 06:44,77.6,Jaylen Warren Under 28.5 receiving yards,Player props,Unibet,1.86,1.71,8.6,,,12.6,won,26 vs the 28.5 line
+2026-11-16 12:20,NFL,Pittsburgh Steelers @ Cincinnati Bengals,"CIN 38, PIT 18",2026-11-13 08:46,75.6,Germie Bernard Under 4.5 receptions,Player props,Sportsbet,1.93,1.72,12.0,2.01,longer,-5.4,won,0 vs the 4.5 line
+2026-11-16 13:00,NHL,Nashville Predators @ San Jose Sharks,"SJ 4, NSH 2",2026-11-16 00:46,12.2,Nils Hoglander (anytime goal),Scorer markets,Ladbrokes,8.00,6.22,28.6,6.00,dropped,25.5,won,He scored
+2026-11-16 13:00,NHL,Vancouver Canucks @ Vegas Golden Knights,"VAN 6, VGK 3",2026-11-16 04:37,8.4,Brett Howden Over 0.5 assists,Player props,PointsBet,4.30,3.70,16.2,4.10,dropped,7.8,lost,No assists
+2026-11-16 13:00,NBA,Oklahoma City Thunder @ Sacramento Kings,"OKC 125, SAC 103",2026-11-16 12:24,0.6,Shai Gilgeous-Alexander Over 2.5 made threes (Sportsbet '3+'),Player props,Sportsbet,2.80,2.40,16.6,,,-3.9,won,
+2026-11-16 13:00,NBA,Oklahoma City Thunder @ Sacramento Kings,"OKC 125, SAC 103",2026-11-16 12:36,0.4,Jared McCain Under 15.5 points,Player props,PointsBet,1.90,1.68,13.3,,,,won,"12 points, under the 15.5 line"
+2026-11-17 06:00,College basketball,Florida A&M @ UTEP,,2026-11-17 04:52,1.1,Under 137.5,Game lines,Betr,2.50,2.31,8.4,,,,pending,
+2026-11-17 11:00,College basketball,Richmond @ Virginia Tech,,2026-11-17 09:51,1.1,Over 152.5,Game lines,PointsBet,2.15,2.04,5.6,2.00,dropped,0.2,pending,
+2026-11-17 11:30,NHL,Montreal Canadiens @ New York Rangers,,2026-11-16 06:43,28.8,New York Rangers -1.5,Game lines,TAB,3.60,3.37,6.9,3.30,dropped,6.9,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-12 10:42,121.5,Josh Cuevas Under 10.5 receiving yards,Player props,Unibet,1.84,1.67,10.1,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-12 12:42,119.5,Keaton Mitchell Under 10.5 rushing yards,Player props,TAB,2.00,1.80,11.2,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-13 04:47,103.5,Zay Flowers Under 85.5 rushing + receiving yards,Player props,PointsBet,1.90,1.67,14.1,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-13 04:47,103.5,Keaton Mitchell Under 2.5 receptions,Player props,Ladbrokes,1.87,1.69,10.5,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-13 10:46,97.5,Derrick Henry Under 19.5 rush attempts,Player props,Ladbrokes,1.88,1.72,9.6,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-13 10:46,97.5,Kimani Vidal Under 20.5 rushing yards,Player props,TAB,2.00,1.75,14.2,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-16 00:46,35.5,Kimani Vidal Under 7.5 rush attempts,Player props,Sportsbet,1.80,1.62,11.0,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-16 12:36,23.6,Jacoby Brissett Under 30.5 pass attempts,Player props,TAB,2.00,1.84,8.9,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 00:43,11.5,Derrick Henry Under 85.5 rushing yards,Player props,TAB,1.95,1.80,8.3,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 06:40,5.6,Justin Herbert Under 30.5 pass attempts,Player props,Ladbrokes,1.88,1.72,9.6,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 06:40,5.6,KeAndre Lambert-Smith (anytime touchdown),Scorer markets,TAB,10.00,8.63,15.9,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 06:40,5.6,Quentin Johnston Under 2.5 receptions,Player props,Ladbrokes,1.98,1.76,12.2,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 06:40,5.6,Zay Flowers Under 3.5 rushing yards,Player props,Ladbrokes,1.85,1.68,10.2,,,,pending,
+2026-11-17 12:15,NFL,Los Angeles Chargers @ Baltimore Ravens,,2026-11-17 10:42,1.5,Jacoby Brissett Under 5.5 rushing yards,Player props,TAB,2.15,1.98,8.5,,,,pending,
+2026-11-17 13:00,NBA,Phoenix Suns @ Denver Nuggets,,2026-11-17 00:43,12.3,Oso Ighodaro Over 9.5 rebounds + assists (Sportsbet '10+'),Player props,Sportsbet,3.00,2.63,14.1,,,,pending,
+2026-11-18 11:00,NHL,Ottawa Senators @ Winnipeg Jets,,2026-11-17 10:42,24.3,Ottawa Senators -1.5,Game lines,Unibet,3.20,3.04,5.2,,,,pending,
+2026-11-22 07:00,College football,Coastal Carolina @ Louisiana,,2026-11-16 10:44,140.3,Coastal Carolina,Game lines,Unibet,4.40,3.91,12.6,,,,pending,
