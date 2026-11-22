@@ -1,8 +1,42 @@
 {
  "v": 1,
- "generated_utc": "2026-11-22T10:21:01Z",
- "updated": "Updated Sun, 22 Nov, 8:49 pm Sydney time.",
+ "generated_utc": "2026-11-22T22:21:20Z",
+ "updated": "Updated Mon, 23 Nov, 2:51 am Sydney time.",
  "rows": [
+  {
+   "date": "Sun, 22 Nov",
+   "league": "NBA",
+   "game": "Portland Trail Blazers @ New York Knicks",
+   "alert": "Over 215.5",
+   "book": "Betfair",
+   "price": "2.11",
+   "us": "2.00",
+   "gap": "+5.5%",
+   "final": "POR 96, NYK 97",
+   "result": "lost",
+   "t": "2026-11-22T00:30:00Z",
+   "id": "usau-2026-11-22-nba-403164bfc4",
+   "k": "line",
+   "m": "same",
+   "h": 1.7
+  },
+  {
+   "date": "Sun, 22 Nov",
+   "league": "NHL",
+   "game": "New York Islanders @ Detroit Red Wings",
+   "alert": "Detroit Red Wings -1.5",
+   "book": "TAB",
+   "price": "3.80",
+   "us": "3.15",
+   "gap": "+20.5%",
+   "final": "NYI 3, DET 2",
+   "result": "lost",
+   "t": "2026-11-22T00:00:00Z",
+   "id": "usau-2026-11-22-nhl-97dd902fc0",
+   "k": "line",
+   "m": "same",
+   "h": 28.2
+  },
   {
    "date": "Sun, 22 Nov",
    "league": "NHL",
@@ -31102,11 +31136,11 @@
   "clvAvg": 8.6,
   "gapAvg": 12.2,
   "gapMedian": 10.6,
-  "gapN": 1891,
-  "perDay": 34,
+  "gapN": 1900,
+  "perDay": 35,
   "perDayDays": 7,
   "perDayLow": 10,
-  "perDayHigh": 51,
+  "perDayHigh": 52,
   "clvBy": {
    "usau-2026-09-30-mlb-bb776eb0c5": 5.45,
    "usau-2026-09-30-mlb-bf2a576bab": 13.21,
@@ -32598,13 +32632,13 @@
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-11-21-nba-2e60d15a95",
-    "sent": "2026-11-20T23:49:07Z",
-    "posted": "2026-11-20T23:49:00Z",
-    "text": "<b>NBA · Washington Wizards @ Chicago Bulls</b> · Sat 21 Nov 12:00pm Sydney · starts in 70 min\n<b>Ladbrokes</b> Isaac Okoro Under 11.5 points @ <b>1.88</b>\nUS reference price (margin removed) 1.65 · gap <b>+14.0%</b> (estimate)\nUS line: 9.5 → 10.5 within the last hour\n<b>PRICE-GAP FLAG.</b> The US market moved Isaac Okoro's line from 9.5 to 10.5 within the last hour, toward Ladbrokes's 11.5, so Ladbrokes is on a higher line than most US books.\nPrices taken 10:27am, re-checked 10:44am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
-    "result": "won",
-    "final": "Wizards 98, Bulls 94 per ESPN",
-    "clv": null
+    "id": "usau-2026-11-22-nba-403164bfc4",
+    "sent": "2026-11-21T22:47:09Z",
+    "posted": "2026-11-21T22:47:00Z",
+    "text": "<b>NBA · Portland Trail Blazers @ New York Knicks</b> · Sun 22 Nov 11:30am Sydney · starts in 103 min\n<b>Betfair</b> Total Over 215.5 @ <b>2.11</b> after 6% commission (Betfair shows 2.18)\nTop 2 Aussie prices: Betfair 2.11 after commission · Sportsbet 2.08\nUS reference price (margin removed) 2.00 · gap <b>+5.5%</b>\nUS line: no history available\n<b>PRICE-GAP FLAG.</b> Betfair's offer on this total is longer than the price the US books imply on the same line.\nPrices taken 9:40am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "result": "lost",
+    "final": "POR 96, NYK 97",
+    "clv": -3.87
    }
   ],
   "closeP": {
