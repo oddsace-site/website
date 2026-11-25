@@ -1,8 +1,44 @@
 {
  "v": 1,
- "generated_utc": "2026-11-24T22:20:39Z",
- "updated": "Updated Wed, 25 Nov, 8:56 am Sydney time.",
+ "generated_utc": "2026-11-25T10:21:11Z",
+ "updated": "Updated Wed, 25 Nov, 8:49 pm Sydney time.",
  "rows": [
+  {
+   "date": "Wed, 25 Nov",
+   "league": "NBA",
+   "game": "Detroit Pistons @ Orlando Magic",
+   "alert": "Ausar Thompson Under 11.5 points",
+   "book": "PointsBet",
+   "price": "1.87",
+   "us": "1.73",
+   "gap": "+8.1%",
+   "final": "DET 104, ORL 86",
+   "result": "won",
+   "t": "2026-11-25T00:00:00Z",
+   "id": "usau-2026-11-25-nba-3575f00352",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 10.2
+  },
+  {
+   "date": "Wed, 25 Nov",
+   "league": "NBA",
+   "game": "Detroit Pistons @ Orlando Magic",
+   "alert": "Isaiah Joe Over 11.5 points (Ladbrokes '12+')",
+   "book": "Ladbrokes",
+   "price": "2.35",
+   "us": "2.08",
+   "gap": "+13.2%",
+   "final": "DET 104, ORL 86",
+   "result": "won",
+   "t": "2026-11-25T00:00:00Z",
+   "id": "usau-2026-11-25-nba-a393265143",
+   "k": "prop",
+   "m": "same",
+   "w": "neutral",
+   "h": 6.3
+  },
   {
    "date": "Tue, 24 Nov",
    "league": "NHL",
@@ -6195,6 +6231,24 @@
    "m": "est",
    "w": "neutral",
    "h": 24.2
+  },
+  {
+   "date": "Mon, 16 Nov",
+   "league": "NFL",
+   "game": "Carolina Panthers @ New Orleans Saints",
+   "alert": "Xavier Legette Under 15.5 receiving yards",
+   "book": "TAB",
+   "price": "1.72",
+   "us": "1.57",
+   "gap": "+9.3%",
+   "final": "CAR 20, NO 17",
+   "result": "won",
+   "t": "2026-11-15T18:00:00Z",
+   "id": "usau-2026-11-16-nfl-4fbf336bec",
+   "k": "prop",
+   "m": "est",
+   "w": "neutral",
+   "h": 4.2
   },
   {
    "date": "Mon, 16 Nov",
@@ -34589,14 +34643,14 @@
   "median": 175,
   "longest": 710,
   "at30": 0.799,
-  "closes": 1201,
-  "dropped": 829,
-  "clvClosed": 1641,
-  "clvBeat": 1357,
+  "closes": 1203,
+  "dropped": 831,
+  "clvClosed": 1644,
+  "clvBeat": 1359,
   "clvAvg": 8.7,
   "gapAvg": 12.2,
   "gapMedian": 10.6,
-  "gapN": 1972,
+  "gapN": 1983,
   "perDay": 38,
   "perDayDays": 7,
   "perDayLow": 20,
@@ -36242,18 +36296,21 @@
    "usau-2026-11-24-nhl-dde2548374": 15.83,
    "usau-2026-11-24-nhl-e8ef90e632": 9.78,
    "usau-2026-11-24-nhl-ea88680a75": 17.81,
-   "usau-2026-11-24-nhl-fa99f7febd": 12.3
+   "usau-2026-11-24-nhl-fa99f7febd": 12.3,
+   "usau-2026-11-25-nba-3575f00352": 6.52,
+   "usau-2026-11-25-nba-a393265143": 11.52,
+   "usau-2026-11-25-nhl-fac5358cf4": -0.68
   },
   "latest": [
    {
     "kind": "gap",
-    "id": "usau-2026-11-24-nba-96801510ca",
-    "sent": "2026-11-24T01:55:04Z",
-    "posted": "2026-11-24T01:54:47Z",
-    "text": "<b>NBA · Utah Jazz @ Los Angeles Lakers</b> · Tue 24 Nov 2:00pm Sydney · starts in 64 min\n<b>Sportsbet</b> Player rebounds - Walker Kessler 12+ (= over 11.5) @ <b>2.67</b>\nTop 2 Aussie prices: Sportsbet 2.67 · Ladbrokes 2.10\nUS reference price (margin removed) 2.38 · gap <b>+12.1%</b> (estimate)\nUS line: 11.5 → 10.5 about 3h ago\n<b>PRICE-GAP FLAG.</b> The US moved Walker Kessler's line from 11.5 to 10.5 about 3 hours ago and Sportsbet is still on 11.5.\nPrices taken 12:44pm, re-checked 12:53pm.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
+    "id": "usau-2026-11-25-nba-a393265143",
+    "sent": "2026-11-24T17:41:56Z",
+    "posted": "2026-11-24T17:41:30Z",
+    "text": "<b>NBA · Detroit Pistons @ Orlando Magic</b> · Wed 25 Nov 11:00am Sydney\n<b>Ladbrokes</b> Player points - Isaiah Joe 12+ @ <b>2.35</b>\nTop 2 Aussie prices: Ladbrokes 2.35 · Sportsbet 1.96\nUS reference price (margin removed) 2.08 · gap <b>+13.2%</b>\nUS line: 10.5 → 11.5 within the last hour\n<b>PRICE-GAP FLAG.</b> Ladbrokes pays 2.35 for 12+ points from Isaiah Joe, longer than the four US books' reference price.\nPrices taken 4:27am.\nPrices shown for comparison only. Odds Ace is not a bookmaker.\n18+ · Think. Is this a bet you really want to place? Set a deposit limit. For free and confidential support call 1800 858 858 or visit gamblinghelponline&#46;org&#46;au",
     "result": "won",
-    "final": "LAL 109, UTA 94",
-    "clv": null
+    "final": "DET 104, ORL 86",
+    "clv": 11.52
    }
   ],
   "closeP": {
@@ -37897,25 +37954,100 @@
    "usau-2026-11-24-nhl-dde2548374": 0.1252,
    "usau-2026-11-24-nhl-e8ef90e632": 0.6202,
    "usau-2026-11-24-nhl-ea88680a75": 0.2677,
-   "usau-2026-11-24-nhl-fa99f7febd": 0.2246
+   "usau-2026-11-24-nhl-fa99f7febd": 0.2246,
+   "usau-2026-11-25-nba-3575f00352": 0.5696,
+   "usau-2026-11-25-nba-a393265143": 0.4745,
+   "usau-2026-11-25-nhl-fac5358cf4": 0.4709
   },
   "moves": {
-   "n": 768,
+   "n": 769,
    "tab": 366,
-   "us": 172,
+   "us": 173,
    "none": 230,
    "avgT": 0.696,
-   "avgU": 0.238
+   "avgU": 0.239
   },
   "runs": {
-   "checks": 845,
-   "total": 3514015,
-   "full": 374,
-   "pre": 469,
-   "day": 57378,
+   "checks": 853,
+   "total": 3533260,
+   "full": 375,
+   "pre": 476,
+   "day": 50149,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-24T21:56:09Z",
+   "to": "2026-11-25T09:49:45Z",
    "recent": [
+    {
+     "t": "2026-11-25T04:43:00Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 202,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-25T03:44:00Z",
+     "type": "pregame",
+     "games": 2,
+     "prices": 202,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-25T02:43:00Z",
+     "type": "pregame",
+     "games": 4,
+     "prices": 460,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-25T01:44:00Z",
+     "type": "pregame",
+     "games": 10,
+     "prices": 834,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-25T01:26:00Z",
+     "type": "full",
+     "games": 169,
+     "prices": 10074,
+     "books": 7,
+     "sent": 4,
+     "kept": 12
+    },
+    {
+     "t": "2026-11-25T00:44:00Z",
+     "type": "pregame",
+     "games": 21,
+     "prices": 1506,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-24T23:48:00Z",
+     "type": "pregame",
+     "games": 20,
+     "prices": 3227,
+     "books": 7,
+     "sent": 0,
+     "kept": 4
+    },
+    {
+     "t": "2026-11-24T22:43:00Z",
+     "type": "pregame",
+     "games": 37,
+     "prices": 2740,
+     "books": 7,
+     "sent": 0,
+     "kept": 0
+    },
     {
      "t": "2026-11-24T21:43:00Z",
      "type": "pregame",
@@ -37930,78 +38062,6 @@
      "type": "pregame",
      "games": 6,
      "prices": 566,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T19:44:00Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 654,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T19:26:00Z",
-     "type": "full",
-     "games": 190,
-     "prices": 13208,
-     "books": 7,
-     "sent": 5,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T18:46:00Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 700,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T17:45:00Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 454,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T17:26:27Z",
-     "type": "full",
-     "games": 181,
-     "prices": 13456,
-     "books": 6,
-     "sent": 8,
-     "kept": 9
-    },
-    {
-     "t": "2026-11-24T16:43:00Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 414,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T15:46:25Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 230,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-24T14:43:00Z",
-     "type": "pregame",
-     "games": 2,
-     "prices": 166,
      "books": 6,
      "sent": 0,
      "kept": 0
