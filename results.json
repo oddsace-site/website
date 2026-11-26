@@ -1,7 +1,7 @@
 {
  "v": 1,
- "generated_utc": "2026-11-25T22:21:15Z",
- "updated": "Updated Thu, 26 Nov, 8:52 am Sydney time.",
+ "generated_utc": "2026-11-26T10:20:35Z",
+ "updated": "Updated Thu, 26 Nov, 8:49 pm Sydney time.",
  "rows": [
   {
    "date": "Wed, 25 Nov",
@@ -34750,14 +34750,14 @@
   "median": 175,
   "longest": 710,
   "at30": 0.799,
-  "closes": 1203,
-  "dropped": 831,
-  "clvClosed": 1644,
-  "clvBeat": 1359,
+  "closes": 1221,
+  "dropped": 845,
+  "clvClosed": 1667,
+  "clvBeat": 1380,
   "clvAvg": 8.7,
   "gapAvg": 12.2,
   "gapMedian": 10.6,
-  "gapN": 2021,
+  "gapN": 2059,
   "perDay": 37,
   "perDayDays": 7,
   "perDayLow": 20,
@@ -36406,7 +36406,30 @@
    "usau-2026-11-24-nhl-fa99f7febd": 12.3,
    "usau-2026-11-25-nba-3575f00352": 6.52,
    "usau-2026-11-25-nba-a393265143": 11.52,
-   "usau-2026-11-25-nhl-fac5358cf4": -0.68
+   "usau-2026-11-25-nhl-fac5358cf4": -0.68,
+   "usau-2026-11-26-nba-f9973e8f8f": 13.09,
+   "usau-2026-11-26-ncaab-3d81984484": -8.09,
+   "usau-2026-11-26-nfl-070cbb3d57": -8.82,
+   "usau-2026-11-26-nfl-31db2214a2": 9.16,
+   "usau-2026-11-26-nfl-6abfa18626": 12.29,
+   "usau-2026-11-26-nfl-80c3da6e26": 13.21,
+   "usau-2026-11-26-nfl-8324a690a8": 5.46,
+   "usau-2026-11-26-nfl-9fc728ab2f": 8.13,
+   "usau-2026-11-26-nfl-c9633f2192": 13.68,
+   "usau-2026-11-26-nhl-263ee0bdcf": 8.6,
+   "usau-2026-11-26-nhl-31f9360102": 6.79,
+   "usau-2026-11-26-nhl-334f1fbfea": 22.95,
+   "usau-2026-11-26-nhl-6bb5926a08": 20.3,
+   "usau-2026-11-26-nhl-6e430b1a33": 10.54,
+   "usau-2026-11-26-nhl-77fb180650": 10.11,
+   "usau-2026-11-26-nhl-8006641852": 16.71,
+   "usau-2026-11-26-nhl-89d44e7679": 10.22,
+   "usau-2026-11-26-nhl-95957a9f01": 16.99,
+   "usau-2026-11-26-nhl-a137bd91ff": 17.14,
+   "usau-2026-11-26-nhl-a9929582eb": 9.73,
+   "usau-2026-11-26-nhl-c05b73772b": 9.12,
+   "usau-2026-11-26-nhl-f6655e6085": 13.59,
+   "usau-2026-11-26-nhl-f753db8741": 9.29
   },
   "latest": [
    {
@@ -38064,25 +38087,120 @@
    "usau-2026-11-24-nhl-fa99f7febd": 0.2246,
    "usau-2026-11-25-nba-3575f00352": 0.5696,
    "usau-2026-11-25-nba-a393265143": 0.4745,
-   "usau-2026-11-25-nhl-fac5358cf4": 0.4709
+   "usau-2026-11-25-nhl-fac5358cf4": 0.4709,
+   "usau-2026-11-26-nba-f9973e8f8f": 0.5952,
+   "usau-2026-11-26-ncaab-3d81984484": 0.4275,
+   "usau-2026-11-26-nfl-070cbb3d57": 0.485,
+   "usau-2026-11-26-nfl-31db2214a2": 0.5656,
+   "usau-2026-11-26-nfl-6abfa18626": 0.5973,
+   "usau-2026-11-26-nfl-80c3da6e26": 0.6022,
+   "usau-2026-11-26-nfl-8324a690a8": 0.5859,
+   "usau-2026-11-26-nfl-9fc728ab2f": 0.4601,
+   "usau-2026-11-26-nfl-c9633f2192": 0.6047,
+   "usau-2026-11-26-nhl-263ee0bdcf": 0.4525,
+   "usau-2026-11-26-nhl-31f9360102": 0.4544,
+   "usau-2026-11-26-nhl-334f1fbfea": 0.1025,
+   "usau-2026-11-26-nhl-6bb5926a08": 0.3759,
+   "usau-2026-11-26-nhl-6e430b1a33": 0.5024,
+   "usau-2026-11-26-nhl-77fb180650": 0.5647,
+   "usau-2026-11-26-nhl-8006641852": 0.1061,
+   "usau-2026-11-26-nhl-89d44e7679": 0.4899,
+   "usau-2026-11-26-nhl-95957a9f01": 0.6158,
+   "usau-2026-11-26-nhl-a137bd91ff": 0.1339,
+   "usau-2026-11-26-nhl-a9929582eb": 0.4141,
+   "usau-2026-11-26-nhl-c05b73772b": 0.4365,
+   "usau-2026-11-26-nhl-f6655e6085": 0.277,
+   "usau-2026-11-26-nhl-f753db8741": 0.1366
   },
   "moves": {
-   "n": 769,
-   "tab": 366,
-   "us": 173,
-   "none": 230,
-   "avgT": 0.696,
-   "avgU": 0.239
+   "n": 786,
+   "tab": 379,
+   "us": 174,
+   "none": 233,
+   "avgT": 0.701,
+   "avgU": 0.237
   },
   "runs": {
-   "checks": 865,
-   "total": 3607091,
-   "full": 377,
-   "pre": 485,
-   "day": 93076,
+   "checks": 874,
+   "total": 3661578,
+   "full": 380,
+   "pre": 491,
+   "day": 128318,
    "since": "2026-10-11T21:19:42Z",
-   "to": "2026-11-25T21:52:08Z",
+   "to": "2026-11-26T09:49:22Z",
    "recent": [
+    {
+     "t": "2026-11-26T04:44:51Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 270,
+     "books": 5,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-26T03:42:00Z",
+     "type": "pregame",
+     "games": 3,
+     "prices": 268,
+     "books": 5,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-26T02:44:00Z",
+     "type": "pregame",
+     "games": 5,
+     "prices": 368,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-26T01:45:00Z",
+     "type": "pregame",
+     "games": 10,
+     "prices": 812,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-26T01:26:00Z",
+     "type": "full",
+     "games": 129,
+     "prices": 8260,
+     "books": 7,
+     "sent": 6,
+     "kept": 11
+    },
+    {
+     "t": "2026-11-26T00:47:44Z",
+     "type": "pregame",
+     "games": 14,
+     "prices": 1100,
+     "books": 6,
+     "sent": 0,
+     "kept": 0
+    },
+    {
+     "t": "2026-11-25T23:26:00Z",
+     "type": "full",
+     "games": 161,
+     "prices": 29457,
+     "books": 7,
+     "sent": 15,
+     "kept": 9
+    },
+    {
+     "t": "2026-11-25T22:42:00Z",
+     "type": "pregame",
+     "games": 27,
+     "prices": 2148,
+     "books": 8,
+     "sent": 2,
+     "kept": 2
+    },
     {
      "t": "2026-11-25T21:43:00Z",
      "type": "pregame",
@@ -38093,85 +38211,13 @@
      "kept": 0
     },
     {
-     "t": "2026-11-25T20:43:07Z",
-     "type": "pregame",
-     "games": 12,
-     "prices": 1180,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T19:43:30Z",
-     "type": "pregame",
-     "games": 9,
-     "prices": 740,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T19:26:00Z",
+     "t": "2026-11-25T21:26:00Z",
      "type": "full",
-     "games": 170,
-     "prices": 28787,
+     "games": 165,
+     "prices": 11804,
      "books": 7,
-     "sent": 16,
-     "kept": 4
-    },
-    {
-     "t": "2026-11-25T18:43:14Z",
-     "type": "pregame",
-     "games": 11,
-     "prices": 932,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T17:43:00Z",
-     "type": "pregame",
-     "games": 11,
-     "prices": 982,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T17:27:00Z",
-     "type": "",
-     "games": 180,
-     "prices": 12988,
-     "books": 5,
-     "sent": 18,
-     "kept": 11
-    },
-    {
-     "t": "2026-11-25T16:43:00Z",
-     "type": "pregame",
-     "games": 7,
-     "prices": 680,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T15:44:00Z",
-     "type": "pregame",
-     "games": 5,
-     "prices": 436,
-     "books": 7,
-     "sent": 0,
-     "kept": 0
-    },
-    {
-     "t": "2026-11-25T14:41:02Z",
-     "type": "pregame",
-     "games": 3,
-     "prices": 246,
-     "books": 6,
-     "sent": 0,
-     "kept": 0
+     "sent": 11,
+     "kept": 7
     }
    ]
   }
